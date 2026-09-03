@@ -11,29 +11,31 @@ produces it. Assumes the sheet in `character-sheet.md`.
 
 | Roll | Total | Derivation |
 |---|---|---|
+| **Initiative, casting** | **+2 + stress die** | Qik +1 − Encumbrance 2 + Fast Caster 3. *Spells take no weapon Initiative modifier, so casting is his **faster** action* |
 | **Initiative, sword** | **+1 + stress die** | Qik +1 + sword Init +2 − Encumbrance 2 |
-| **Initiative, casting** | **−1 + stress die** | Qik +1 − Encumbrance 2. *Spells take no weapon Initiative modifier* |
 | **Attack** | **+13 + stress die** | Dex +2 + Single Weapon 7 + sword Atk +4 |
 | **Defense** | **+12 + stress die** | Qik +1 + Single Weapon 7 + sword Dfn +1 + shield Dfn +3 |
 | **Damage** | **+7 + Attack Advantage** | Str +1 + sword Dam +6 |
-| **Soak** | **11**, flat — no die | Sta +2 + chain mail 9 |
-| **Concentration** | **+5 + stress die** | Sta +2 + Concentration 3 |
+| **Soak** | **14**, flat — no die | Sta +2 + chain mail 9 + Tough 3 |
+| **Concentration** | **+4 + stress die** | Sta +2 + Concentration 2 |
+| **Fast-cast speed** | **+4 + stress die** | Qik +1 + Finesse 0 + Fast Caster 3, against the opponent's Initiative Total |
 | **Treating a wounded man** | **+3** to his Recovery Total | Chirurgy 3, on top of any spell |
 | **Movement** | **9 paces walking**, 18 hurrying, 36 running | 10 + Qik 1 − Encumbrance 2 |
 | Mounted | **+3 to Attack and Defense** → **+16 / +15** | Ride 3, capped at +3 |
 | Exertion | **+7**, costs one Fatigue level | Single Weapon 5 +2 Puissant |
 
-**His four spells, and what they cost him in the field:**
+**His six spells, and what each costs him in the field:**
 
 | Spell | Level | Casting Total | Result |
 |---|---:|---:|---|
+| *Eyes of the Cat* | 5 | 18 + die | Free |
 | *Bind Wound* | 10 | 28 + die | Free |
+| *Endurance of the Berserkers* | 15 | 15 + die | Free, with nothing to spare |
 | *Purification of the Festering Wounds* | 20 | 28 + die | Free |
-| **The Champion's Hour** | **45** | **40 + die** | **Short by 5 — casts, and costs a Fatigue level** |
-| **Blessing of the Steadfast Champion** (Ritual) | **45** | 47 + stress die *(at the covenant)* | Free, but nine pawns and two hours |
+| **Hardened Flesh of the Housecarl** | **25** | **18 + die** | **Short by 7 — casts, and costs a Fatigue level** |
+| **Blessing of the Steadfast Champion** (Ritual) | **45** | 46 + stress die *(at the covenant)* | Free, but nine pawns and two hours |
 
-Cast at the covenant out of harness and add **+5** — which takes *The Champion's Hour* to 45 and
-makes it free.
+Cast at the covenant out of harness and add **+5** to every line — Encumbrance 0 and a +3 aura.
 
 **Wounds, Size +1:** Light 1–6 (−1) · Medium 7–12 (−3) · Heavy 13–18 (−5) · Incapacitating 19–24 · Dead 25+
 **Fatigue:** Fresh 0 · Winded 0 · Weary −1 · Tired −3 · Dazed −5 · Unconscious
@@ -43,50 +45,57 @@ makes it free.
 ## The action economy
 
 > "It takes approximately one combat round to cast a spell, unless it is fast-cast. Thus, a magus
-> cannot cast more than one normal spell in a single round."
+> cannot cast more than one normal spell in a single round, but may also cast a fast-cast spell."
 
-One action a round: attack, cast, or disengage.
+One action a round: attack, cast, or disengage — **plus** a fast-cast if he wants one.
 
-**Fast-casting is not a tool he owns.** It requires Quickness + Finesse against an Ease Factor
-equal to the opponent's Initiative Total, and he has no Finesse and no Fast Caster. Do not plan
-around it.
+**Casting is his faster action.** Spells carry no weapon Initiative modifier, and Fast Caster's +3
+more than covers the longsword's +2, so he acts at +2 when casting against +1 when swinging. If
+round one is going to be *Hardened Flesh*, he gets there sooner than if he drew.
 
-**His casting Initiative is −1, two worse than his sword.** He acts late in any round he casts,
-which is one more reason to cast before contact rather than during.
+**Fast-casting is thin but real.** Fast-cast spells are Spontaneous unless mastered, at −10 to the
+Casting Score and +2 botch dice. His best is a fatiguing Spontaneous Creo Corpus effect:
+(40 − 10 + die) ÷ 2, so roughly **level 17** on an average die. Enough to improvise a heal or a
+shove in an emergency; not a plan.
 
 ---
 
 ## Stage 1 — Before the season: the Blessing
 
-*Blessing of the Steadfast Champion*, CrCo 45 Ritual. Cast at the covenant, out of harness, in the
-aura: Casting Score 45 + Artes Liberales 1 + Philosophiae 1 = **47 + a stress die** against level
-45 — free unless he botches. Nine pawns of Creo or Corpus vis, and two and a quarter hours of
-ceremony (fifteen minutes per magnitude).
+*Blessing of the Steadfast Champion*, CrCo 45 Ritual, at the covenant out of harness:
+Casting Score 45 + Artes Liberales 1 = **46 + a stress die** against level 45 — free unless he
+botches. Nine pawns of Creo or Corpus vis, and two and a quarter hours of ceremony.
 
-**One physical Characteristic, up one point, to no more than +2, permanently.** This is not a
-per-battle spell. It is a season's decision, and the man who receives it carries the point for the
-rest of his life.
+**One physical Characteristic, up one point, to no more than +2, permanently.** Not a per-battle
+spell — a season's decision, and the man carries it for life.
 
-**He should cast it on himself first.** Range is Touch, so it has to beat his own Magic Resistance
-of 17 — cast it before he performs the Parma Magica ritual, and raise the Parma afterwards. He
-takes no Warping from an effect he cast himself. Raising his own **Strength from +1 to +2** gives
-him **+1 damage, +1 Casting Score and +1 Initiative in a single stroke**, because Encumbrance is
-Burden minus Strength and his Burden of 3 would then cost him only 1.
+| He chooses | The man gets, for life |
+|---|---|
+| **Dexterity** | +1 Attack — and since Attack Advantage feeds the Damage Total, +1 damage on every blow that lands |
+| **Strength** | +1 Damage, and one point less Encumbrance |
+| **Quickness** | +1 Defense and +1 Initiative |
+| **Stamina** | +1 Soak, +1 to Fatigue rolls |
+
+**On himself first.** Touch range must beat his own Magic Resistance of 17, so he casts it before
+performing the Parma Magica ritual and raises the Parma afterwards; a magus takes no Warping from
+an effect he cast himself. **Strength +1 → +2** gives him +1 damage, +1 Casting Score and +1
+Initiative at a stroke, because Encumbrance is Burden minus Strength.
+
+At ninth magnitude it costs its recipient one Warping Point, unless he invents a version cut to
+fit one named man — which the rules allow, and which is a season's work each.
 
 ## Stage 2 — The hour before contact
 
-1. **Cast *The Champion's Hour* here if you can.** At the covenant out of harness it is free
-   (45 against 45); in the field in harness it costs a Fatigue level. It lasts only twenty combat
-   rounds, so this only works if the fight is imminent and expected.
-2. **Perform Parma Magica.** Two minutes, lasts to the next sunrise or sunset. Magic Resistance 17
+1. **Perform Parma Magica.** Two minutes; lasts to the next sunrise or sunset. Magic Resistance 17
    against Corpus, 5 against everything else.
-3. **Arm.** Encumbrance 2 costs 2 Casting Score and 2 Initiative and **nothing on Attack or
-   Defense**. There is never a reason to fight this character out of armour.
-4. **Take the group, or hand it over.** A trained group coordinates fighters equal to the leader's
-   Leadership, with a bonus capped at three times it. At Leadership 4 Aldric can lead four men for
-   up to +12 — and with the Gentle Gift they follow him without the −3 that dogs every other magus
-   in the Order.
-5. **Choose the champion.** The spell reaches one man.
+2. **Arm.** Encumbrance 2 costs 2 Casting Score and 2 Initiative and **nothing on Attack or
+   Defense**: *"in combat, Attack and Defense are not [penalised], as long as the Encumbrance is
+   largely due to weapons and armor."* There is never a reason to fight this character out of armour.
+3. **Set the group and name the vanguard** — neither can be changed once engaged. At Leadership 4
+   he coordinates four men, and the other three contribute a bonus capped at three times his
+   Leadership, so **up to +12 to Attack or Defense**, switchable each round.
+4. **Mount if the ground allows.** Ride 3 is +3 to Attack *and* Defense, free, all fight. His Gift
+   does not trouble the horse — that is what Inoffensive to Animals bought.
 
 ---
 
@@ -94,32 +103,32 @@ Burden minus Strength and his Burden of 3 would then cost him only 1.
 
 Take the first line that applies.
 
-### 1. Is this the moment for *The Champion's Hour*? → cast it on the vanguard
+### 1. Is the line about to be hit? → *Hardened Flesh of the Housecarl*, **on the vanguard**
 
-CrCo 45, Touch, Diameter — twenty combat rounds, so it covers the whole melee. One physical
-Characteristic up a point, to no more than +1, chosen as he casts:
+MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak. Fifth magnitude, so nobody Warps.
+Casting Total 18 against 25: it always takes effect and always costs **one Fatigue level**. Four
+pawns of Corpus vis makes it free, at four extra botch dice.
 
-| Choice | Worth |
-|---|---|
-| **Dexterity** | +1 Attack. On a champion with Attack +9 against Defense +8 and Soak 7, that lifts him from hitting 54.8% of the time to **62.5%**, and from 2.22 to **2.77 damage a round** |
-| **Strength** | +1 Damage on every blow that lands |
-| **Quickness** | +1 Defense and +1 Initiative |
-| **Stamina** | +1 Soak, and better against fatigue |
+**Cast it on the vanguard, not on whoever looks frightened.** A group's Soak *is* the vanguard's
+Soak — *"the defending group's Soak (which is equal to the vanguard's Soak)"* — and an attacking
+group inflicts its damage once per member. So one casting shields the whole line:
 
-Costs a Fatigue level in the field, and the recipient takes a Warping Point unless the version he
-owns was cut to fit that named man. It is a deliberate act, not a routine.
+| Vanguard's Soak | Wounds the group takes per round | Damage getting through |
+|---|---:|---:|
+| 7, unbuffed | 1.81 | 8.87 |
+| 10, with *Hardened Flesh* | **0.94** | **4.37** |
 
-### 2. Is someone down? → *Bind Wound*, and his hands
+Over a five-round melee that is **about four and a half wounds prevented across a group of four**,
+for one casting and one Fatigue level. Nothing else he does comes close.
 
-*Bind Wound* (CrCo 10, Touch, Sun) is free to cast and stops a wound worsening — the right spell
-for a man who has to be dragged out of the line. It also blocks natural healing while it runs, so
-end it once he is safe.
+On himself it is nearly wasted: Soak 14 → 17 moves his own chance of being wounded from 3.8% to
+2.3%. Tough already did that job.
 
-**His real medical work is after the fighting.** *Purification of the Festering Wounds* gives +9
-to Recovery rolls and Chirurgy 3 adds another +3, and they stack, because the Recovery Total is
-*Stamina + the medic's Chirurgy or Medicine + magical aid + a stress die*. A grog with Stamina +1
-recovering from a Medium Wound rolls **1 + 3 + 9 = +13 before the die**. That is the difference
-between a man who comes home and one who does not, and it is why he was brought.
+### 2. Is someone down? → *Bind Wound*
+
+CrCo 10, Touch, Sun. Casting Total 28 — free. Wounds cannot worsen, which is what a man needs
+while he is dragged out of the line. It blocks natural healing while it runs, so end it once he is
+safe.
 
 ### 3. Otherwise: **swing the sword.**
 
@@ -130,11 +139,18 @@ Against an armoured soldier — Size 0, Defense +8, Soak 7:
 | On foot, Attack +13 | **82%** of attacks |
 | Mounted, Attack +16 | **92%** |
 | Exerting, Attack +20 | **96%** |
-| Mounted and exerting, Attack +23 | **98%** |
+| Mounted and exerting, Attack +23 | **97.5%** |
 
-**Mounted is the cheapest thing on this page.** Ride 3 gives +3 to Attack *and* Defense — as much
-as spending a Fatigue level, for free, all fight. He has a horse and the Gentle Gift to keep it
-calm. Use it.
+### 4. When it turns: *Endurance of the Berserkers* — and then stop casting
+
+ReCo 15, Personal, Concentration. Casting Total 15 against 15 — free, with nothing to spare, so a
+botch is the only thing that stops it. His body acts as unwounded and unfatigued while he
+concentrates.
+
+Two costs. **It does not stop the wounds** — *"A character under the influence of this spell does
+risk worsening wounds, but he may not notice"* — and the Fatigue falls due the moment it ends.
+And **it shuts down his magic**: casting while maintaining a Concentration spell is Ease Factor 15
+against his 4 + die, which is 5.9%.
 
 ### Reactions
 
@@ -146,101 +162,99 @@ Defense **12 → 19**.
 
 ## Target numbers
 
-Concentration is **5 + a stress die**. Maintenance rows have the printed Ease Factor reduced by
+Concentration is **4 + a stress die**. Maintenance rows have the printed Ease Factor reduced by
 three; the second group is used as printed.
 
 | Situation | Ease Factor | Needs | Chance |
 |---|---:|---:|---:|
 | Maintaining, standing still or walking | −3 / 0 | automatic | 100% |
-| Maintaining, jostled or running | 6 | 1+ | **90%** |
-| Maintaining, dodging or knocked down | 9 | 4+ | **70%** |
-| Maintaining, damaged this round | 12 | 7+ | **38%** |
+| Maintaining, jostled or running | 6 | 2+ | **90%** |
+| Maintaining, dodging or knocked down | 9 | 5+ | **59%** |
+| Maintaining, damaged this round | 12 | 8+ | **28%** |
 | Casting, walking | 3 | automatic | 100% |
-| Casting, jostled or running | 9 | 4+ | **70%** |
-| Casting, damaged this round | 15 | 10+ | **6.9%** |
+| Casting, jostled or running | 9 | 5+ | **59%** |
+| Casting while maintaining another spell | 15 | 11+ | **5.9%** |
+| Casting, damaged this round | 15 | 11+ | **5.9%** |
 
 A failed concentration roll fails the spell *and* adds a botch die to the casting roll.
 
-**Casting inside a melee is his weak point.** *The Champion's Hour* is 40 + die against 45 *and* a
+**Casting inside a melee is his weak point.** *Hardened Flesh* is 18 + die against 25 *and* a
 concentration roll at Ease Factor 9 if he is being jostled. Cast it as the enemy closes, not after
 they arrive — and never in the round after he has been hit.
 
 **Stress die reference** — a 1 rerolls and doubles, a 0 is zero and may botch:
 
-| Need | 1+ | 4+ | 7+ | 10+ |
-|---|---:|---:|---:|---:|
-| Chance | 90% | 70% | 38% | 6.9% |
+| Need | 1+ | 2+ | 5+ | 8+ | 11+ |
+|---|---:|---:|---:|---:|---:|
+| Chance | 90% | 90% | 59% | 28% | 5.9% |
 
 ---
 
 ## Traps
 
-**He is softer than he looks.** Soak 11 against a man-at-arms means a wound on **6.1%** of
-attacks, against 3.8% if he had taken Tough instead of the Gentle Gift. A botched Defense roll —
-total set to zero, Attack Advantage equal to the attacker's whole total — is about one attack in a
-hundred and is very nearly the only way an ordinary soldier kills him. That is the argument for
-shield grogs and for spending Fatigue early rather than late.
+**Nothing he owns is offensive.** No attack spell, no Penetration Ability, Perdo halved to
+uselessness. Against anything with Magic Resistance his magic does not reach at all; he fights it
+with a sword like any other soldier.
 
-**Nothing he owns is offensive.** No attack spell, no Penetration Ability, and Perdo halved to
-uselessness. Against anything with Magic Resistance his magic simply does not reach; he fights it
-with a sword like anyone else. Against a creature with Might, he is a good soldier and nothing more.
+**The Blessing Warps whoever receives it** — ninth magnitude — unless the version was designed for
+that named man. Casting it on a different grog every season would tell in a few years.
 
-**Both Champion spells are ninth magnitude.** Anyone he casts them on takes a Warping Point unless
-the version was designed for that particular man. Casting *The Champion's Hour* on a different
-grog every week would Warp the whole turb inside a year.
+**Vis in a fight is a poor trade.** Four pawns would make *Hardened Flesh* free instead of costing
+a Fatigue level, at **four extra botch dice**. Worth it before contact, rarely worth it in the press.
 
-**Vis in a fight is a poor trade.** Three pawns would lift *The Champion's Hour* from 40 to 46 and
-save the Fatigue level, at the cost of **three extra botch dice**. Worth it before contact, rarely
-worth it in the press.
+**The Gift still costs him −3** on every social interaction with mundanes. It does *not* touch the
+trained-group rules, which are score-based with no roll, so his command in the line is unaffected;
+it bites when he is persuading, rallying or recruiting.
+
+**A botched Defense roll** sets the total to zero and hands the attacker an Attack Advantage equal
+to their whole Attack Total. At Soak 14 an ordinary soldier wounds him on only 3.8% of attacks, so
+this is very nearly the only way one kills him.
 
 **Wound penalties never apply to Soak** — *"Soak is not an action"* — so a badly wounded Aldric is
-as hard to hurt as a fresh one. What collapses is his Attack, his Defense and his casting.
+as hard to hurt as a fresh one. His Attack, Defense and casting are what collapse.
 
 ---
 
 ## Worked example — a landing on the Livonian shore
 
 **The warband.** Aldric, and four Danish spearmen he leads himself: Attack +9, Defense +8,
-Damage +6, Soak 7, Single Weapon 4, Size 0. He is leader; the vanguard is Sigurd. Leadership 4
-lets him coordinate all four, and the other three contribute 4 + 4 + 4 = 12, capped at 3 × 4 = 12,
-so **+12 to Attack or Defense each round**.
+Damage +6, Soak 7, Single Weapon 4, Size 0. The vanguard is Sigurd. Leadership 4 lets him
+coordinate all four, and the other three contribute 4 + 4 + 4 = 12, capped at 3 × 4 = 12, so
+**+12 to Attack or Defense each round**.
 
 **The enemy.** Nine tribal warriors in two untrained groups. Attack +7, Defense +6, Damage +5,
 Soak 3, Initiative +2.
 
-**Nothing is running.** There was no warning, so no Champion's Hour was cast at leisure.
-
 **Initiative**, rolled once and standing for the whole fight. Aldric means to cast, so he uses his
-casting Initiative of −1 and rolls 6 → **5**. His group is +2 and rolls 4 → **6**. The two enemy
+casting Initiative of +2 and rolls 6 → **8**. His group is +2 and rolls 4 → **6**. The two enemy
 groups roll 7 and 2 → **9** and **4**.
 
-Order: Enemy A 9 · Aldric's group 6 · Aldric 5 · Enemy B 4.
+Order: Enemy A 9 · **Aldric 8** · Aldric's group 6 · Enemy B 4.
 
-**Round 1.** Enemy A hits the line; Sigurd's group puts its +12 into Defense and holds. Aldric, on
-5, casts *The Champion's Hour* on Sigurd and chooses **Strength**: Casting Total 40 against 45,
-short by 5, so it takes effect and he drops to Winded — no penalty at that level. He is jostled as
-he casts, so a Concentration roll at Ease Factor 9: 5 + 6 = 11, which holds. Sigurd's damage rises
-from +6 to +7 for twenty rounds, and a group inflicts its damage once per member — four blows a
-round, each a point harder.
+**Round 1.** Enemy A hits the line; Sigurd's group will put its +12 into Defense. Aldric, acting
+before his own men because he is casting, puts *Hardened Flesh of the Housecarl* on Sigurd:
+Casting Total 18 against 25, short by 7, so it takes effect and he drops to Winded — no penalty at
+that level. He is not yet engaged, so no concentration roll. **The group's Soak is now 10 for the
+next twenty rounds**, and every blow that lands on any of the four does three less damage.
 
 **Round 2.** Aldric draws. Attack 13, rolls 5 → 18, against a warrior's Defense 6 + 3 = 9. Attack
 Advantage 9, Damage 7 + 9 = 16, less Soak 3 = **13 over**. At Size 0 the bands run Light 1–5,
 Medium 6–10, Heavy 11–15 — a **Heavy Wound**, and the man is at −5.
 
-**Round 3.** Three warriors reach him. Two miss. The third rolls 8 for Attack 15 against Defense
-12 + 2 = 14. Attack Advantage 1, Damage 5 + 1 = 6 against Soak 11 — nothing.
+**Round 3.** Three warriors reach him. Two miss. The third rolls 8 for Attack 15 against his
+Defense 12 + 2 = 14. Attack Advantage 1, Damage 5 + 1 = 6 against Soak 14 — nothing.
 
 **Round 4.** A warrior rolls a 1, exploding to 14, for Attack 21. Aldric rolls 0, checks his botch
-die, gets a 6 and is safe, so Defense 12. Attack Advantage 9, Damage 5 + 9 = 14 against Soak 11 =
-**3 over — a Light Wound**, −1 to everything. This is what Soak 11 means: he does get hit.
+die, gets a 6 and is safe, so Defense 12. Attack Advantage 9, Damage 5 + 9 = 14 against Soak 14 —
+**still nothing.** That is what Tough buys.
 
-**Round 5.** He declares Exertion, spending a second Fatigue level to Weary, for Attack
-13 + 7 − 1 wound − 1 fatigue = **18 + die**. He rolls 6 → 24 against Defense 10. Attack Advantage
-14, Damage 21, less Soak 3 = **18 over — Incapacitating.** The enemy line breaks.
+**Round 5.** He declares Exertion, spending a second Fatigue level to Weary (−1), for Attack
+13 + 7 − 1 = **19 + die**. He rolls 6 → 25 against Defense 10. Attack Advantage 15, Damage 22,
+less Soak 3 = **19 over — Incapacitating.** The enemy line breaks.
 
 **Afterwards.** *Purification of the Festering Wounds* over each wounded man — 28 against level
 20, free and automatic — and then his hands. Each of them recovers on **Stamina + Chirurgy 3 +
-spell 9 + a stress die**.
+spell 9 + a stress die**: +12 before the die for a man with Stamina 0. That is why he was brought.
 
 Aldric cast one spell during the fighting, spent three rounds with a sword in his hand, and did
-his real work once it stopped. That is the shape of a good engagement for this character.
+his real work before it started and after it stopped.

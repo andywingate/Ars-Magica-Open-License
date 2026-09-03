@@ -29,7 +29,9 @@
 | The Gift | — | Free | Required for Hermetic magic |
 | Hermetic Magus | Social Status | Free | Member of the Order |
 | Puissant Creo | Hermetic, Minor | Free | House Mercere's gift. **+3** to Creo in every total that uses it |
-| **Gentle Gift** | Hermetic, **Major** | **3** | No social penalty with people or animals |
+| **Inoffensive to Animals** | General and Hermetic, Minor | 1 | His Gift does not disturb beasts |
+| **Tough** | General, Minor | 1 | +3 to his Soak score |
+| **Fast Caster** | Hermetic, Minor | 1 | +3 Initiative when casting in combat; +3 to fast-casting speed |
 | Affinity with Creo | Hermetic, Minor | 1 | Experience put into Creo is increased by half |
 | Minor Magical Focus: the body's Characteristics | Hermetic, Minor | 1 | Add the lower of Technique and Form a second time |
 | Warrior | General, Minor | 1 | May learn Martial Abilities; +50 experience points in them |
@@ -49,18 +51,31 @@
 
 Ten points each way. One Hermetic Flaw, one Story Flaw, two Personality Flaws of which one is Major.
 
-### The two Virtues that define him
+### On The Gift, the horse, and the men
 
-**Gentle Gift** is three of his ten points and it buys the character rather than a bonus. An
-ordinary magus takes **−3 to every social interaction with mundanes** and is treated as though he
-had a standing reputation for dishonesty and unreliability. A Gifted man cannot lead a shield wall
-under that penalty — his own grogs would not follow him, and his horse would not stand still.
-Aldric can. That is also precisely the work House Mercere exists to do, which is why a *Gifted*
-Mercere with this Virtue is a prize rather than a curiosity.
+Ten Minor Virtues, no Major. The three that answer the awkward questions about a Gifted captain:
 
-The cost is **Tough**, which would have put his Soak at 14 instead of 11. If the troupe would
-rather have the armour than the authority, swapping Gentle Gift for Tough plus two Minor Virtues
-is a clean one-line change.
+**Inoffensive to Animals** — *Minor, General and Hermetic* — costs one point and settles the
+horse. *"The character's Gift does not bother beings of this sort, although it still has the
+normal effects on others."* He can ride, and his mount will stand while he casts.
+
+**It does not settle the men.** The rules are explicit that there is no cheap fix for people:
+*"Inoffensive to Mundane Humans is not available as a Minor Virtue; take Gentle Gift instead."*
+So Aldric still carries the ordinary Gift's **−3 to social interaction rolls** with mundanes, and
+is met with the instinctive distrust every magus earns.
+
+**That penalty does less damage to this character than it looks**, because the combat rules he
+actually leads under are score-based, not roll-based. A trained group *"can coordinate a number of
+fighters equal to the leader's Leadership score"*, with a bonus capped at *"three times the group
+leader's Leadership"* — no roll anywhere. At Leadership 4 he commands four men for up to +12 in
+the line whatever his Gift does to them. The −3 bites when he is persuading, rallying, negotiating
+or recruiting, which is a story problem rather than a battlefield one, and Presence +1 and
+Communication +1 take some of the sting out.
+
+**Gentle Gift is the alternative**, at three points instead of one. It removes the penalty
+entirely and makes him the rare Gifted Mercere who can do a Redcap's job. It costs Tough and Fast
+Caster — Soak 11 instead of 14, and casting Initiative −1 instead of +2. That is the single
+biggest lever left on this sheet, and it is a troupe decision rather than a rules one.
 
 **Minor Magical Focus: the body's Characteristics.** Deliberately narrow — one guideline family,
 the Creo Corpus ladder that raises Strength, Stamina, Dexterity or Quickness, plus any equivalent
@@ -86,8 +101,9 @@ contributes Size only.
 | Quickness | **+1** | 1 |
 | | | **13** |
 
-No dump statistics. Presence and Communication are positive because he gives orders for a living,
-and with the Gentle Gift nothing is working against them.
+No dump statistics. Presence and Communication are positive because he gives orders for a living
+and because his Gift is already working against him by three points — a captain who dumped them
+would be at −4 before he opened his mouth.
 
 ---
 
@@ -299,8 +315,24 @@ does nothing else.
 and both are far beyond him. That is the honest consequence of a narrow focus and it is the shape
 of the character: he does not blanket a warband, he chooses a man and puts his hands on him.
 
-**What the point buys**, chosen as he casts: Dexterity is +1 Attack · Strength is +1 Damage on
-every blow that lands · Quickness is +1 Defense and +1 Initiative · Stamina is +1 Soak.
+**What the point buys**, chosen as he casts:
+
+| Characteristic | What it gives the man |
+|---|---|
+| **Dexterity** | +1 Attack — and, because Attack Advantage feeds the Damage Total, +1 damage on every blow that lands |
+| **Strength** | +1 Damage, and one less point of Encumbrance |
+| **Quickness** | +1 Defense and +1 Initiative |
+| **Stamina** | **+1 Soak**, +1 to Fatigue rolls, and for a magus +1 to every Casting Score |
+
+**So he does have a Soak buff, and it is the best kind.** Stamina adds directly to Soak, so
+*The Champion's Hour* on Stamina is a soak spell that happens to sit inside his focus. More to the
+point, *Blessing of the Steadfast Champion* raises Stamina **permanently, to no more than +2** —
+a grog he blesses carries that +1 Soak for the rest of his life, along with better endurance and
+a better chance of surviving his wounds.
+
+A Muto Corpus buff like *Gift of the Bear's Fortitude* gives +3 Soak until sunset. Aldric gives +1
+Soak until the man dies of old age. Over a campaign season that is the better trade, and it costs
+him nothing outside his specialism.
 
 **Each recipient of *The Champion's Hour* takes a Warping Point**, because level 45 is ninth
 magnitude and *"any Hermetic spell of sixth magnitude or higher"* is a powerful supernatural
@@ -334,18 +366,20 @@ the amount by which Burden exceeds Strength.
 | Score | Total | Built from |
 |---|---:|---|
 | **Initiative, sword** | **+1** | Qik +1 + weapon Init +2 − Encumbrance 2 |
-| **Initiative, casting** | **−1** | Qik +1 − Encumbrance 2. *Spells take no weapon Initiative modifier* |
+| **Initiative, casting** | **+2** | Qik +1 − Encumbrance 2 + Fast Caster 3. *Spells take no weapon Initiative modifier, so Fast Caster more than replaces it — casting is his faster action* |
 | **Attack** | **+13** | Dex +2 + Single Weapon 7 + sword Atk +4 |
 | **Defense** | **+12** | Qik +1 + Single Weapon 7 + sword Dfn +1 + shield Dfn +3 |
 | **Damage** | **+7** | Str +1 + sword Dam +6, plus the Attack Advantage |
-| **Soak** | **+11** | Sta +2 + chain mail 9 |
+| **Soak** | **+14** | Sta +2 + chain mail 9 + Tough 3 |
 | Mounted | **+3 to Attack and Defense** → **+16 / +15** | Ride 3, capped at +3 |
 | Exertion | **+7**, one Fatigue level | Single Weapon 5 +2 Puissant — Puissant adds to the Ability's value whenever it is used |
 
 Add a stress die to Initiative, Attack and Defense. **Soak takes no die in melee.**
 
-Soak 11 means a man-at-arms wounds him on **6.1%** of attacks; Tough would make it 3.8%. He is a
-good fighter in adequate armour, not an invulnerable one.
+At Soak 14 a man-at-arms with a longsword wounds him on **3.8%** of attacks. Without Tough it
+would be 6.1%. He is genuinely hard to hurt with ordinary steel, and a botched Defense roll — the
+total set to zero, handing over an Attack Advantage equal to the attacker's whole total — is very
+nearly the only way an ordinary soldier kills him.
 
 ## Wounds and Fatigue
 

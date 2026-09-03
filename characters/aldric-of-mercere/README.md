@@ -1,75 +1,77 @@
 # Aldric of Mercere
 
-*The Warband's Aura — an enhancement battle mage for Ars Magica 5th Edition*
+*The Champion's Gift — a Gifted Mercere warrior-magus for the Baltic*
+*Ars Magica 5th Edition*
 
 ---
 
 ## Concept
 
-Aldric is a large, battle-hardened Gifted magus of House Mercere who has fused Hermetic
-discipline with the life of a soldier. Where destructive magi hurl fire and ruin, Aldric walks
-*into* the fight alongside his companions — and, more to the point, he makes **them** deadlier.
-Before an engagement he moves down the line like a captain before the charge, touching each
-fighter, suffusing their flesh with golden warmth, tuning muscle and reflex to a keener pitch.
-In the melee their blades seem guided; their strikes find gaps in armour that should not be there.
+Aldric is a big, weather-beaten Dane, a Gifted magus of House Mercere who was a fighting man
+before he was ever a wizard. He does not throw fire. He takes one man — the vanguard of the
+shield wall, a knight sworn to the crusade, the boy who will not survive his first battle — puts
+his hands on him, and makes him *better*. Not braver, not luckier. Physically better: quicker
+hands, longer reach in the wrist, a body that will not tire. For an hour, or, at a price in vis
+and a season's work, for the rest of his life.
 
-He is no bystander in that line. He fights in chain mail with longsword and shield, his own body
-wrapped in hardened flesh and inexhaustible endurance. He is the rallying point — the last to
-fall, and the first to give his warriors the edge they need.
+He is no bystander when it starts. He fights in chain mail with sword and shield, and his men
+follow him gladly — which for a Gifted magus is nearly unheard of, and is the whole reason House
+Mercere values him. Where other magi unsettle everyone they meet, Aldric's Gift is quiet. He can
+ride, bargain, and give orders like any other captain, and the Redcaps who work the Baltic routes
+have noticed.
 
-His magic is **Creo Corpus** — perfecting the human body — backed by **Muto Corpus** for
-temporary enhancement. He can raise a warrior's natural Dexterity to a permanently higher peak,
-a rare and costly gift, or invest a whole warband with sharper coordination before a battle. His
-limits define him as much as his gifts: he cannot destroy or harm through magic, and his
-compassion is a standing tactical liability.
+His limits define him as sharply as his gifts. He cannot destroy anything by magic — Perdo is
+alien to him and every Perdo total is halved. His magic reaches one man at a time, not a warband.
+And he has never yet accepted that a man under his command might have to be left behind.
 
 ## Appearance and Background
 
-Aldric stands a head taller than most men, broad-shouldered, with the weathered hands of someone
-who spent as much time at the training post as at the desk. Dark hair cut short in the Norman
-fashion. The Gift gives his amber eyes an unsettling quality; people near him feel vaguely on
-edge, as though something important has been left unsaid.
+He stands a head taller than most men, broad through the shoulder, with the scarred forearms of
+someone who learned the sword before he learned his letters. Fair hair worn short. His eyes are a
+pale, unsettling amber — the only outward sign of what he is, and people who meet him rarely place
+the feeling.
 
-He was born to a minor Norman noble family. At ten a passing magus of Mercere recognised the Gift
-in the boy and took him as an apprentice, to his family's considerable relief — his Gift had been
-troubling the livestock and the servants for months. His parens, a Gifted Redcap named Constance
-of Mercere, was a traveller and a healer, and she shaped his Arts around the body and its
-improvement. Aldric turned that training to a different end: where she mended the sick, he
-fortifies the strong. By his Gauntlet he had won three duels against grog escorts with sword and
-shield, a fact his parens found amusing and slightly concerning.
+Born on Zealand to a minor Danish landholding family, he was put to the sword young and was
+already in a lord's household troop at fourteen, in the season when King Valdemar's ships were
+carrying men east across the Baltic. It was there, at fifteen, that Constance of Mercere found
+him — a travelling maga and a healer, working the trade routes between Lübeck and the Danish
+coast, who recognised a Gift in a boy nobody had thought odd. That is the point: his Gift had
+never made anyone uneasy. Nobody had known.
 
-In the five years since, he has accompanied two military expeditions as a covenant
-representative, lending his magic to the grogs and knights who guarded his sodales. The
-experience settled his identity. He is not a wizard who occasionally fights. He is a warrior who
-happens to be a magus, and who has worked out that the most useful thing he can do in a battle is
-make the men beside him better at it.
+She took him as an apprentice late, and shaped his Arts around the body and its perfection. He
+turned that training somewhere she had not intended: where Constance mended the sick, Aldric
+improves the strong. He came out of his Gauntlet at thirty already knowing the ritual that is his
+life's work, and he has spent the five years since attached to expeditions around the Baltic —
+part magus, part captain, part battlefield surgeon — while House Mercere quietly notes down
+everything he owes it.
 
-What he owes House Mercere for the freedom to do it is a debt nobody has yet named aloud.
-
-His wizard's sigil: a faint warmth, like the first light of morning, suffusing anything his
-magic touches.
+He speaks Norse and the Low German of the Baltic ports, which between them will carry him from
+Bergen to Riga.
 
 ## Contents
 
 | File | What it holds |
 |---|---|
 | **[character-sheet.md](character-sheet.md)** | The full sheet — Virtues and Flaws, Characteristics, Abilities, Arts, casting and laboratory grids for all fifty Technique/Form combinations, spells, combat scores, and the experience audit behind them |
-| **[combat-playbook.md](combat-playbook.md)** | Round by round: what to cast and when, every roll derived from the rule behind it, target numbers and odds, what the buffs are worth in damage, and a worked skirmish |
-| **[tactics-and-optimisation.md](tactics-and-optimisation.md)** | The wider picture: spell-design discipline the concept depends on, combat rules worth knowing, where his experience should go next, and variant builds |
+| **[combat-playbook.md](combat-playbook.md)** | Round by round: what to cast and when, every roll derived from the rule behind it, target numbers and odds, and a worked skirmish |
+| **[tactics-and-optimisation.md](tactics-and-optimisation.md)** | The wider picture: the constraints his magic works under, combat rules worth knowing, where his experience should go next, and variant builds |
 
 ## Quick reference
 
 | | |
 |---|---|
 | House | Mercere (Gifted) |
-| Age | 30 — five years past Gauntlet |
-| Signature Arts | Creo 14+3, Corpus 12, Muto 7 |
-| Magical Focus | Bodily enhancement (Minor) |
-| Best Casting Score | Creo Corpus **41** — in harness, in the field; 46 at the covenant out of armour |
-| Best Lab Total | Creo Corpus **51** |
-| Attack / Defense / Soak | +13 / +12 / +14 |
-| Cannot | Destroy anything by magic — Deficient Perdo halves every total |
+| Age | 35 — apprenticed at 15, Gauntlet at 30, five years a magus |
+| Origin | Zealand, Denmark. Norse and Low German |
+| Arts | Creo 13+3, Corpus 12. Nothing else above 1 |
+| Magical Focus | The body's Characteristics (Minor) |
+| Spells | Four, all learned in apprenticeship: two at **level 45**, two at 20 and 10 |
+| Best Casting Score | Creo Corpus **40** in the field, 45 at the covenant |
+| Best Lab Total | Creo Corpus **49** |
+| Attack / Defense / Soak | +13 / +12 / +11 |
+| Leadership | 4, with the Gentle Gift — no social penalty leading mundane men |
+| Cannot | Attack, ward, or reach anything with Magic Resistance. Affect more than one man per casting |
 
 ---
 
-*Ars Magica 5th Edition. Ars Magica is released under the Ars Magica Open License.*
+*Ars Magica is released under the Ars Magica Open License.*

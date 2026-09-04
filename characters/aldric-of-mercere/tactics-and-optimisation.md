@@ -1,108 +1,89 @@
-# Aldric of Mercere — Tactics and Optimisation
+# Aldric of Mercere — Tactics and Development
 
-How to get the most out of an enhancement battle mage, and where his experience should go next.
-Everything here is core-rules Ars Magica 5th Edition.
-
----
-
-## The one thing to understand about this character
-
-> **Damage Total = Strength + Weapon Damage Modifier + Attack Advantage**
->
-> **Attack Advantage = the attacker's Attack Total − the defender's Defense Total**
-
-**The Attack Advantage rolls straight into damage.** A +1 to Attack is not merely a better
-chance to hit; it is a flat +1 damage on every blow that lands. Buff six grogs and you have
-added six damage a round across the line, on top of turning near-misses into hits.
-
-That is the argument to make when a storyguide balks at the guideline behind *Aura of Martial
-Precision*. Aldric's "+to hit" magic is quietly the most damage-efficient magic in the party,
-and it scales with the size of the warband rather than with his own Arts.
-
-Two things follow:
-
-- **Melee Soak takes no die.** Damage Total minus a flat Soak, with no roll on the defender's
-  side. So Soak buffs are perfectly reliable, unlike attack rolls, and are worth more than they
-  look on paper.
-- **A botched Defense roll sets the Defense Total to zero**, handing the attacker an Attack
-  Advantage equal to their whole Attack Total. That is usually fatal. Anything that keeps allies
-  out of desperate defensive rolls — killing the enemy faster, or soaking the hit that would
-  otherwise force one — is worth more than the arithmetic suggests.
+The constraints his magic works under, the combat rules worth knowing, and where his experience
+should go. Core rules only.
 
 ---
 
-## The battle routine
+## What kind of magus this is
 
-The order matters more than anything else on this page.
+A **specialist with a very short reach**. Two Arts that matter, six spells, and a Ritual he can
+afford to cast two or three times a year. His entire magical contribution is:
 
-1. **At the covenant, out of armour.** Encumbrance 0 and a +3 aura are worth five points on every
-   total. Cast the Moon-duration buffs here: *Aura of Martial Precision* on the turb, *Precision
-   of the Hawk* on the vanguard. They last a month. March out already buffed.
-2. **Cast *Gift of the Bear's Fortitude* on himself, then perform Parma Magica** — in that order.
-   Range: Personal spells skip his own Magic Resistance, but nothing else does, so any Touch-range
-   self-buff has to be cast while his Parma is down.
-3. **Arm.** Encumbrance 2 costs him casting and Initiative but nothing at all on Attack or
-   Defense, so there is never a reason to fight this character unarmoured.
-4. **On contact.** *Aegis of Hardened Flesh* on whoever is about to be hit hardest, and *Hide of
-   the Whole Warband* over the line — Diameter duration, twenty combat rounds, cast as the enemy
-   closes rather than at dawn.
-5. **In the line.** *Endurance of the Berserkers* when he takes his first serious wound. Remember
-   that his wounds keep worsening while he cannot feel them, and the whole Fatigue debt falls due
-   the moment his concentration breaks.
-6. **Afterwards.** *Rally of the Fallen* over the wounded, then *Bind Wound* on anyone who cannot
-   be moved.
+- **One man made permanently better** — a physical Characteristic up a point, for life, at nine
+  pawns of vis and a season's decision.
+- **One man made much harder to kill** for twenty combat rounds, which because of a quirk of the
+  group rules protects everyone standing behind him.
+- **Wounded men who recover**, at +12 to their Recovery Totals between spell and Chirurgy.
 
-Grogs and mundane soldiers have no Magic Resistance at all, so every buff lands on them
-automatically whatever the Penetration. A fellow magus is a different problem — see below.
+That is all. He cannot attack, ward, scry or fly. He has no Penetration Ability, so anything with
+Magic Resistance is outside his reach entirely — against a creature with Might he is a good
+soldier and nothing more.
+
+The other half of him is a competent fighting man with a longsword, a horse, and enough Leadership
+to run four men in the line.
 
 ---
 
-## Spell-design discipline
+## The constraints his magic works under
 
-**Keep everything you cast on other people at level 25 or below.** Level 26 is sixth magnitude,
-which makes a spell a "powerful supernatural effect", and everyone subjected to one takes a
-Warping Point unless they cast it themselves or it was designed for them personally. A buff-mage
-who ignores this Warps his own warband within a couple of campaigning seasons. This single rule
-does more to shape a good enhancement magus than any other.
+**One man at a time.** A Group version of the Blessing is two magnitudes dearer — level 55 against
+a Lab Total of 49 — and a Group version of *Hardened Flesh* is level 35, which is sixth magnitude
+and would Warp everyone it touched. This is the honest consequence of a Minor Focus that covers
+only the body's Characteristics, and it is the shape of the character: he chooses a man and puts
+his hands on him.
 
-There is a slower version of the same trap: anyone under a continuous effect for more than half
-the time gains a Warping Point a year, whatever its level, and *"a character under the effect of
-a different Sun Duration spell from sunrise to sunset every day for a year would gain a Warping
-Point"*. Permanent buffing has a price even when the spells are small.
+**Ninth magnitude Warps whoever receives the Blessing.** *"Any Hermetic spell of sixth magnitude or
+higher"* is a powerful supernatural effect, and level 45 is ninth. The escape is in the rules: a
+version *"specially and carefully designed"* for one named man Warps neither that man nor the
+caster. Each champion therefore needs his own tailored copy — a season's work and 45 levels each.
+*Hardened Flesh* at level 25 is fifth magnitude and Warps nobody, which is why it is built with
+Diameter duration rather than Sun.
 
-**Prefer Diameter to Sun.** Diameter is two minutes — twenty combat rounds — and costs one
-magnitude. Sun costs two. Twenty rounds covers essentially any melee, so the extra magnitude
-buys nothing but the risk of crossing the Warping line. Save Sun and Moon for buffs that need to
-survive the march.
+**Touch range cannot reach himself in a hurry.** *"Spells cast with any other Range, even if cast
+by the maga on herself, do have to overcome the caster's own Magic Resistance."* His is Corpus 12 +
+five times Parma 1 = **17**, and his Penetration is zero. The Blessing he can self-cast at leisure
+with his Parma down, then raise it again. *Hardened Flesh* on himself, mid-battle, he cannot —
+which matters less than it sounds, because Tough already puts him at Soak 14.
 
-**Prefer Multiple Casting to Target: Group.** Group bakes two magnitudes into the spell for good.
-The Multiple Casting spell mastery ability instead lets a magus *"cast a number of additional
-copies of the spell equal to or less than his Mastery Score"*, all simultaneously, as a single
-action. So a level 10 Individual buff with Mastery 3 covers four people in one action and never
-approaches sixth magnitude — and it improves every time he studies the spell. Group is better
-only when he needs to blanket the full ten-man limit at once.
+**Encumbrance is a spellcasting statistic.** Casting Score is Technique + Form + Stamina −
+Encumbrance + Aura, and Encumbrance is Burden minus Strength. In harness he is at 2, costing him
+two on every cast and two on Initiative, but **nothing on Attack or Defense**. That makes
+**Strength a casting statistic for him**, which matters below.
 
-**Build self-buffs at Range: Personal.** It is the only Range that avoids the caster's own Magic
-Resistance, and it is a magnitude cheaper than Touch besides. Anything that cannot be built that
-way has to be cast before he raises his Parma.
-
-**Buffing a sodalis needs Penetration.** Their resistance is their Form score plus five times
-their Parma, and Penetration Total is the Casting Total plus the Penetration Bonus minus the
-spell's level — so low-level spells penetrate far better than high-level ones. Another argument
-for casting small spells many times rather than one large one.
-
-**Ritual casting adds Artes Liberales and Philosophiae.** Aldric has Artes Liberales 1 and no
-Philosophiae at all. A handful of experience points there is a permanent bonus to his signature
-ritual, and it is the cheapest improvement available to him.
-
-**Vis boosting is a last resort.** Each pawn adds two to the Casting Score, up to his score in
-that Art — but each pawn also adds a botch die, and a stressful battlefield cast is exactly where
-a magus should not be adding botch dice.
+**The Gift costs him −3** on every social interaction with mundanes, and he has no Gentle Gift.
+Inoffensive to Animals settles the horse and nothing else — *"Inoffensive to Mundane Humans is not
+available as a Minor Virtue; take Gentle Gift instead."* The penalty does not touch his command in
+the line, because the trained-group rules are score-based with no roll anywhere. It bites when he
+is persuading, rallying or recruiting.
 
 ---
 
 ## Combat rules worth knowing
 
+- **A group's Soak is the vanguard's Soak**, and an attacking group inflicts its damage once per
+  member. So a single-target Soak buff on the right man protects the whole line — the single most
+  important tactical fact about this character.
+- **Attack Advantage is added to the Damage Total.** A point of Attack is also a point of damage
+  on every blow that lands, which is why a permanent +1 Dexterity from the Blessing is worth more
+  than it looks.
+- **Melee Soak takes no die.** Flat and reliable, unlike attack rolls.
+- **A botched Defense roll sets the total to zero**, handing over an Attack Advantage equal to the
+  attacker's entire Attack Total. At Soak 14 it is very nearly the only way an ordinary soldier
+  kills him.
+- **Mounted combat adds the Ride score, up to +3, to Attack and Defense.** At Ride 3 that is the
+  cheapest bonus he owns — as much as Exertion, for free, all fight.
+- **Exertion** costs one Fatigue level for a bonus equal to his Combat Ability: **+7**, since
+  Puissant adds to the Ability's value whenever it is used. On defence it covers every roll until
+  his next turn.
+- **Against missiles, only a shield's Defense bonus counts.** The heater shield's +3 is his whole
+  equipment defence at range.
+- **Wound penalties never apply to Soak.** A badly wounded Aldric is as hard to hurt as a fresh one.
+- **A trained group** coordinates fighters equal to the leader's Leadership, with the others' bonus
+  capped at three times it. Leadership 4 is four men and up to +12, switchable between Attack and
+  Defense each round.
+- **Shield grogs**: a defended character *"is only injured if the defenders botch or are
+  incapacitated"*. His Driven Flaw means he will keep putting himself in front of them instead.
 - **Armour costs casting, not swordplay.** Encumbrance is subtracted from spellcasting and
   Initiative, but *"in combat, Attack and Defense are not [penalised], as long as the Encumbrance
   is largely due to weapons and armor"*. Full chain mail is free on his sword arm.
@@ -127,57 +108,60 @@ a magus should not be adding botch dice.
 
 ---
 
-## Where his experience should go next
+## Where his experience should go
 
-**Spell Mastery, in Multiple Casting.** The highest-value thing he can study. Mastery adds to the
-Casting Score and removes botch dice before you even choose a special ability, and Multiple
-Casting is what turns *Precision of the Hawk* from a one-man buff into the whole line.
+**Muto.** The bottleneck. *Hardened Flesh* is his best spell and costs him a Fatigue level every
+cast, because his Muto Corpus Casting Score is 18 against a level of 25. Every point of Muto
+closes that gap directly, and at Muto 13 the spell becomes free.
 
-**Penetration and Parma Magica.** Penetration is what lets him buff other magi and matters the
-moment the saga involves Hermetic opponents. Parma Magica 1 is the standard for a new magus and
-the standard place for a five-year magus to start improving.
+**Parma Magica 2, then 3.** Parma 1 is where every magus starts and where none should stay. His
+Magic Resistance against anything that is not Corpus is 5, which is nothing.
 
-**Muto.** At 7 it is the bottleneck on every temporary buff he owns; his Muto Corpus Lab Total of
-36 is what stops him building anything more ambitious than +3 Soak.
+**Concentration.** At 2 he holds a spell through being jostled 90% of the time and through being
+wounded only 28%. Every point is reliability in exactly the situations he chooses to stand in.
 
-**Philosophiae, and Artes Liberales past 1.** Both add directly to every Ritual casting total.
+**Creo and Corpus.** Every point in either raises his Casting Score twice over while the Form is
+the lower of the two, because the focus adds the lower Art again. Corpus is currently lower at 12,
+so **Corpus is worth double until it passes Creo 16.**
 
-**Then the ritual he can cast on himself.** This is the elegant part of the build. *Blessing of
-the Steadfast Champion* raises a physical Characteristic by a point, to no more than +2, and a
-magus takes no Warping from an effect he cast himself. Aldric's Strength is +1.
+**Philosophiae and Artes Liberales.** Both add to Ritual casting totals, and his signature spell is
+a Ritual. He has Artes Liberales 1 and no Philosophiae at all — cheap, permanent, and they compound
+with vis.
 
-> Raising his own Strength to +2 gives him **+1 damage, +1 Casting Score and +1 Initiative** at a
-> stroke, because Encumbrance drops from 2 to 1.
+**Chirurgy.** At 3 he adds +3 to a wounded man's Recovery Total, on top of the +9 from
+*Purification of the Festering Wounds*, because the Recovery Total is *Stamina + the medic's
+Chirurgy or Medicine + magical aid + a stress die*. It is the one Ability where a mundane skill
+stacks directly with his magic, and it costs no vis and no Fatigue.
 
-And with a Creo Corpus Lab Total of 51 he can go further. The guideline at base 45 raises a
-physical Characteristic to no more than +3; at Touch range that is a **level 50 Ritual**, which
-he can invent in a single season and cast at 50 plus a stress die. Ten pawns of Corpus vis — his
-Corpus of 12 is comfortably over the limit on pawns per casting — and his Dexterity goes to +3,
-for +1 Attack and, through the Attack Advantage, another +1 damage.
+**Then the ritual he casts on himself.** The Blessing raises a physical Characteristic to no more
+than +2, and a magus takes no Warping from an effect he cast himself:
 
-A magus who spends his career making other people better at fighting, and can turn the same
-magic on himself, is a satisfying place for this character to end up.
+> **Strength +1 → +2** drops his Encumbrance from 2 to 1 and gives him **+1 damage, +1 Casting
+> Score and +1 Initiative** at once. Nothing else in the game does that in one purchase.
+
+**And then the spell he does not yet have.** *The Champion's Hour* — a temporary Characteristic
+increase at Touch and Diameter, base 35, **level 45** — would let him lift a man's Dexterity or
+Strength for the length of a fight rather than for life. It is inside his Lab Total of 49 and it is
+the obvious first thing he invents. Longer still, the base 45 guideline raises a Characteristic to
+no more than +3, which at Touch range is level 50 and one point beyond him: Magic Theory 5 or
+Corpus 13 opens it.
 
 ---
 
 ## Variant builds
 
-If you want to rebuild the same concept with a different emphasis, these are the Minor Virtues
-that reward it most:
-
-| Virtue | Why |
+| Change | Effect |
 |---|---|
-| **Skilled Parens** | An extra 60 experience points and 30 spell levels during apprenticeship. The best raw value of any Minor Virtue at character creation — a quarter more apprenticeship for one point. |
-| **Mastered Spells** | Fifty experience points of spell mastery straight away, which is the fastest route to Multiple Casting. |
-| **Affinity with Single Weapon** | Turns Warrior's 50 experience points into 75, and lets him exceed the age-based Ability cap by two — Single Weapon 8 at thirty instead of 6. |
-| **Enduring Constitution** | Reduces Fatigue penalties by one and the total wound penalty by one. He is a mage who stands in the line and will be wounded, and wound penalties hit his casting as hard as his sword. |
-| **Cautious Sorcerer** | Three fewer botch dice on every cast and every laboratory season. Battle-casting is stressful casting. |
-| **Self-Confident** | Confidence Score 2 and five points rather than three. |
-| **Berserk** | +2 Attack and +2 Soak against −2 Defense, and it grants Martial Abilities at creation in place of Warrior. Flatly incompatible with Compassionate in play — *"if you are still berserk when there are no enemies present, you attack your friends"* — which may be exactly the story you want. |
+| **Gentle Gift** *(Major, 3 points)* | Removes the −3 with mundanes entirely and makes him the rare Gifted Mercere who can do a Redcap's job. Costs Inoffensive to Animals, Tough and Fast Caster: Soak 14 → 11, and casting Initiative +2 → −1. The biggest single lever on the sheet |
+| **Method Caster** *(1 point)* | +3 to every Formulaic and Ritual Casting Total, which would make *Hardened Flesh* nearly free. Lost if he varies his gestures or voicing |
+| **Skilled Parens** *(1 point)* | An extra 60 experience points and 30 spell levels during apprenticeship — the best raw value of any Minor Virtue at creation, and 30 levels is *The Champion's Hour* most of the way bought |
+| **Affinity with Single Weapon** *(1 point)* | Turns Warrior's 50 points into 75, and lets him exceed the age-based Ability cap by two |
+| **Cautious Sorcerer** *(1 point)* | Three fewer botch dice, which is what makes vis-boosting *Hardened Flesh* safe in the field |
+| **A wider Focus** | If the storyguide would allow *bodily enhancement* rather than *the body's Characteristics*, *Hardened Flesh* would gain +6 and cast free. That is the version that was called too broad, and the narrow one makes a better character |
 
-**Great (Characteristic)** looks tempting and is not available: it requires the score to be +3
-already, so it cannot lift Strength from +1.
+**Great (Characteristic)** looks tempting and is unavailable: it requires the score to be +3
+already, so it cannot lift Strength from +1. The Blessing can.
 
 ---
 
-*Ars Magica 5th Edition. Ars Magica is released under the Ars Magica Open License.*
+*Ars Magica is released under the Ars Magica Open License.*

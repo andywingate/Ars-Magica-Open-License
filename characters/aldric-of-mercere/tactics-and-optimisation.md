@@ -84,6 +84,27 @@ is persuading, rallying or recruiting.
   Defense each round.
 - **Shield grogs**: a defended character *"is only injured if the defenders botch or are
   incapacitated"*. His Driven Flaw means he will keep putting himself in front of them instead.
+- **Armour costs casting, not swordplay.** Encumbrance is subtracted from spellcasting and
+  Initiative, but *"in combat, Attack and Defense are not [penalised], as long as the Encumbrance
+  is largely due to weapons and armor"*. Full chain mail is free on his sword arm.
+- **Strength is a spellcasting statistic for an armoured magus.** Encumbrance is Burden minus
+  Strength. Aldric sits at Burden 3, so every point of Strength is a point of Casting Score, a
+  point of Initiative and a point of damage, all at once. Nothing else in the game does that —
+  see the advancement notes below.
+- **Against archers, only the shield counts.** *"If you are defending against missile weapons,
+  only a shield's Defense Bonus adds to your Defense Total."* The heater shield's +3 is his whole
+  equipment Defense at range, so do not drop it to free a hand.
+- **Wound penalties never apply to Soak**, because Soak is not an action. A badly wounded Aldric
+  is poor at hitting, defending and casting, but exactly as hard to hurt. Fighting on is
+  mechanically sound; it is his Attack rolls that collapse.
+- **Fast Caster** gives +3 Initiative on any round he casts, and +3 to fast-casting speed, where
+  the Ease Factor is the opponent's Initiative Total. It is a defensive option he already owns.
+- **Group targets are fixed at the moment of casting.** *"Things that join the Group during the
+  spell duration are not affected."* Buff after the line has formed, not before.
+- **A base Corpus Group is about ten adult humans.** That is the size of warband one casting
+  covers; beyond it, add a magnitude for every factor of ten.
+- **Confidence** is three points a session at +3 each. Spent on an Attack roll that is +3 damage;
+  spent on a Casting Total it can turn a Fatigue-costing cast into a free one.
 
 ---
 

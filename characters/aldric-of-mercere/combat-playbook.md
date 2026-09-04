@@ -57,6 +57,31 @@ round one is going to be *Hardened Flesh*, he gets there sooner than if he drew.
 Casting Score and +2 botch dice. His best is a fatiguing Spontaneous Creo Corpus effect:
 (40 − 10 + die) ÷ 2, so roughly **level 17** on an average die. Enough to improvise a heal or a
 shove in an emergency; not a plan.
+**Every spell he owns casts with no roll needed and no Fatigue**, because his Casting Score alone
+already exceeds the level. The margins, in the field:
+
+| Spell | Level | Casting Total | Margin over the level |
+|---|---:|---:|---:|
+| *Precision of the Hawk* | 10 | 29 + die | **+19** |
+| *Aura of Martial Precision* | 20 | 29 + die | **+9** |
+| *Gift of the Bear's Fortitude* | 25 | 29 + die | **+4** |
+| *Aegis of Hardened Flesh* | 25 | 29 + die | **+4** |
+| *Hide of the Whole Warband* | 25 | 29 + die | **+4** |
+| *Endurance of the Berserkers* | 15 | 18 + die | **+3** |
+| *Gift of the Frog's Legs* | 15 | 18 + die | **+3** |
+| *Bind Wound* | 10 | 32 + die | **+22** |
+| *Purification of the Festering Wounds* | 20 | 32 + die | **+12** |
+| *Rally of the Fallen* | 25 | 32 + die | **+7** |
+
+So the die never decides whether a spell works. **The only thing that can fail one is a botch** —
+a zero on the stress die followed by a zero on the botch die, about 1% per cast under stress,
+which also sets the Casting Total to zero and hands him a Warping Point per zero rolled on the botch dice.
+
+> "If the maga is relaxed while casting a Formulaic spell, then there are no botch dice, no
+> matter how many the circumstances would normally add."
+
+**Buffs cast before the fighting starts cannot botch at all.** That is worth more than any of the
+arithmetic above.
 
 ---
 
@@ -157,6 +182,43 @@ against his 4 + die, which is 5.9%.
 **Exertion** — one Fatigue level for +7. On attack it is a single roll; on defence it covers
 *every* defence roll until his turn comes round again, which usually makes it the better buy.
 Defense **12 → 19**.
+Attack **13 + die** against an armoured soldier's Defense, damage **7 + Attack Advantage**.
+Against a Size 0 soldier with Defense +8 and Soak 7:
+
+| | Wounds on | Typical result |
+|---|---:|---|
+| Normal attack, Attack +13 | **82%** of attacks | Light 37%, Medium 32%, Heavy 9% |
+| Mounted on the destrier, Attack +15 | **90%** | Medium 39%, Light 28%, Heavy 17% |
+| Exertion, Attack +20 | **96%** | Heavy 39%, Medium 28%, Incapacitating 17% |
+
+He is a very good soldier. Four rounds in five he wounds his man.
+
+### 5. When he is finally in trouble: *Endurance of the Berserkers* — and then stop casting
+
+ReCo 15, Personal, Concentration. His body acts as unwounded and unfatigued for as long as he
+concentrates. Two costs, both severe:
+
+**It does not stop the wounds.** *"A character under the influence of this spell does risk
+worsening wounds, but he may not notice."* And every Fatigue level he spends while it runs falls
+due the instant it ends.
+
+**It shuts down his magic.** Casting while maintaining a Concentration spell is Ease Factor 15,
+and that row is not reduced for maintenance. His Concentration roll is Sta 2 + Concentration 2 =
+4 + a stress die, so he needs an 11 or better on the die: **5.9%.** Treat *Endurance of the
+Berserkers* as the button he presses when the buffing is finished and he intends to do nothing
+but fight.
+
+### Reactions, out of the initiative order
+
+**Exertion** — one Fatigue level for +7. On attack it applies to a single roll; on Defense it
+applies to *every* Defense roll until his turn comes round again, which usually makes it the
+better buy. Defense **12 → 19**.
+
+**Fast-cast** — Qik 1 + Finesse 1 + Fast Caster 3 = **5 + die** against the opponent's Initiative
+Total. Fast-cast spells are Spontaneous unless he has mastered the spell, at −10 to the Casting
+Score and +2 botch dice. His best fast-cast is a fatiguing Spontaneous Creo Corpus effect:
+(41 − 10 + die) ÷ 2, so roughly **level 18** on an average die. Enough to improvise a heal or a
+shove; not enough to be a plan.
 
 ---
 

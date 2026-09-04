@@ -36,6 +36,14 @@ Size +1 · Confidence 1 (3) · Warping 0 · Decrepitude 0 · Sigil: a faint warm
 | Inoffensive to Animals · Warrior · Large | |
 | Puissant Single Weapon · Improved Characteristics ×2 | |
 
+| **Equipment** | **Init** | **Atk** | **Dfn** | **Dam** | **Load** |
+|---|---:|---:|---:|---:|---:|
+| Longsword *(Expensive, a gift from his parens)* | +2 | +4 | +1 | +6 | 1 |
+| Heater shield | — | — | +3 | — | 2 |
+| Full chain mail *(Protection 9, Expensive)* | — | — | — | — | 6 |
+| Robes · chirurgeon's roll · 3 pawns Corpus vis · riding horse · travelling kit | | | | | 0 |
+| **Load 9 → Burden 3 → Encumbrance 2** | | | | | **9** |
+
 | **Spells Known** | **Art** | **Level** | **R / D / T** | **Cast at** |
 |---|---|---:|---|---:|
 | **Shield of the Iron Line** | MuCo | 35 | Touch / Diam / **Group** | 36 |

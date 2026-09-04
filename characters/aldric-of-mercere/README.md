@@ -47,6 +47,45 @@ the fighting is and where nobody has met him before.
 He speaks Czech and the Low German of the soldiery and the Baltic trade, which between them carry
 him from Prague to Riga.
 
+## Odds and Ends
+
+The small things that make him a Bohemian and not a generic magus in a mail hauberk.
+
+**At table.** He eats like a soldier and drinks like a man from Prague. Rye bread, salt pork,
+cabbage, peas and turnips, and above all *kaše* — the thick millet or buckwheat porridge every
+Bohemian is raised on, which he will eat for breakfast at thirty as he did at ten. He is
+unreasonable about **beer**: Bohemian brewing is the best in the Empire, the hops from Žatec are
+the best in Bohemia, and everything north of the Erzgebirge is in his opinion an insult served in a
+cup. He carries dried plums and a head of garlic in his satchel and puts caraway on everything.
+Horseradish with meat. He drinks wine politely and without interest.
+
+**What the road north has done to him.** He has discovered salted herring, curdled milk and black
+bread, and he is coping. He will eat anything put in front of him without a word of complaint —
+and then complain about it for six weeks afterwards.
+
+**Faith.** Ordinary, unexamined, and quite genuine. He is a Catholic of the Prague diocese who
+swears *"by Saint Wenceslas"* when startled and means it, keeps the fasts more or less, and
+crosses himself before a fight along with everyone else in the line. He has never seen any conflict
+between the Church and what he does, which is a comfortable position for a magus and one nobody
+has yet troubled to argue him out of.
+
+**Habits.** He sharpens his sword every evening whether it needs it or not. He inspects his men's
+feet on the march and their teeth in camp, because a captain who does not is short of men by the
+second week. He sleeps badly under a roof and well under a cloak. He sings — loudly, in Czech, and
+not well.
+
+**Superstitions he will not defend.** He will not put his helm on the bed. He touches the pommel of
+his sword when he says a dead man's name. He thinks it unlucky to count the men in a group before
+a fight, which sits very awkwardly beside a spell that affects up to ten of them.
+
+**Money.** He has no head for it. He pays for the round, stands the funeral, and lends silver he
+will not see again. He came out of his Gauntlet with a good horse, good mail, an expensive sword
+given to him, and almost nothing in his purse.
+
+**On his own Gift.** He knows perfectly well that people find him hard to like and has decided to
+out-work it. He arrives early, carries more than his share, learns names, and lets the horse make
+his first impression for him.
+
 ## Contents
 
 | File | What it holds |

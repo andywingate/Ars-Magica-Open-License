@@ -7,18 +7,21 @@ should go. Core rules only.
 
 ## What kind of magus this is
 
-A **specialist with a very short reach**. Two Arts that matter, six spells, and a Ritual he can
-afford to cast two or three times a year. His entire magical contribution is:
+A **battlefield enchanter with a very short reach**. Two Arts that matter, seven spells, and not a
+Ritual, a pawn of vis or a laboratory season anywhere on the sheet. His entire magical contribution
+is:
 
-- **One man made permanently better** — a physical Characteristic up a point, for life, at nine
-  pawns of vis and a season's decision.
-- **One man made much harder to kill** for twenty combat rounds, which because of a quirk of the
-  group rules protects everyone standing behind him.
-- **Wounded men who recover**, at +12 to their Recovery Totals between spell and Chirurgy.
+- **A whole warband made harder to kill** — +3 Soak to ten men for twenty combat rounds, cast free,
+  as often as he likes.
+- **A wounded man who fights as though he were not** — all wound and Fatigue penalties gone for
+  twenty rounds, on anyone he can touch.
+- **Wounded men who recover**, at +11 to their Recovery Totals between spell and Chirurgy.
+- **One enemy disarmed**, at Voice range, for as long as he concentrates.
 
-That is all. He cannot attack, ward, scry or fly. He has no Penetration Ability, so anything with
-Magic Resistance is outside his reach entirely — against a creature with Might he is a good
-soldier and nothing more.
+That is all. He cannot attack, ward, scry or fly, and **he cannot make anyone hit harder** — core
+Corpus magic simply does not offer it below a base 35 guideline. He has no Penetration Ability, so
+anything with Magic Resistance is outside his reach entirely; against a creature with Might he is a
+good soldier and nothing more.
 
 The other half of him is a competent fighting man with a longsword, a horse, and enough Leadership
 to run four men in the line.
@@ -27,24 +30,29 @@ to run four men in the line.
 
 ## The constraints his magic works under
 
-**One man at a time.** A Group version of the Blessing is two magnitudes dearer — level 55 against
-a Lab Total of 49 — and a Group version of *Hardened Flesh* is level 35, which is sixth magnitude
-and would Warp everyone it touched. This is the honest consequence of a Minor Focus that covers
-only the body's Characteristics, and it is the shape of the character: he chooses a man and puts
-his hands on him.
+**Ten men, and then it stops.** *Shield of the Iron Line* covers a base Corpus Group, about ten
+adult humans. Beyond that it is a magnitude for every factor of ten, which puts a company of a
+hundred at level 45 against a Lab Total of 44. He buffs a warband, not an army.
 
-**Ninth magnitude Warps whoever receives the Blessing.** *"Any Hermetic spell of sixth magnitude or
-higher"* is a powerful supernatural effect, and level 45 is ninth. The escape is in the rules: a
-version *"specially and carefully designed"* for one named man Warps neither that man nor the
-caster. Each champion therefore needs his own tailored copy — a season's work and 45 levels each.
-*Hardened Flesh* at level 25 is fifth magnitude and Warps nobody, which is why it is built with
-Diameter duration rather than Sun.
+**Group buffs Warp.** *"Any Hermetic spell of sixth magnitude or higher"* is a powerful
+supernatural effect, and *Shield of the Iron Line* at level 35 is seventh. Every man it touches
+takes a Warping Point, and six points make Warping Score 1. Over months that is bookkeeping; over
+years it is a problem, and it is exactly why *Hardened Flesh of the Housecarl* stays on the sheet
+at level 25 — fifth magnitude, identical effect, one man, no mark left behind.
 
-**Touch range cannot reach himself in a hurry.** *"Spells cast with any other Range, even if cast
-by the maga on herself, do have to overcome the caster's own Magic Resistance."* His is Corpus 12 +
-five times Parma 1 = **17**, and his Penetration is zero. The Blessing he can self-cast at leisure
-with his Parma down, then raise it again. *Hardened Flesh* on himself, mid-battle, he cannot —
-which matters less than it sounds, because Tough already puts him at Soak 14.
+**He can always let his own magic in.** *"Spells cast with any other Range, even if cast by the
+maga on herself, do have to overcome the caster's own Magic Resistance"* — but *"a magus can
+suppress his Parma by concentrating, and this also suppresses his Form resistance."* So Touch-range
+self-casting is never blocked; it costs a moment's concentration and, while that lasts, **every
+point of his Magic Resistance**, Corpus 14 and Parma alike. Against mundanes that is free. In front
+of a hostile magus it is the one window in which he can be reached, and an unconscious magus cannot
+suppress at all.
+
+**The Focus only touches two spells, and it carries both.** A Minor Focus adds the **lower** of
+Technique and Form a second time. On both Soak spells that is Muto, effective 11 against Corpus 14,
+so the Focus is worth **+11** — the difference between a warband buff of 36 against 35 and one of
+25 against 35. Healing, recovery, the senses and both Rego spells get nothing from it and do not
+need to. **Every further point of Muto is worth two** while Muto stays the lower Art.
 
 **Encumbrance is a spellcasting statistic.** Casting Score is Technique + Form + Stamina −
 Encumbrance + Aura, and Encumbrance is Burden minus Strength. In harness he is at 2, costing him
@@ -62,11 +70,11 @@ is persuading, rallying or recruiting.
 ## Combat rules worth knowing
 
 - **A group's Soak is the vanguard's Soak**, and an attacking group inflicts its damage once per
-  member. So a single-target Soak buff on the right man protects the whole line — the single most
-  important tactical fact about this character.
+  member. *Hardened Flesh* on the vanguard alone therefore protects the whole line, and is the
+  cheap answer when he wants no Warping and no fuss.
 - **Attack Advantage is added to the Damage Total.** A point of Attack is also a point of damage
-  on every blow that lands, which is why a permanent +1 Dexterity from the Blessing is worth more
-  than it looks.
+  on every blow that lands, which is why nothing he can cast makes his men hit harder — Corpus
+  magic has no cheap way to raise Dexterity, and he has to buy their quality with Leadership.
 - **Melee Soak takes no die.** Flat and reliable, unlike attack rolls.
 - **A botched Defense roll sets the total to zero**, handing over an Attack Advantage equal to the
   attacker's entire Attack Total. At Soak 14 it is very nearly the only way an ordinary soldier
@@ -76,9 +84,6 @@ is persuading, rallying or recruiting.
 - **Exertion** costs one Fatigue level for a bonus equal to his Combat Ability: **+7**, since
   Puissant adds to the Ability's value whenever it is used. On defence it covers every roll until
   his next turn.
-- **Against missiles, only a shield's Defense bonus counts.** The heater shield's +3 is his whole
-  equipment defence at range.
-- **Wound penalties never apply to Soak.** A badly wounded Aldric is as hard to hurt as a fresh one.
 - **A trained group** coordinates fighters equal to the leader's Leadership, with the others' bonus
   capped at three times it. Leadership 4 is four men and up to +12, switchable between Attack and
   Defense each round.
@@ -110,41 +115,65 @@ is persuading, rallying or recruiting.
 
 ## Where his experience should go
 
-**Muto.** The bottleneck. *Hardened Flesh* is his best spell and costs him a Fatigue level every
-cast, because his Muto Corpus Casting Score is 18 against a level of 25. Every point of Muto
-closes that gap directly, and at Muto 13 the spell becomes free.
+He has just been gauntleted, so this is the whole of his development plan and none of it is spent.
+
+**Muto, first and always.** Every point past 8 is worth **two** on both Soak spells while Muto
+remains the lower Art, because the Focus adds it again. *Shield of the Iron Line* clears its own
+level by a single point, which means a Light Wound or an unfriendly aura costs him a Fatigue level
+in front of the whole warband. **Muto 9 puts it three clear; Muto 10 puts it five.**
+
+**Rego 7.** Three experience points, and *Endurance of the Berserkers* stops clearing its level by
+nothing. The cheapest margin on the sheet.
+
+**Creo 7.** Six experience points, and *Purification of the Festering Wounds* gets the same
+treatment. The two of them together are less than a season's worth of study.
 
 **Parma Magica 2, then 3.** Parma 1 is where every magus starts and where none should stay. His
 Magic Resistance against anything that is not Corpus is 5, which is nothing.
 
+**Magic Theory 4.** He has the Order's bare minimum. Every point is a point on every Lab Total,
+and Magic Theory 3 is also the floor for setting up his own laboratory.
+
 **Concentration.** At 2 he holds a spell through being jostled 90% of the time and through being
-wounded only 28%. Every point is reliability in exactly the situations he chooses to stand in.
+wounded only 28%. *Spasms of the Uncontrolled Hand* is a Concentration spell, so this is the
+Ability that decides whether he can hold an enemy champion disarmed while the line does its work.
 
-**Creo and Corpus.** Every point in either raises his Casting Score twice over while the Form is
-the lower of the two, because the focus adds the lower Art again. Corpus is currently lower at 12,
-so **Corpus is worth double until it passes Creo 16.**
+**Corpus.** It is in every spell he owns, and the Affinity means every point costs two thirds of
+what it should. It is worth one point per point rather than Muto's two, but it lifts *all five*
+of his Corpus totals at once instead of two.
 
-**Philosophiae and Artes Liberales.** Both add to Ritual casting totals, and his signature spell is
-a Ritual. He has Artes Liberales 1 and no Philosophiae at all — cheap, permanent, and they compound
-with vis.
-
-**Chirurgy.** At 3 he adds +3 to a wounded man's Recovery Total, on top of the +9 from
+**Chirurgy.** At 2 he adds +2 to a wounded man's Recovery Total, on top of the +9 from
 *Purification of the Festering Wounds*, because the Recovery Total is *Stamina + the medic's
 Chirurgy or Medicine + magical aid + a stress die*. It is the one Ability where a mundane skill
 stacks directly with his magic, and it costs no vis and no Fatigue.
 
-**Then the ritual he casts on himself.** The Blessing raises a physical Characteristic to no more
-than +2, and a magus takes no Warping from an effect he cast himself:
+**And then the spells he does not yet have.** In rough order of what they buy:
 
-> **Strength +1 → +2** drops his Encumbrance from 2 to 1 and gives him **+1 damage, +1 Casting
-> Score and +1 Initiative** at once. Nothing else in the game does that in one purchase.
+| Spell to invent | Design | Level | Against a Lab Total of |
+|---|---|---:|---:|
+| **Endurance of the Warband** (ReCo) | Base 10, +1 Touch, +1 Diameter, +2 Group | 30 | 28 \u2014 **two short.** Rego 8 opens it, and it is the single best thing he could own |
+| **The Iron Line, All Day** (MuCo) | Base 15, +1 Touch, +2 Sun, +2 Group | 45 | 44 \u2014 one short. One point of Muto, and the warband is hardened from dawn |
+| **Hardened Flesh, +4 Soak** (MuCo) | Base 20, +1 Touch, +1 Diameter | 30 | 44 — inventable now, but sixth magnitude, so it Warps |
+| **The Champion's Hour** (CrCo) | Base 35, +1 Touch, +1 Diameter | 45 | 34 — **far** out of reach. Raising a Characteristic needs Creo and Corpus climbing together for years |
 
-**And then the spell he does not yet have.** *The Champion's Hour* — a temporary Characteristic
-increase at Touch and Diameter, base 35, **level 45** — would let him lift a man's Dexterity or
-Strength for the length of a fight rather than for life. It is inside his Lab Total of 49 and it is
-the obvious first thing he invents. Longer still, the base 45 guideline raises a Characteristic to
-no more than +3, which at Touch range is level 50 and one point beyond him: Magic Theory 5 or
-Corpus 13 opens it.
+The first two rows are the character's future. Both are a handful of experience points away, and
+neither costs vis or a Ritual.
+
+---
+
+## What the Focus is actually worth
+
+His Minor Magical Focus is **bodily enhancement**: it takes in **hardening flesh for extra Soak**
+alongside **raising a physical Characteristic**. It is narrow — healing, recovery, the senses,
+moving a body and everything else are outside it, which is five of his seven spells.
+
+It is also the entire character. A Minor Focus adds the **lower** Art, and that is Muto 11 against
+Corpus 14, so it is worth **+11** — lifting *Shield of the Iron Line* from 25 to **36 against a
+level of 35**, and *Hardened Flesh* from 14 to 36 against 25.
+
+Without it, the warband buff would need Muto 21 and the single-target version Muto 11 outright.
+The first is a lifetime's study. Everything he does for the men around him rests on eight points of
+Muto, Puissant Muto's +3, and the Focus doubling the result.
 
 ---
 
@@ -152,15 +181,15 @@ Corpus 13 opens it.
 
 | Change | Effect |
 |---|---|
-| **Gentle Gift** *(Major, 3 points)* | Removes the −3 with mundanes entirely and makes him the rare Gifted Mercere who can do a Redcap's job. Costs Inoffensive to Animals, Tough and Fast Caster: Soak 14 → 11, and casting Initiative +2 → −1. The biggest single lever on the sheet |
-| **Method Caster** *(1 point)* | +3 to every Formulaic and Ritual Casting Total, which would make *Hardened Flesh* nearly free. Lost if he varies his gestures or voicing |
-| **Skilled Parens** *(1 point)* | An extra 60 experience points and 30 spell levels during apprenticeship — the best raw value of any Minor Virtue at creation, and 30 levels is *The Champion's Hour* most of the way bought |
+| **Method Caster** *(Minor, 1 point)* | +3 to every Formulaic Casting Total, forfeited the moment he casts quietly or subtly. Would put *Shield of the Iron Line* four points clear and make both level-20 spells comfortable, at the cost of a Flaw point and a real tactical constraint |
+| **Gentle Gift** *(Major, 3 points)* | Removes the −3 with mundanes entirely and makes him the rare Gifted Mercere who can do a Redcap's job. Costs Inoffensive to Animals, Tough and Fast Caster: Soak 14 → 11, and casting Initiative +2 → −1 |
+| **Skilled Parens** *(1 point)* | An extra 60 experience points and 30 spell levels during apprenticeship — by some distance the best raw value of any Minor Virtue for a magus built at Gauntlet, and enough to buy *Endurance of the Warband* outright |
+| **Puissant Creo instead of Puissant Muto** | The House offers either. Creo would carry the healing and a future Characteristic spell; Muto carries the two spells he actually casts every fight, and is the lower Art the Focus doubles. Muto is the right answer for this character and the wrong one for a healer |
 | **Affinity with Single Weapon** *(1 point)* | Turns Warrior's 50 points into 75, and lets him exceed the age-based Ability cap by two |
-| **Cautious Sorcerer** *(1 point)* | Three fewer botch dice, which is what makes vis-boosting *Hardened Flesh* safe in the field |
-| **A wider Focus** | If the storyguide would allow *bodily enhancement* rather than *the body's Characteristics*, *Hardened Flesh* would gain +6 and cast free. That is the version that was called too broad, and the narrow one makes a better character |
+| **Cautious Sorcerer** *(1 point)* | Three fewer botch dice. He needs no vis to cast anything, so this only matters on stress rolls in a fight |
 
 **Great (Characteristic)** looks tempting and is unavailable: it requires the score to be +3
-already, so it cannot lift Strength from +1. The Blessing can.
+already, so it cannot lift Strength from +1.
 
 ---
 

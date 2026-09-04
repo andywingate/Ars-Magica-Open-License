@@ -4,14 +4,62 @@
 
 ---
 
+## At a glance
+
+**Aldric of Mercere** · House Mercere (Gifted) · Age 30, gauntleted this year · Prague, Bohemia
+Size +1 · Confidence 1 (3) · Warping 0 · Decrepitude 0 · Sigil: a faint warmth, like first light
+
+| **Characteristics** | | | | **Abilities** | | **Arts** | |
+|---|---:|---|---:|---|---:|---|---:|
+| Int | **+2** | Pre | **+1** | Single Weapon *(Puissant)* | **5 + 2** | Creo | 6 |
+| Per | 0 | Com | **+1** | Leadership | **4** | Intéllego | 0 |
+| Str | **+1** | Dex | **+2** | Latin | 4 | Muto *(Puissant)* | 8 **+3** |
+| Sta | **+2** | Qik | **+1** | Ride | 3 | Perdo | 0 *(Deficient)* |
+| | | | | Czech *(native)* | 5 | Rego | 6 |
+| **Combat** | | | | Magic Theory | 3 | **Corpus** | **14** |
+| Init, sword | **+1** | Attack | **+13** | Chirurgy | **2** | *All other Forms* | 0 |
+| Init, casting | **+2** | Defense | **+12** | Concentration | 2 | | |
+| Damage | **+7** | Soak | **14** | Awareness · Brawl | 2 · 2 | **Casting Scores** | |
+| Exertion | **+7** | Mounted | **+3** | Low German | 2 | MuCo *in focus* | **36** |
+| Encumbrance | **2** | Size | **+1** | Artes Liberales | 1 | MuCo *other* | 25 |
+| | | | | Parma Magica | 1 | CrCo · ReCo | 20 · 20 |
+| **Resistance** | | | | Athletics · Swim | 1 · 1 | **Lab Totals** | |
+| vs Corpus | **19** | Everything else | 5 | Bohemia Lore | 1 | MuCo *in focus* | **44** |
+| Penetration | 0 | Ritual bonus | +1 | | | CrCo · ReCo | 34 · 28 |
+
+| **Virtues** | **Flaws** |
+|---|---|
+| The Gift · Hermetic Magus *(free)* | Deficient Technique — Perdo *(Major)* |
+| **Puissant Muto** *(free, House Mercere)* | Driven — to bring every man home alive *(Major)* |
+| **Minor Magical Focus: bodily enhancement** | Favors — House Mercere *(Major)* |
+| Affinity with Corpus · Tough · Fast Caster | Overconfident *(Minor)* |
+| Inoffensive to Animals · Warrior · Large | |
+| Puissant Single Weapon · Improved Characteristics ×2 | |
+
+| **Spells Known** | **Art** | **Level** | **R / D / T** | **Cast at** |
+|---|---|---:|---|---:|
+| **Shield of the Iron Line** | MuCo | 35 | Touch / Diam / **Group** | 36 |
+| **Hardened Flesh of the Housecarl** | MuCo | 25 | Touch / Diam / Ind | 36 |
+| **Endurance of the Berserkers** | ReCo | 20 | Touch / Diam / Ind | 20 |
+| Purification of the Festering Wounds | CrCo | 20 | Touch / Moon / Ind | 20 |
+| Bind Wound | CrCo | 10 | Touch / Sun / Ind | 20 |
+| Spasms of the Uncontrolled Hand | ReCo | 5 | **Voice** / Conc / Ind | 20 |
+| Eyes of the Cat | MuCo(An) | 5 | Touch / Sun / Ind | 25 |
+
+**Seven spells, 120 levels, and every one of them casts free** in harness, in the field, with no
+vis, no Ritual and no season in a laboratory. He hardens a whole shield wall's flesh against steel,
+makes a wounded man fight as though he were whole, and stands in the line himself.
+
+---
+
 ## Identity
 
 | | |
 |---|---|
 | **Name** | Aldric of Mercere |
 | **House** | Mercere (Gifted — takes the Hermetic Magus Status, not the Redcap Status) |
-| **Age** | 35 — apprenticed at 15, Gauntlet at 30, five years a magus |
-| **Origin** | Zealand, Denmark |
+| **Age** | 30 — apprenticed at 15, Gauntlet at 30. He swore the Oath this year |
+| **Origin** | Prague, Bohemia |
 | **Size** | +1 |
 | **Confidence** | Score 1, 3 points |
 | **Warping** | Score 0 |
@@ -28,12 +76,12 @@
 |---|---|---:|---|
 | The Gift | — | Free | Required for Hermetic magic |
 | Hermetic Magus | Social Status | Free | Member of the Order |
-| Puissant Creo | Hermetic, Minor | Free | House Mercere's gift. **+3** to Creo in every total that uses it |
+| Puissant Muto | Hermetic, Minor | Free | House Mercere's gift — *"Puissant Creo or Puissant Muto"*. **+3** to Muto in every total that uses it |
 | **Inoffensive to Animals** | General and Hermetic, Minor | 1 | His Gift does not disturb beasts |
 | **Tough** | General, Minor | 1 | +3 to his Soak score |
 | **Fast Caster** | Hermetic, Minor | 1 | +3 Initiative when casting in combat; +3 to fast-casting speed |
-| Affinity with Creo | Hermetic, Minor | 1 | Experience put into Creo is increased by half |
-| Minor Magical Focus: the body's Characteristics | Hermetic, Minor | 1 | Add the lower of Technique and Form a second time |
+| Affinity with Corpus | Hermetic, Minor | 1 | Experience put into Corpus is increased by half |
+| **Minor Magical Focus: bodily enhancement** | Hermetic, Minor | 1 | Add the lower of Technique and Form a second time. **See the note below for where its edges fall** |
 | Warrior | General, Minor | 1 | May learn Martial Abilities; +50 experience points in them |
 | Large | General, Minor | 1 | Size +1; wounds fall in six-point bands |
 | Improved Characteristics | General, Minor | 1 | +3 Characteristic points |
@@ -50,6 +98,28 @@
 | Overconfident | Personality, Minor | 1 | Unshakable faith in his own abilities |
 
 Ten points each way. One Hermetic Flaw, one Story Flaw, two Personality Flaws of which one is Major.
+
+### The Focus, and where its edges fall
+
+> **Minor Magical Focus: bodily enhancement.** Magic that makes a living human body **better than
+> it naturally is** — raising a physical Characteristic, or hardening flesh against harm.
+
+It is narrow, and the boundary is drawn where the rules draw it:
+
+| Inside the Focus | Outside it |
+|---|---|
+| Creo Corpus raising Strength, Stamina, Dexterity or Quickness | **Healing and recovery** — restoring a body is not improving one |
+| Muto Corpus hardening flesh for extra Soak | **The senses** — night vision, sharpened hearing |
+| The same effects in any other Technique | **Shapeshifting**, flight, size change, and everything else Corpus can do |
+
+**Two of his seven spells are inside it**, and they are the two the character exists for: *Shield
+of the Iron Line* and *Hardened Flesh of the Housecarl*. The other five — the two healing spells,
+the Rego pair and the cat's eyes — get nothing.
+
+A Minor Focus adds the **lower** of Technique and Form a second time. On both Soak spells the lower
+Art is Muto, effective 11 against Corpus 14, so the Focus is worth **+11**. It is the difference
+between a warband buff of 36 against 35 and one of 25 against 35, which is to say it is the
+difference between the character working and not.
 
 ### On The Gift, the horse, and the men
 
@@ -73,14 +143,10 @@ or recruiting, which is a story problem rather than a battlefield one, and Prese
 Communication +1 take some of the sting out.
 
 **Gentle Gift is the alternative**, at three points instead of one. It removes the penalty
-entirely and makes him the rare Gifted Mercere who can do a Redcap's job. It costs Tough and Fast
-Caster — Soak 11 instead of 14, and casting Initiative −1 instead of +2. That is the single
-biggest lever left on this sheet, and it is a troupe decision rather than a rules one.
-
-**Minor Magical Focus: the body's Characteristics.** Deliberately narrow — one guideline family,
-the Creo Corpus ladder that raises Strength, Stamina, Dexterity or Quickness, plus any equivalent
-in another Technique. It does **not** cover healing, recovery, resilience, senses, shapeshifting,
-or anything else Corpus magic can do. Two of his four spells get it. The other two do not.
+entirely and makes him the rare Gifted Mercere who can do a Redcap's job. It costs Inoffensive to
+Animals — which Gentle Gift makes redundant anyway — along with Tough and Fast Caster: Soak 11
+instead of 14, and casting Initiative −1 instead of +2. That is the single biggest lever left on
+this sheet, and it is a troupe decision rather than a rules one.
 
 ---
 
@@ -112,40 +178,48 @@ would be at −4 before he opened his mouth.
 | Ability | Score | Specialty |
 |---|---:|---|
 | Artes Liberales | 1 | astronomy |
-| Athletics | 2 | rowing |
-| Awareness | 3 | in combat |
-| Brawl | 3 | dodging |
-| **Chirurgy** | **3** | battlefield wounds |
+| Athletics | 1 | marching |
+| Awareness | 2 | in combat |
+| Brawl | 2 | dodging |
+| **Chirurgy** | **2** | battlefield wounds |
 | Concentration | 2 | maintaining spells in combat |
-| Folk Ken | 2 | soldiers |
+| **Czech** *(native)* | 5 | Bohemian |
 | Latin | 4 | Hermetic usage |
 | **Leadership** | **4** | a shield wall |
-| **Low German** *(Living Language)* | 3 | the Baltic ports |
-| Magic Theory | 4 | Corpus |
-| **Norse** *(native)* | 5 | Danish |
-| Order of Hermes Lore | 1 | House Mercere |
+| **Low German** *(Living Language)* | 2 | soldiers |
+| Magic Theory | 3 | Corpus |
 | Parma Magica | 1 | Corpus |
 | Ride | 3 | in combat |
 | **Single Weapon** | **5 + 2** | longsword *(Puissant)* |
-| Swim | 2 | cold water |
-| Zealand Lore | 2 | coast and crossings |
+| Swim | 1 | cold water |
+| Bohemia Lore | 1 | roads and river crossings |
 
-Age 35 caps Abilities at 6 at character creation. His highest are Norse 5 and Single Weapon 5.
-Four experience points are banked, unspent.
+Age 30 caps Abilities at 6 at character creation. His highest are Czech 5 and Single Weapon 5.
+
+**This is a magus who has just walked out of his Gauntlet.** Magic Theory 3, Parma Magica 1, Latin
+4 and Artes Liberales 1 are the Order's recommended minimum and exactly what he has — *"Parma
+Magica 1 (should be no higher if the magus is just out of apprenticeship)"*. There is no Order of
+Hermes Lore, no Penetration, no Finesse and no Philosophiae. Everything else his master could give
+him went into Corpus and Creo.
+
+**The soldier came first.** Leadership 4, Ride 3, Single Weapon 5, Chirurgy 2 and Brawl 2 were all
+bought before he was fifteen — the son of a Bohemian lord's retainer, in the saddle and in the
+shield wall since he was ten, already leading the boys of his father's troop when a Mercere found
+the Gift in him. Fifteen years in a laboratory did not take that away.
 
 **On Chirurgy.** The Recovery Total is *Stamina + the medic's Chirurgy or Medicine score + magical
-aid + a stress die*. Chirurgy 3 therefore **stacks with** his recovery magic rather than
-duplicating it: *Purification of the Festering Wounds* gives +9 and his own hands add +3 on top.
+aid + a stress die*. Chirurgy 2 therefore **stacks with** his recovery magic rather than
+duplicating it: *Purification of the Festering Wounds* gives +9 and his own hands add +2 on top.
 He is why his men survive the week after a battle, not just the hour of it.
 
 **On Leadership.** A trained group coordinates a number of fighters equal to the leader's
 Leadership, and the bonus its other members contribute is capped at three times that score.
 Leadership 4 means four men and up to +12 — a real captain, not a magus with a title.
 
-**On languages.** Norse carries him through Denmark, Norway, Sweden and the Norse settlements.
-Low German is the tongue of Lübeck, of the Baltic trade, and of the rank and file of the military
-orders on the Livonian and Prussian frontiers. Between them they cover the sea a Mercere gets sent
-across.
+**On languages.** Czech is his mother tongue and the speech of Bohemia and the Slavic lands east
+of it. Low German is the tongue of the Empire's soldiery, of the Baltic trade, and of the rank and
+file of the military orders on the Livonian and Prussian frontiers. Between them they carry him
+the whole length of the road north.
 
 ---
 
@@ -153,14 +227,17 @@ across.
 
 | Technique | Score | Effective | | Form | Score | | Form | Score |
 |---|---:|---:|---|---|---:|---|---|---:|
-| **Creo** | 13 | **16** *(Puissant +3)* | | Animal | 0 | | Ignem | 0 |
+| **Creo** | 6 | 6 | | Animal | 0 | | Ignem | 0 |
 | Intéllego | 0 | 0 | | Aquam | 0 | | Imaginem | 0 |
-| **Muto** | 6 | 6 | | Auram | 0 | | Mentem | 0 |
-| Perdo | 0 | 0 *(Deficient)* | | **Corpus** | **12** | | Terram | 0 |
-| Rego | 3 | 3 | | Herbam | 0 | | Vim | 0 |
+| **Muto** | 8 | **11** *(Puissant +3)* | | Auram | 0 | | Mentem | 0 |
+| Perdo | 0 | 0 *(Deficient)* | | **Corpus** | **14** | | Terram | 0 |
+| **Rego** | 6 | 6 | | Herbam | 0 | | Vim | 0 |
 
-Corpus is the whole of him. Creo is where the specialism lives; the Muto and Rego are there to
-carry three spells that Creo cannot.
+Corpus is the whole of him, and it is deliberately the **highest** score on the sheet, because it
+is the Form in every spell he owns. Muto is the Technique that hardens flesh, and the Focus adds
+the lower of Technique and Form a second time — Muto 11 against Corpus 14 — so **every point of
+Muto is worth two** on the spells that matter. Rego 6 carries *Endurance of the Berserkers*, and
+Creo 6 carries the healing. Nothing is wasted and nothing is idle.
 
 ---
 
@@ -168,43 +245,49 @@ carry three spells that Creo cannot.
 
 ## Headline figures
 
+All figures below are in the field: full harness, no aura.
+
 | | Value | Built from |
 |---|---:|---|
-| **Casting Score — Creo Corpus, in focus** | **40** | Cr 16 + Co 12 + focus 12 + Sta 2 − Encumbrance 2 + Aura 0 |
-| **Casting Score — Creo Corpus, everything else** | **28** | Cr 16 + Co 12 + Sta 2 − Encumbrance 2 + Aura 0 |
-| **Casting Score — Muto Corpus** | **18** | Mu 6 + Co 12 + Sta 2 − Encumbrance 2 + Aura 0 |
-| **Casting Score — Rego Corpus** | **15** | Re 3 + Co 12 + Sta 2 − Encumbrance 2 + Aura 0 |
-| **Lab Total — Creo Corpus, in focus** | **49** | Int 2 + MT 4 + Cr 16 + Co 12 + focus 12 + Aura 3 |
-| **Lab Total — Creo Corpus, other** | **37** | Int 2 + MT 4 + Cr 16 + Co 12 + Aura 3 |
-| **Lab Total — Muto Corpus** | **27** | Int 2 + MT 4 + Mu 6 + Co 12 + Aura 3 |
-| **Lab Total — Rego Corpus** | **24** | Int 2 + MT 4 + Re 3 + Co 12 + Aura 3 |
-| **Magic Resistance vs Corpus** | **17** | Corpus 12 + (5 × Parma 1) |
+| **Casting Score — Muto Corpus, in focus** | **36** | Mu 11 + Co 14 + focus 11 + Sta 2 − Enc 2 + Aura 0. **The whole warband's Soak** |
+| **Casting Score — Muto Corpus, outside the focus** | **25** | Mu 11 + Co 14 + Sta 2 − Enc 2 + Aura 0 |
+| **Casting Score — Creo Corpus** | **20** | Cr 6 + Co 14 + Sta 2 − Enc 2 + Aura 0 |
+| **Casting Score — Rego Corpus** | **20** | Re 6 + Co 14 + Sta 2 − Enc 2 + Aura 0 |
+| **Lab Total — Muto Corpus, in focus** | **44** | Int 2 + MT 3 + Mu 11 + Co 14 + focus 11 + Aura 3 |
+| **Lab Total — Muto Corpus, other** | **33** | Int 2 + MT 3 + Mu 11 + Co 14 + Aura 3 |
+| **Lab Total — Creo Corpus, in focus** | **34** | Int 2 + MT 3 + Cr 6 + Co 14 + focus 6 + Aura 3 |
+| **Lab Total — Creo Corpus, other** | **28** | Int 2 + MT 3 + Cr 6 + Co 14 + Aura 3 |
+| **Lab Total — Rego Corpus** | **28** | Int 2 + MT 3 + Re 6 + Co 14 + Aura 3 |
+| **Magic Resistance vs Corpus** | **19** | Corpus 14 + (5 × Parma 1) |
 | **Magic Resistance, everything else** | **5** | Form 0 + (5 × Parma 1) |
-| Ritual bonus | **+1** | Artes Liberales 1 + Philosophiae 0 |
+| Ritual bonus | **+1** | Artes Liberales 1 + Philosophiae 0. **He knows no Rituals** |
 | Penetration Bonus | **0** | No Penetration Ability. His magic is for willing men without Magic Resistance |
-| Vis limit per casting | Creo 13 / Corpus 12 pawns | his score in the matching Art |
+| Vis limit per casting | Muto 8 / Corpus 14 pawns | his score in the matching Art |
 
 Add **+5** to every Casting Score at the covenant out of harness — Encumbrance 0 and a +3 aura.
+
+**Every spell he owns casts free**, in harness, in the field, with no vis, no Ritual and no season
+in a laboratory. Nothing on this sheet has to be saved up for.
 
 ---
 
 ## Grid 1 — Casting Scores, all fifty combinations
 
-> **Each cell is Technique + Form + Stamina (+2)**, unencumbered, in no aura, before any focus.
+> **Each cell is Technique + Form + Stamina (+2)**, unencumbered, in no aura, **before the Focus**.
 > Perdo cells are already halved for Deficient Technique.
 
-| Form ↓ / Technique → | **Creo** (16) | **Intéllego** (0) | **Muto** (6) | **Perdo** (0)† | **Rego** (3) |
+| Form ↓ / Technique → | **Creo** (6) | **Intéllego** (0) | **Muto** (11) | **Perdo** (0)† | **Rego** (6) |
 |---|---:|---:|---:|---:|---:|
-| Animal (0) | 18 | 2 | 8 | 1 | 5 |
-| Aquam (0) | 18 | 2 | 8 | 1 | 5 |
-| Auram (0) | 18 | 2 | 8 | 1 | 5 |
-| **Corpus (12)** | **30** | **14** | **20** | **7** | **17** |
-| Herbam (0) | 18 | 2 | 8 | 1 | 5 |
-| Ignem (0) | 18 | 2 | 8 | 1 | 5 |
-| Imaginem (0) | 18 | 2 | 8 | 1 | 5 |
-| Mentem (0) | 18 | 2 | 8 | 1 | 5 |
-| Terram (0) | 18 | 2 | 8 | 1 | 5 |
-| Vim (0) | 18 | 2 | 8 | 1 | 5 |
+| Animal (0) | 8 | 2 | 13 | 1 | 8 |
+| Aquam (0) | 8 | 2 | 13 | 1 | 8 |
+| Auram (0) | 8 | 2 | 13 | 1 | 8 |
+| **Corpus (14)** | **22** | **16** | **27** | **8** | **22** |
+| Herbam (0) | 8 | 2 | 13 | 1 | 8 |
+| Ignem (0) | 8 | 2 | 13 | 1 | 8 |
+| Imaginem (0) | 8 | 2 | 13 | 1 | 8 |
+| Mentem (0) | 8 | 2 | 13 | 1 | 8 |
+| Terram (0) | 8 | 2 | 13 | 1 | 8 |
+| Vim (0) | 8 | 2 | 13 | 1 | 8 |
 
 † Deficient Technique halves the **whole** total, not just the Technique, and the halving is
 applied last.
@@ -230,12 +313,14 @@ Compare that total to the spell's level:
 
 | Modifier | Value | When it applies |
 |---|---:|---|
-| **Magical Focus** | **+12** Creo Corpus | Only spells that raise or lower a physical Characteristic. Add the lower of Technique and Form a second time. Not healing, not recovery |
+| **Magical Focus — Muto Corpus** | **+11** | Hardening flesh against harm. Add the lower of Technique and Form a second time; Muto is 11 against Corpus 14, so the Focus is worth 11 |
+| **Magical Focus — Creo Corpus** | **+6** | Raising a physical Characteristic. The lower Art here is Creo 6. He knows no such spell yet; the Focus is waiting for one |
+| **Outside the Focus** | — | Healing, recovery, the senses, moving a body, and everything else |
 | **Encumbrance** | **−2** | In full harness; zero out of armour. It penalises casting and Initiative and does **not** touch Attack or Defense |
 | **Aura** | **+3** typical covenant · **0** in the field · negative in a Divine or Infernal aura | The grid assumes 0, that is, on campaign |
-| **Ritual** | **+1** | Artes Liberales 1 + Philosophiae 0, on Ritual casting only |
-| **Raw vis** | +2 per pawn, up to his score in that Art | And **+1 botch die per pawn** |
-| **Words and gestures** | Loud +1 · firm 0 · quiet −5 · none −10 <br> Exaggerated +1 · bold 0 · subtle −2 · none −5 | A Ritual cannot be cast at all without a loud voice and exaggerated gestures |
+| **Ritual** | **+1** | Artes Liberales 1 + Philosophiae 0. He knows no Rituals |
+| **Raw vis** | +2 per pawn, up to his score in that Art | And **+1 botch die per pawn**. He needs none of it to cast anything he knows |
+| **Words and gestures** | Loud +1 · firm 0 · quiet −5 · none −10 <br> Exaggerated +1 · bold 0 · subtle −2 · none −5 | *Hardened Flesh* has eleven points of margin, so he can cast **that one** quietly and subtly and still pay nothing |
 | **Confidence** | +3 | Three points per session |
 | **Wounds and Fatigue** | −1 / −3 / −5 | Cumulative, and they hit casting as hard as swordplay |
 
@@ -243,13 +328,14 @@ Compare that total to the spell's level:
 
 | Situation | Total |
 |---|---|
-| *Blessing of the Steadfast Champion* (CrCo 45 Ritual), at the covenant out of harness | 30 + focus 12 + Aura 3 + Artes Liberales 1 = **46 + stress die** against 45 — free |
-| *Hardened Flesh of the Housecarl* (MuCo 25) on the vanguard, in the field, in harness | 20 − Enc 2 = **18 + die** against 25 — short by 7, so it casts and costs a Fatigue level |
-| The same, with four pawns of Corpus vis | **26 + die** — free, at the cost of four extra botch dice |
-| *Purification of the Festering Wounds* (CrCo 20) — healing, so no focus | 30 − Enc 2 = **28 + die** against 20 — free |
-| *Endurance of the Berserkers* (ReCo 15) | 17 − Enc 2 = **15 + die** against 15 — free, with nothing to spare |
-| *Bind Wound* (CrCo 10) | **28 + die** against 10 — free |
-| Any Perdo effect at all | Creo Corpus 30 against Perdo Corpus 7. He is not a destroyer, and the sheet shows it |
+| **Shield of the Iron Line** (MuCo 35) on the whole warband, in the field, in harness | 27 + focus 11 − Enc 2 = **36 + die** against 35 — **free**, one point to spare |
+| **Hardened Flesh of the Housecarl** (MuCo 25) on one man | 27 + focus 11 − Enc 2 = **36 + die** against 25 — free, **eleven** to spare |
+| *Endurance of the Berserkers* (ReCo 20) on a wounded grog | 22 − Enc 2 = **20 + die** against 20 — free, nothing to spare |
+| *Purification of the Festering Wounds* (CrCo 20) — healing, outside the Focus | 22 − Enc 2 = **20 + die** against 20 — free, nothing to spare |
+| *Bind Wound* (CrCo 10) | **20 + die** against 10 — free |
+| *Spasms of the Uncontrolled Hand* (ReCo 5) | **20 + die** against 5 — free, and **15 points of Penetration** against a man with no Magic Resistance |
+| *Eyes of the Cat* (MuCo 5) — the senses, outside the Focus | 27 − Enc 2 = **25 + die** against 5 — free |
+| Any Perdo effect at all | Muto Corpus 27 against Perdo Corpus 8. He is not a destroyer, and the sheet shows it |
 
 ### Spontaneous magic
 
@@ -259,11 +345,11 @@ Both round down. Out of armour, no aura:
 
 | Combination | Casting Score | Non-fatiguing | Fatiguing, average die |
 |---|---:|---:|---:|
-| Creo Corpus *(in focus)* | 42 | **8** | ~26 |
-| Creo Corpus *(other)* | 30 | 6 | ~20 |
-| Muto Corpus | 20 | 4 | ~15 |
-| Rego Corpus | 17 | 3 | ~13 |
-| Anything in a Form he does not have | 18 or less | 3 or less | ~11 or less |
+| Muto Corpus *(in focus)* | 38 | **7** | ~24 |
+| Muto Corpus *(outside)* | 27 | 5 | ~18 |
+| Creo Corpus | 22 | 4 | ~16 |
+| Rego Corpus | 22 | 4 | ~16 |
+| Anything in a Form he does not have | 13 or less | 2 or less | ~11 or less |
 
 Anything to do with a human body he can improvise a little. Everything else on the grid is
 decoration.
@@ -272,108 +358,157 @@ decoration.
 
 ## Grid 2 — Laboratory Totals, all fifty combinations
 
-> **Each cell is Intelligence (+2) + Magic Theory (4) + Technique + Form + Aura (+3)**, before any
+> **Each cell is Intelligence (+2) + Magic Theory (3) + Technique + Form + Aura (+3)**, before any
 > focus. **The same number is the highest spell level he could invent or learn in one season.**
 
-| Form ↓ / Technique → | **Creo** (16) | **Intéllego** (0) | **Muto** (6) | **Perdo** (0)† | **Rego** (3) |
+| Form ↓ / Technique → | **Creo** (6) | **Intéllego** (0) | **Muto** (11) | **Perdo** (0)† | **Rego** (6) |
 |---|---:|---:|---:|---:|---:|
-| Animal (0) | 25 | 9 | 15 | 4 | 12 |
-| Aquam (0) | 25 | 9 | 15 | 4 | 12 |
-| Auram (0) | 25 | 9 | 15 | 4 | 12 |
-| **Corpus (12)** | **37** | **21** | **27** | **10** | **24** |
-| Herbam (0) | 25 | 9 | 15 | 4 | 12 |
-| Ignem (0) | 25 | 9 | 15 | 4 | 12 |
-| Imaginem (0) | 25 | 9 | 15 | 4 | 12 |
-| Mentem (0) | 25 | 9 | 15 | 4 | 12 |
-| Terram (0) | 25 | 9 | 15 | 4 | 12 |
-| Vim (0) | 25 | 9 | 15 | 4 | 12 |
+| Animal (0) | 14 | 8 | 19 | 4 | 14 |
+| Aquam (0) | 14 | 8 | 19 | 4 | 14 |
+| Auram (0) | 14 | 8 | 19 | 4 | 14 |
+| **Corpus (14)** | **28** | **22** | **33** | **11** | **28** |
+| Herbam (0) | 14 | 8 | 19 | 4 | 14 |
+| Ignem (0) | 14 | 8 | 19 | 4 | 14 |
+| Imaginem (0) | 14 | 8 | 19 | 4 | 14 |
+| Mentem (0) | 14 | 8 | 19 | 4 | 14 |
+| Terram (0) | 14 | 8 | 19 | 4 | 14 |
+| Vim (0) | 14 | 8 | 19 | 4 | 14 |
 
 † Perdo halved, as above.
 
-**With the focus, Creo Corpus is 49** — for Characteristic magic only. That one number is the
-character. He has never used it: he has spent no seasons in a laboratory and invented nothing.
+**With the Focus, Muto Corpus is 44 and Creo Corpus is 34** — for bodily enhancement only. The
+first of those numbers is the character. He has never used either: he has spent no seasons in a
+laboratory and invented nothing.
 
 ---
 
-## Spells Known — six spells, 120 levels, all learned during apprenticeship
+## Spells Known — seven spells, 120 levels, all learned during apprenticeship
 
 He has invented nothing since his Gauntlet and spent no seasons in a laboratory. Everything he
 knows, his parens taught him.
 
 The ceiling on what he could learn at Gauntlet was Technique + Form + Intelligence + Magic Theory
-+ 3, with the focus where it applied: **45** for Characteristic magic, 34 for other Creo Corpus,
-**25** for Muto Corpus, 22 for Rego Corpus. Four of the six sit exactly on their ceiling.
++ 3, with the Focus where it applied: **44** for bodily enhancement in Muto Corpus, 33 for other
+Muto Corpus, 28 for Creo Corpus, 28 for Rego Corpus. *Shield of the Iron Line* is the tightest at
+35 of a possible 44, and every other spell has room to spare.
 
 | Spell | Art | Level | R / D / T | Effect | Design |
 |---|---|---:|---|---|---|
-| **Blessing of the Steadfast Champion** *(Ritual)* | CrCo | **45** | Touch / Mom / Ind | **Permanently raises one physical Characteristic by a point, to no more than +2.** Nine pawns of Creo or Corpus vis; two and a quarter hours to cast | Base 40, +1 Touch |
-| **Hardened Flesh of the Housecarl** | MuCo | **25** | Touch / **Diameter** / Ind | **+3 Soak** for twenty combat rounds | Base 15, +1 Touch, +1 Diameter |
+| **Shield of the Iron Line** | MuCo | **35** | Touch / Diameter / **Group** | **+3 Soak to the whole warband**, up to ten men, for twenty combat rounds | Base 15, +1 Touch, +1 Diameter, +2 Group |
+| **Hardened Flesh of the Housecarl** | MuCo | **25** | Touch / Diameter / Ind | **+3 Soak** to one man for twenty combat rounds. Fifth magnitude, so nobody Warps | Base 15, +1 Touch, +1 Diameter |
+| **Endurance of the Berserkers** | ReCo | 20 | Touch / Diameter / Ind | The target's body acts as **unwounded and unfatigued** for twenty rounds. No concentration needed | Base 10, +1 Touch, +1 Diameter |
 | Purification of the Festering Wounds | CrCo | 20 | Touch / Moon / Ind | +9 to Recovery rolls, if it covers the whole recovery interval | Base 4, +1 Touch, +3 Moon |
-| Endurance of the Berserkers | ReCo | 15 | **Per** / Conc / Ind | His body acts as unwounded and unfatigued while he concentrates. Himself only | Base 10, +1 Conc |
 | Bind Wound | CrCo | 10 | Touch / Sun / Ind | Wounds cannot worsen; no natural healing while it runs | Base 3, +1 Touch, +2 Sun |
+| Spasms of the Uncontrolled Hand | ReCo | 5 | **Voice** / Conc / Ind | An enemy's hand spasms and he drops what he is holding | Base 2, +2 Voice, +1 Conc |
 | Eyes of the Cat | MuCo (An) | 5 | Touch / Sun / Ind | The target sees in near-darkness | Base 2, +1 Touch, +2 Sun, requisite free |
 
-**45 + 25 + 20 + 15 + 10 + 5 = 120**
+**35 + 25 + 20 + 20 + 10 + 5 + 5 = 120**
 
-### The Blessing — his life's work
+**No Rituals, no vis, no seasons.** Every one of the seven casts free in the field, in harness, on
+the first attempt. There is nothing on this sheet he has to save up for or plan around, which is
+the whole point of him.
 
-*Blessing of the Steadfast Champion* is the spell the whole build exists to cast, and the only one
-that uses the focus. One physical Characteristic, up a point, to no more than +2, **permanently**.
-Cast at the covenant out of harness it is a Casting Score of 45 + Artes Liberales 1 = **46 against
-a level of 45** — free unless he botches. Nine pawns of vis and two and a quarter hours.
+### Shield of the Iron Line — the reason he is there
 
-What the point buys, chosen as he casts:
+MuCo 35, Touch, Diameter, Group. **+3 Soak to every man in the warband**, up to about ten adult
+humans, for twenty combat rounds. One casting, before contact, and the whole line is armoured
+beyond its armour.
 
-| Characteristic | What it gives the man, for life |
-|---|---|
-| **Dexterity** | +1 Attack — and, since Attack Advantage feeds the Damage Total, +1 damage on every blow that lands |
-| **Strength** | +1 Damage, and one point less Encumbrance |
-| **Quickness** | +1 Defense and +1 Initiative |
-| **Stamina** | +1 Soak, +1 to Fatigue rolls, and for a magus +1 to every Casting Score |
+Hardening flesh is bodily enhancement, so the Focus applies and adds the lower Art a second time:
+Mu 11 + Co 14 + focus 11 + Sta 2 − Enc 2 = **36 against a level of 35.** Free, with one point of
+margin.
 
-**He can cast it on himself.** Touch range must beat his own Magic Resistance of 17, so he casts it
-before performing the Parma Magica ritual and raises the Parma afterwards; a magus takes no
-Warping from an effect he cast himself. **Strength +1 → +2** would give him +1 damage, +1 Casting
-Score and +1 Initiative at a stroke, since Encumbrance is Burden minus Strength.
+That one point is the whole cost of the build. A Light Wound, a heavier load or an unfriendly aura
+put it back to a Fatigue level, and **the cheapest way to buy room is a point of Muto**, which the
+Focus doubles while Muto is the lower Art.
 
-At ninth magnitude it costs its recipient a single Warping Point unless he invents a version cut
-to fit one named man, which the rules allow: *"only the designated target, and the caster, do not
-suffer Warping."*
+**Its price is Warping.** Level 35 is seventh magnitude, and *"any Hermetic spell of sixth
+magnitude or higher"* is a powerful effect: every man it touches takes one Warping Point. Six
+points make Warping Score 1, so over a campaign of a few months this is an accounting entry rather
+than a problem. Over years it would matter, and that is what *Hardened Flesh* is for.
 
-### Hardened Flesh — the spell that protects the whole line
+### Hardened Flesh — the same spell, one man, no Warping
 
-MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak, fifth magnitude so **nobody Warps**.
-Outside the focus, so his Casting Score is 18 against a level of 25: it always takes effect, and
-it always costs him **one Fatigue level**. Four pawns of Corpus vis would make it free, at four
-extra botch dice.
+MuCo 25, Touch, Diameter — +3 Soak for twenty rounds, fifth magnitude so **nobody Warps**. Casting
+Score **36 against 25**: eleven points of margin, which means he can cast it wounded, in a bad
+aura, in a quiet voice and with a subtle gesture, and still pay nothing.
 
-**Cast it on the vanguard.** A group's Soak *is* the vanguard's Soak — *"the defending group's
-Soak (which is equal to the vanguard's Soak)"* — and an attacking group inflicts its damage once
-per member. So +3 Soak on one man reduces every blow that lands on the whole group:
+It is the version for the long march, for a man he will be buffing every week, and for anywhere he
+does not want to leave a mark. It is also the version he uses when the group he cares about is one
+man wide.
+
+**Either spell is best aimed at the vanguard.** A group's Soak *is* the vanguard's Soak — *"the
+defending group's Soak (which is equal to the vanguard's Soak)"* — and an attacking group inflicts
+its damage once per member. So even the single-target version protects the whole line:
 
 | Vanguard's Soak | Wounds the group takes per round | Damage getting through |
 |---|---:|---:|
 | 7, unbuffed | 1.81 | 8.87 |
-| 10, with *Hardened Flesh* | **0.94** | **4.37** |
+| 10, hardened | **0.94** | **4.37** |
 
 Over a five-round melee that is **about four and a half wounds prevented across a group of four**,
-for one casting and one Fatigue level. It is the most valuable thing he does in a fight, and by
-some distance.
+for one casting and nothing at all. *Shield of the Iron Line* then does the same again for every
+man not standing in the vanguard's shadow.
 
 On Aldric himself it is nearly wasted — Soak 14 to 17 moves his chance of being wounded from 3.8%
 to 2.3%. Tough already did that job. Cast it outward.
+
+### Endurance of the Berserkers — now he can give it away
+
+ReCo 20, Touch, Diameter. *"Eliminate the penalties of Fatigue and wounds"* for twenty rounds, on
+**any man he can reach**, with no concentration to hold. A grog at a Medium Wound is fighting at
+−3 to everything; this takes that away and hands him his full Attack, Defense and Soak back for
+the rest of the melee.
+
+Casting Score **20 against a level of 20** — free, with nothing to spare. Rego 6 exists for this
+one spell, and a seventh point of Rego is the cheapest margin on the sheet.
+
+The wounds are still there. He is ignoring them, not healing them, and when the spell ends he is
+exactly as badly hurt as he was — which is what *Bind Wound* and *Purification* are for.
+
+**On himself** it works the same way: he suppresses his Parma by concentrating, lets it in, and
+takes the concentration back up. That costs him every point of Magic Resistance for a moment, so
+he does it before contact rather than in front of a magus.
+
+### Spasms of the Uncontrolled Hand — the one thing he does to an enemy
+
+ReCo 5, Voice, Concentration. The target's hand spasms and he drops whatever is in it. Casting
+Score 20 against a level of 5 leaves **15 points of Penetration**, and an ordinary soldier has no
+Magic Resistance at all, so it simply works.
+
+It costs him his concentration, which means he is not swinging while he holds it. Against a
+champion in the enemy vanguard, that is a trade worth making.
 
 # Combat
 
 ## Equipment
 
-- **Longsword** — Init +2, Atk +4, Dfn +1, Dam +6, Str 0, Load 1, Expensive. A gift from his parens
-- **Heater shield** — Dfn +3, Load 2
-- **Full chain mail** — Protection 9, Load 6, Expensive
-- Wizardly robes, a satchel with 3 pawns of Corpus vis, a chirurgeon's roll, and a Danish riding horse
+### Arms and armour
 
-Weapon and shield modifiers add together. **Load 9 → Burden 3 → Encumbrance 2**, Encumbrance being
-the amount by which Burden exceeds Strength.
+| Item | Init | Atk | Dfn | Dam | Str | Load | Cost |
+|---|---:|---:|---:|---:|---:|---:|---|
+| **Longsword** — a gift from his parens | +2 | +4 | +1 | +6 | 0 | 1 | Expensive |
+| **Heater shield** | 0 | 0 | +3 | — | 0 | 2 | Standard |
+| **Full chain mail** *(Protection 9)* | — | — | — | — | — | 6 | Expensive |
+| | | | | | **9** | |
+
+Weapon and shield modifiers add together, which is where Attack +13 and Defense +12 come from.
+**Load 9 → Burden 3 → Encumbrance 2**, Encumbrance being the amount by which Burden exceeds
+Strength. Encumbrance costs him two on every Casting Score and two on Initiative, and **nothing at
+all on Attack or Defense**.
+
+### Everything else
+
+| Item | Note |
+|---|---|
+| Wizardly robes | Worn at the covenant and in front of the Order. Load 0 |
+| Chirurgeon's roll | Needles, thread, linen, a bone saw. The tools behind Chirurgy 2 |
+| 3 pawns of Corpus vis | His whole stock. He needs none of it to cast — it is for emergencies and for trade |
+| Bohemian riding horse | Unbothered by his Gift, thanks to Inoffensive to Animals |
+| Travelling kit | Cloak, bedroll, tinderbox, waterskin, a fortnight's silver |
+
+**Out of harness** — robes only, Encumbrance 0 — every Casting Score rises by 2, and by 5 at the
+covenant with its +3 aura. Soak falls from 14 to 5.
 
 ## Combat scores
 
@@ -420,33 +555,35 @@ No Reputation at the start of play.
 
 | Period | Allowance | Spent |
 |---|---:|---|
-| Native language | 75, free | Norse 5 |
-| Early childhood, ages 0–5 | 45 | Zealand Lore 2 (15), Athletics 2 (15), Swim 2 (15) — **45** |
-| Later life, ages 5–15 | 15 a year, **150** | Awareness 3 (30), Brawl 3 (30), Ride 3 (30), Low German 3 (30), Folk Ken 2 (15), Leadership 2 (15) — **150** |
+| Native language | 75, free | Czech 5 |
+| Early childhood, ages 0–5 | 45 | Athletics 1 (5), Awareness 2 (15), Brawl 2 (15), Swim 1 (5), Bohemia Lore 1 (5) — **45** |
+| Later life, ages 5–15 | 15 a year, **150** | Leadership 4 (50), Ride 3 (30), Chirurgy 2 (15), Concentration 2 (15), Low German 2 (15), Single Weapon 4→5 (25) — **150** |
 | Warrior | 50, Martial Abilities only | Single Weapon 4 — **50** |
-| Apprenticeship, ages 15–30 | 240 plus 120 spell levels | Abilities 95 + Arts 145 = **240**; and 120 levels of spells |
-| Magus, ages 30–35 | 30 a year, **150** | 146 named below, 4 banked |
+| Apprenticeship, ages 15–30 | 240 plus 120 spell levels | Abilities 90 + Arts 150 = **240**; and 120 levels of spells |
 
-**Apprenticeship Abilities, 95:** Latin 4 (50), Magic Theory 3 (30), Artes Liberales 1 (5),
-Parma Magica 1 (5), Chirurgy 1 (5).
+**Apprenticeship Abilities, 90 — the Order's recommended minimum, exactly:** Latin 4 (50),
+Magic Theory 3 (30), Artes Liberales 1 (5), Parma Magica 1 (5).
 
-**Apprenticeship Arts, 145 spent:** Creo 12 — 78 points, but only **52 spent**, the Affinity
-adding half again — Corpus 11 (66), Muto 6 (21), Rego 3 (6). Muto 6 is the minimum that puts a
-level 25 Muto Corpus spell inside his Gauntlet ceiling.
+**Apprenticeship Arts, 150 spent:** **Corpus 14** — 105 points, but only **70 spent**, the Affinity
+adding half again — Muto 8 (36), Creo 6 (21), Rego 6 (21). Two experience points left over and
+nothing banked.
 
-**Post-Gauntlet, 146 of 150:** Leadership 2→4 (35), Chirurgy 1→3 (25), Single Weapon 4→5 (25),
-Magic Theory 3→4 (20), Concentration 0→2 (15), Corpus 11→12 (12), Order of Hermes Lore 1 (5),
-Creo 12→13 (9 spent, 13 gained). Four points banked. **No spell levels and no laboratory
-seasons.**
+**No post-Gauntlet advancement.** He swore the Oath this year. He has invented nothing, spent no
+season in a laboratory, and has no Order of Hermes Lore, Penetration, Finesse or Philosophiae.
 
-**Caps observed.** At 35 no Ability may exceed 6 at creation; his highest are 5. Improved
+**Caps observed.** At 30 no Ability may exceed 6 at creation; his highest are 5. Improved
 Characteristics does not lift the +3 ceiling on a single Characteristic and nothing reaches it.
 Every spell is within his Gauntlet ceiling for its own Technique and Form, calculated with the
-focus only where it genuinely applies — the Blessing at 45 and *Hardened Flesh* at 25 both sit
-exactly on theirs. Spell levels above 5 are multiples of five.
+Focus only where it genuinely applies. Spell levels above 5 are multiples of five.
+
+**The House's free Virtue is a choice, and he took the second one.** *"Mercere — Puissant Creo or
+Puissant Muto."* Muto is what hardens flesh, and Puissant makes it effective 11 against a Corpus of
+14, which is what keeps it the lower Art the Focus doubles. Ten points of Virtues, ten of Flaws,
+and no spell, Ability or Characteristic outside its cap.
 
 **A base Individual for Corpus is an adult human up to Size +1** — so Aldric is himself a base
-Individual, needing no size magnitudes.
+Individual, needing no size magnitudes. **A base Group is about ten adult humans**, which is the
+size of warband one casting of *Shield of the Iron Line* covers.
 
 ---
 

@@ -19,23 +19,31 @@ produces it. Assumes the sheet in `character-sheet.md`.
 | **Soak** | **14**, flat — no die | Sta +2 + chain mail 9 + Tough 3 |
 | **Concentration** | **+4 + stress die** | Sta +2 + Concentration 2 |
 | **Fast-cast speed** | **+4 + stress die** | Qik +1 + Finesse 0 + Fast Caster 3, against the opponent's Initiative Total |
-| **Treating a wounded man** | **+3** to his Recovery Total | Chirurgy 3, on top of any spell |
+| **Treating a wounded man** | **+2** to his Recovery Total | Chirurgy 2, on top of any spell |
 | **Movement** | **9 paces walking**, 18 hurrying, 36 running | 10 + Qik 1 − Encumbrance 2 |
 | Mounted | **+3 to Attack and Defense** → **+16 / +15** | Ride 3, capped at +3 |
 | Exertion | **+7**, costs one Fatigue level | Single Weapon 5 +2 Puissant |
 
-**His six spells, and what each costs him in the field:**
+**His seven spells, and what each costs him in the field.** *Shield of the Iron Line* and
+*Hardened Flesh* are inside the **Magical Focus for bodily enhancement**; the other five are not
+and do not need to be:
 
 | Spell | Level | Casting Total | Result |
 |---|---:|---:|---|
-| *Eyes of the Cat* | 5 | 18 + die | Free |
-| *Bind Wound* | 10 | 28 + die | Free |
-| *Endurance of the Berserkers* | 15 | 15 + die | Free, with nothing to spare |
-| *Purification of the Festering Wounds* | 20 | 28 + die | Free |
-| **Hardened Flesh of the Housecarl** | **25** | **18 + die** | **Short by 7 — casts, and costs a Fatigue level** |
-| **Blessing of the Steadfast Champion** (Ritual) | **45** | 46 + stress die *(at the covenant)* | Free, but nine pawns and two hours |
+| *Eyes of the Cat* | 5 | 25 + die | Free |
+| *Spasms of the Uncontrolled Hand* | 5 | 20 + die | Free · 15 Penetration |
+| *Bind Wound* | 10 | 20 + die | Free |
+| *Endurance of the Berserkers* | 20 | 20 + die | Free — exactly |
+| *Purification of the Festering Wounds* | 20 | 20 + die | Free — exactly |
+| **Hardened Flesh of the Housecarl** | **25** | **36 + die** *(Focus +11)* | **Free**, eleven to spare |
+| **Shield of the Iron Line** | **35** | **36 + die** *(Focus +11)* | **Free** — the whole warband, one point to spare |
 
 Cast at the covenant out of harness and add **+5** to every line — Encumbrance 0 and a +3 aura.
+
+**Nothing here needs vis, a Ritual, or a season.** Every spell he owns clears its own level in
+full harness on a bare Casting Score. The two tight ones are *Shield of the Iron Line* at one point
+of margin and the two level-20 spells at none: a single wound penalty or an unfriendly aura turns
+any of the three into a Fatigue level.
 
 **Wounds, Size +1:** Light 1–6 (−1) · Medium 7–12 (−3) · Heavy 13–18 (−5) · Incapacitating 19–24 · Dead 25+
 **Fatigue:** Fresh 0 · Winded 0 · Weary −1 · Tired −3 · Dazed −5 · Unconscious
@@ -51,31 +59,17 @@ One action a round: attack, cast, or disengage — **plus** a fast-cast if he wa
 
 **Casting is his faster action.** Spells carry no weapon Initiative modifier, and Fast Caster's +3
 more than covers the longsword's +2, so he acts at +2 when casting against +1 when swinging. If
-round one is going to be *Hardened Flesh*, he gets there sooner than if he drew.
+round one is going to be *Shield of the Iron Line*, he gets there sooner than if he drew.
 
 **Fast-casting is thin but real.** Fast-cast spells are Spontaneous unless mastered, at −10 to the
-Casting Score and +2 botch dice. His best is a fatiguing Spontaneous Creo Corpus effect:
-(40 − 10 + die) ÷ 2, so roughly **level 17** on an average die. Enough to improvise a heal or a
-shove in an emergency; not a plan.
-**Every spell he owns casts with no roll needed and no Fatigue**, because his Casting Score alone
-already exceeds the level. The margins, in the field:
+Casting Score and +2 botch dice. Fatiguing Spontaneous is (Casting Score + stress die) ÷ 2, so an
+improvised heal in the field is (20 − 10 + die) ÷ 2 — roughly **level 10** on an average die, and
+**level 18** for a hardening inside the Focus. Enough for an emergency; not a plan.
 
-| Spell | Level | Casting Total | Margin over the level |
-|---|---:|---:|---:|
-| *Precision of the Hawk* | 10 | 29 + die | **+19** |
-| *Aura of Martial Precision* | 20 | 29 + die | **+9** |
-| *Gift of the Bear's Fortitude* | 25 | 29 + die | **+4** |
-| *Aegis of Hardened Flesh* | 25 | 29 + die | **+4** |
-| *Hide of the Whole Warband* | 25 | 29 + die | **+4** |
-| *Endurance of the Berserkers* | 15 | 18 + die | **+3** |
-| *Gift of the Frog's Legs* | 15 | 18 + die | **+3** |
-| *Bind Wound* | 10 | 32 + die | **+22** |
-| *Purification of the Festering Wounds* | 20 | 32 + die | **+12** |
-| *Rally of the Fallen* | 25 | 32 + die | **+7** |
-
-So the die never decides whether a spell works. **The only thing that can fail one is a botch** —
-a zero on the stress die followed by a zero on the botch die, about 1% per cast under stress,
-which also sets the Casting Total to zero and hands him a Warping Point per zero rolled on the botch dice.
+**No spell he owns can fail on the die.** Every Casting Score is at or above the spell's level, so
+the only thing that stops a casting is a **botch** — a zero on the stress die followed by a zero on
+a botch die, about 1% per cast under stress, which also sets the Casting Total to zero and hands
+him a Warping Point per zero rolled.
 
 > "If the maga is relaxed while casting a Formulaic spell, then there are no botch dice, no
 > matter how many the circumstances would normally add."
@@ -85,33 +79,9 @@ arithmetic above.
 
 ---
 
-## Stage 1 — Before the season: the Blessing
+## Stage 1 — The hour before contact
 
-*Blessing of the Steadfast Champion*, CrCo 45 Ritual, at the covenant out of harness:
-Casting Score 45 + Artes Liberales 1 = **46 + a stress die** against level 45 — free unless he
-botches. Nine pawns of Creo or Corpus vis, and two and a quarter hours of ceremony.
-
-**One physical Characteristic, up one point, to no more than +2, permanently.** Not a per-battle
-spell — a season's decision, and the man carries it for life.
-
-| He chooses | The man gets, for life |
-|---|---|
-| **Dexterity** | +1 Attack — and since Attack Advantage feeds the Damage Total, +1 damage on every blow that lands |
-| **Strength** | +1 Damage, and one point less Encumbrance |
-| **Quickness** | +1 Defense and +1 Initiative |
-| **Stamina** | +1 Soak, +1 to Fatigue rolls |
-
-**On himself first.** Touch range must beat his own Magic Resistance of 17, so he casts it before
-performing the Parma Magica ritual and raises the Parma afterwards; a magus takes no Warping from
-an effect he cast himself. **Strength +1 → +2** gives him +1 damage, +1 Casting Score and +1
-Initiative at a stroke, because Encumbrance is Burden minus Strength.
-
-At ninth magnitude it costs its recipient one Warping Point, unless he invents a version cut to
-fit one named man — which the rules allow, and which is a season's work each.
-
-## Stage 2 — The hour before contact
-
-1. **Perform Parma Magica.** Two minutes; lasts to the next sunrise or sunset. Magic Resistance 17
+1. **Perform Parma Magica.** Two minutes; lasts to the next sunrise or sunset. Magic Resistance 19
    against Corpus, 5 against everything else.
 2. **Arm.** Encumbrance 2 costs 2 Casting Score and 2 Initiative and **nothing on Attack or
    Defense**: *"in combat, Attack and Defense are not [penalised], as long as the Encumbrance is
@@ -121,41 +91,83 @@ fit one named man — which the rules allow, and which is a season's work each.
    Leadership, so **up to +12 to Attack or Defense**, switchable each round.
 4. **Mount if the ground allows.** Ride 3 is +3 to Attack *and* Defense, free, all fight. His Gift
    does not trouble the horse — that is what Inoffensive to Animals bought.
+5. **Cast the buff while he is still relaxed.** *"If the maga is relaxed while casting a Formulaic
+   spell, then there are no botch dice."* A *Shield of the Iron Line* laid on before contact cannot
+   go wrong at all. It runs for twenty rounds, so time it to the charge, not to the horizon.
 
 ---
 
-## Stage 3 — Round by round
+## Stage 2 — Round by round
 
 Take the first line that applies.
 
-### 1. Is the line about to be hit? → *Hardened Flesh of the Housecarl*, **on the vanguard**
+### 1. Is the line about to be hit? → *Shield of the Iron Line*, **on the whole warband**
 
-MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak. Fifth magnitude, so nobody Warps.
-Casting Total 18 against 25: it always takes effect and always costs **one Fatigue level**. Four
-pawns of Corpus vis makes it free, at four extra botch dice.
+MuCo 35, Touch, Diameter, Group — twenty combat rounds, **+3 Soak to every man**, up to about ten.
+Hardening flesh counts as bodily enhancement, so the Focus adds Muto 11 a second time: Mu 11 +
+Co 14 + focus 11 + Sta 2 − Enc 2 = **36 against 35. Free.** No Fatigue, no vis, and no botch dice
+at all if he casts it relaxed before contact.
 
-**Cast it on the vanguard, not on whoever looks frightened.** A group's Soak *is* the vanguard's
+**One point of margin.** A Light Wound, a heavier load, or an unfriendly aura all put it back to
+costing a Fatigue level. Cast it early.
+
+**Every man it touches takes a Warping Point** — level 35 is seventh magnitude. Six points make
+Warping Score 1, so on a short campaign this is a line in a ledger. If the same grog is going to be
+buffed every week for years, use *Hardened Flesh* on him instead.
+
+**If he only has one man to protect, it is still the vanguard.** A group's Soak *is* the vanguard's
 Soak — *"the defending group's Soak (which is equal to the vanguard's Soak)"* — and an attacking
-group inflicts its damage once per member. So one casting shields the whole line:
+group inflicts its damage once per member, so a single casting on the right man shields the line:
 
 | Vanguard's Soak | Wounds the group takes per round | Damage getting through |
 |---|---:|---:|
 | 7, unbuffed | 1.81 | 8.87 |
-| 10, with *Hardened Flesh* | **0.94** | **4.37** |
+| 10, hardened | **0.94** | **4.37** |
 
 Over a five-round melee that is **about four and a half wounds prevented across a group of four**,
-for one casting and one Fatigue level. Nothing else he does comes close.
+for one casting and nothing at all. Nothing else he does comes close.
 
 On himself it is nearly wasted: Soak 14 → 17 moves his own chance of being wounded from 3.8% to
 2.3%. Tough already did that job.
 
-### 2. Is someone down? → *Bind Wound*
+### 2. Same spell, one man, no Warping → *Hardened Flesh of the Housecarl*
 
-CrCo 10, Touch, Sun. Casting Total 28 — free. Wounds cannot worsen, which is what a man needs
+MuCo 25, Touch, Diameter, Individual. Identical +3 Soak, fifth magnitude so **nobody Warps**, and
+the Casting Total is **36 against 25** — eleven points of margin. This is the one he can cast
+wounded, in a bad aura, in a quiet voice with a subtle gesture, and still pay nothing.
+
+### 3. Is a man still standing but hurt? → *Endurance of the Berserkers*, **on him**
+
+ReCo 20, Touch, Diameter. *"Eliminate the penalties of Fatigue and wounds"* for twenty rounds, on
+anyone he can put a hand on, with **no concentration to hold**. A grog at a Medium Wound is at −3
+to Attack, Defense and everything else; this gives all of it back for the rest of the melee.
+
+Casting Total **20 against 20** — free, with nothing to spare, so cast it before he takes his own
+first wound.
+
+**It does not stop the wounds.** *"A character under the influence of this spell does risk
+worsening wounds, but he may not notice."* Every Fatigue level spent while it runs falls due the
+instant it ends. It buys a fight, not a recovery.
+
+**On himself** he suppresses his Parma by concentrating, lets it in, and takes the concentration
+back up — which costs him every point of Magic Resistance for that moment. Do it before contact.
+
+### 4. Is someone down? → *Bind Wound*
+
+CrCo 10, Touch, Sun. Casting Total 20 — free. Wounds cannot worsen, which is what a man needs
 while he is dragged out of the line. It blocks natural healing while it runs, so end it once he is
 safe.
 
-### 3. Otherwise: **swing the sword.**
+### 5. Is one enemy doing all the damage? → *Spasms of the Uncontrolled Hand*
+
+ReCo 5, Voice, Concentration. His weapon hand spasms and he drops it. Casting Total 20 against 5
+leaves **15 points of Penetration**, and an ordinary soldier has no Magic Resistance, so it lands.
+
+It costs his concentration for as long as he holds it, which means no swinging and no other
+casting. Against the enemy vanguard — whose Soak the whole enemy group is using — disarming one
+man is worth a round of his own attacks.
+
+### 6. Otherwise: **swing the sword.**
 
 Against an armoured soldier — Size 0, Defense +8, Soak 7:
 
@@ -166,59 +178,15 @@ Against an armoured soldier — Size 0, Defense +8, Soak 7:
 | Exerting, Attack +20 | **96%** |
 | Mounted and exerting, Attack +23 | **97.5%** |
 
-### 4. When it turns: *Endurance of the Berserkers* — and then stop casting
-
-ReCo 15, Personal, Concentration. Casting Total 15 against 15 — free, with nothing to spare, so a
-botch is the only thing that stops it. His body acts as unwounded and unfatigued while he
-concentrates.
-
-Two costs. **It does not stop the wounds** — *"A character under the influence of this spell does
-risk worsening wounds, but he may not notice"* — and the Fatigue falls due the moment it ends.
-And **it shuts down his magic**: casting while maintaining a Concentration spell is Ease Factor 15
-against his 4 + die, which is 5.9%.
-
-### Reactions
-
-**Exertion** — one Fatigue level for +7. On attack it is a single roll; on defence it covers
-*every* defence roll until his turn comes round again, which usually makes it the better buy.
-Defense **12 → 19**.
-Attack **13 + die** against an armoured soldier's Defense, damage **7 + Attack Advantage**.
-Against a Size 0 soldier with Defense +8 and Soak 7:
-
-| | Wounds on | Typical result |
-|---|---:|---|
-| Normal attack, Attack +13 | **82%** of attacks | Light 37%, Medium 32%, Heavy 9% |
-| Mounted on the destrier, Attack +15 | **90%** | Medium 39%, Light 28%, Heavy 17% |
-| Exertion, Attack +20 | **96%** | Heavy 39%, Medium 28%, Incapacitating 17% |
-
-He is a very good soldier. Four rounds in five he wounds his man.
-
-### 5. When he is finally in trouble: *Endurance of the Berserkers* — and then stop casting
-
-ReCo 15, Personal, Concentration. His body acts as unwounded and unfatigued for as long as he
-concentrates. Two costs, both severe:
-
-**It does not stop the wounds.** *"A character under the influence of this spell does risk
-worsening wounds, but he may not notice."* And every Fatigue level he spends while it runs falls
-due the instant it ends.
-
-**It shuts down his magic.** Casting while maintaining a Concentration spell is Ease Factor 15,
-and that row is not reduced for maintenance. His Concentration roll is Sta 2 + Concentration 2 =
-4 + a stress die, so he needs an 11 or better on the die: **5.9%.** Treat *Endurance of the
-Berserkers* as the button he presses when the buffing is finished and he intends to do nothing
-but fight.
-
 ### Reactions, out of the initiative order
 
 **Exertion** — one Fatigue level for +7. On attack it applies to a single roll; on Defense it
 applies to *every* Defense roll until his turn comes round again, which usually makes it the
 better buy. Defense **12 → 19**.
 
-**Fast-cast** — Qik 1 + Finesse 1 + Fast Caster 3 = **5 + die** against the opponent's Initiative
+**Fast-cast** — Qik 1 + Finesse 0 + Fast Caster 3 = **4 + die** against the opponent's Initiative
 Total. Fast-cast spells are Spontaneous unless he has mastered the spell, at −10 to the Casting
-Score and +2 botch dice. His best fast-cast is a fatiguing Spontaneous Creo Corpus effect:
-(41 − 10 + die) ÷ 2, so roughly **level 18** on an average die. Enough to improvise a heal or a
-shove; not enough to be a plan.
+Score and +2 botch dice, as above.
 
 ---
 
@@ -240,9 +208,10 @@ three; the second group is used as printed.
 
 A failed concentration roll fails the spell *and* adds a botch die to the casting roll.
 
-**Casting inside a melee is his weak point.** *Hardened Flesh* is 18 + die against 25 *and* a
-concentration roll at Ease Factor 9 if he is being jostled. Cast it as the enemy closes, not after
-they arrive — and never in the round after he has been hit.
+**Casting inside a melee is his weak point.** *Shield of the Iron Line* clears its own level by a
+single point, so a wound penalty of −1 is enough to make it cost Fatigue, and being jostled adds a
+concentration roll at Ease Factor 9. Cast it as the enemy closes, not after they arrive — and never
+in the round after he has been hit. *Hardened Flesh*, at eleven points of margin, does not care.
 
 **Stress die reference** — a 1 rerolls and doubles, a 0 is zero and may botch:
 
@@ -255,14 +224,25 @@ they arrive — and never in the round after he has been hit.
 ## Traps
 
 **Nothing he owns is offensive.** No attack spell, no Penetration Ability, Perdo halved to
-uselessness. Against anything with Magic Resistance his magic does not reach at all; he fights it
-with a sword like any other soldier.
+uselessness. *Spasms of the Uncontrolled Hand* works on ordinary men and on nothing with Magic
+Resistance. Against a creature with Might he is a good soldier and no more.
 
-**The Blessing Warps whoever receives it** — ninth magnitude — unless the version was designed for
-that named man. Casting it on a different grog every season would tell in a few years.
+***Shield of the Iron Line* Warps everyone it touches** — seventh magnitude, one point per man per
+casting. Fine over a season, expensive over a decade. *Hardened Flesh* is the version that leaves
+no mark, and it is why both are on the sheet.
 
-**Vis in a fight is a poor trade.** Four pawns would make *Hardened Flesh* free instead of costing
-a Fatigue level, at **four extra botch dice**. Worth it before contact, rarely worth it in the press.
+**The Focus is narrow, and five of his seven spells fall outside it.** Healing, recovery, the
+cat's eyes and both Rego spells get nothing. It is worth +11 on the two Soak spells and nothing
+anywhere else.
+
+**Three spells have thin margins.** *Shield of the Iron Line* clears its level by one; *Endurance
+of the Berserkers* and *Purification of the Festering Wounds* clear theirs by nothing. Any wound
+penalty, extra Encumbrance or unfriendly aura turns all three into a Fatigue level. Only *Hardened
+Flesh*, at eleven points clear, can be cast quietly and subtly in a bad situation.
+
+**He has no way to buy attack for anyone.** Core Corpus magic offers Soak and the ignoring of
+wounds, and raising a Characteristic is a base 35 guideline he cannot reach. His men hit no harder
+for his being there; they simply do not fall over.
 
 **The Gift still costs him −3** on every social interaction with mundanes. It does *not* touch the
 trained-group rules, which are score-based with no roll, so his command in the line is unaffected;
@@ -279,8 +259,8 @@ as hard to hurt as a fresh one. His Attack, Defense and casting are what collaps
 
 ## Worked example — a landing on the Livonian shore
 
-**The warband.** Aldric, and four Danish spearmen he leads himself: Attack +9, Defense +8,
-Damage +6, Soak 7, Single Weapon 4, Size 0. The vanguard is Sigurd. Leadership 4 lets him
+**The warband.** Aldric, and four Bohemian spearmen he leads himself: Attack +9, Defense +8,
+Damage +6, Soak 7, Single Weapon 4, Size 0. The vanguard is Vitek. Leadership 4 lets him
 coordinate all four, and the other three contribute 4 + 4 + 4 = 12, capped at 3 × 4 = 12, so
 **+12 to Attack or Defense each round**.
 
@@ -293,30 +273,35 @@ groups roll 7 and 2 → **9** and **4**.
 
 Order: Enemy A 9 · **Aldric 8** · Aldric's group 6 · Enemy B 4.
 
-**Round 1.** Enemy A hits the line; Sigurd's group will put its +12 into Defense. Aldric, acting
-before his own men because he is casting, puts *Hardened Flesh of the Housecarl* on Sigurd:
-Casting Total 18 against 25, short by 7, so it takes effect and he drops to Winded — no penalty at
-that level. He is not yet engaged, so no concentration roll. **The group's Soak is now 10 for the
-next twenty rounds**, and every blow that lands on any of the four does three less damage.
+**Round 1.** Enemy A hits the line; Vitek's group will put its +12 into Defense. Aldric, acting
+before his own men because he is casting, lays *Shield of the Iron Line* over all five of them:
+Casting Score 36 against level 35, **free**. He is not yet engaged, so no concentration roll, and
+he was relaxed when he began, so no botch dice. **Every man in the warband is at +3 Soak for the
+next twenty rounds** — the vanguard's Soak is now 10, so the group takes three less from every blow
+that lands, and Aldric himself is at 17. He is still Fresh. Each of the five takes a Warping Point.
 
 **Round 2.** Aldric draws. Attack 13, rolls 5 → 18, against a warrior's Defense 6 + 3 = 9. Attack
 Advantage 9, Damage 7 + 9 = 16, less Soak 3 = **13 over**. At Size 0 the bands run Light 1–5,
 Medium 6–10, Heavy 11–15 — a **Heavy Wound**, and the man is at −5.
 
 **Round 3.** Three warriors reach him. Two miss. The third rolls 8 for Attack 15 against his
-Defense 12 + 2 = 14. Attack Advantage 1, Damage 5 + 1 = 6 against Soak 14 — nothing.
+Defense 12 + 2 = 14. Attack Advantage 1, Damage 5 + 1 = 6 against Soak 17 — nothing.
 
 **Round 4.** A warrior rolls a 1, exploding to 14, for Attack 21. Aldric rolls 0, checks his botch
-die, gets a 6 and is safe, so Defense 12. Attack Advantage 9, Damage 5 + 9 = 14 against Soak 14 —
-**still nothing.** That is what Tough buys.
+die, gets a 6 and is safe, so Defense 12. Attack Advantage 9, Damage 5 + 9 = 14 against Soak 17 —
+**still nothing.** That is what Tough and the Shield buy between them.
 
-**Round 5.** He declares Exertion, spending a second Fatigue level to Weary (−1), for Attack
-13 + 7 − 1 = **19 + die**. He rolls 6 → 25 against Defense 10. Attack Advantage 15, Damage 22,
-less Soak 3 = **19 over — Incapacitating.** The enemy line breaks.
+**Round 5.** Vitek takes a Medium Wound and is at −3. Aldric puts *Endurance of the Berserkers* on
+him — Casting Score 20 against level 20, free — and Vitek finishes the fight at full Attack and
+Defense with the wound still in him.
 
-**Afterwards.** *Purification of the Festering Wounds* over each wounded man — 28 against level
-20, free and automatic — and then his hands. Each of them recovers on **Stamina + Chirurgy 3 +
-spell 9 + a stress die**: +12 before the die for a man with Stamina 0. That is why he was brought.
+**Round 6.** Aldric declares Exertion, spending his first Fatigue level to Winded — no penalty —
+for Attack 13 + 7 = **20 + die**. He rolls 6 → 26 against Defense 10. Attack Advantage 16, Damage
+23, less Soak 3 = **20 over — Incapacitating.** The enemy line breaks.
 
-Aldric cast one spell during the fighting, spent three rounds with a sword in his hand, and did
-his real work before it started and after it stopped.
+**Afterwards.** *Purification of the Festering Wounds* over each wounded man — 20 against level 20,
+free — and then his hands. Each of them recovers on **Stamina + Chirurgy 2 + spell 9 + a stress
+die**: +11 before the die for a man with Stamina 0. That is why he was brought.
+
+Aldric cast three spells during the fighting, lost nothing for any of them, spent the rest of it
+with a sword in his hand, and did his real work in the round before contact and the hour after.

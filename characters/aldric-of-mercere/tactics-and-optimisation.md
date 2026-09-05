@@ -40,11 +40,15 @@ caster. Each champion therefore needs his own tailored copy — a season's work 
 *Hardened Flesh* at level 25 is fifth magnitude and Warps nobody, which is why it is built with
 Diameter duration rather than Sun.
 
-**Touch range cannot reach himself in a hurry.** *"Spells cast with any other Range, even if cast
-by the maga on herself, do have to overcome the caster's own Magic Resistance."* His is Corpus 12 +
-five times Parma 1 = **17**, and his Penetration is zero. The Blessing he can self-cast at leisure
-with his Parma down, then raise it again. *Hardened Flesh* on himself, mid-battle, he cannot —
-which matters less than it sounds, because Tough already puts him at Soak 14.
+**He can self-cast.** By the letter, *"spells cast with any other Range, even if cast by the maga
+on herself, do have to overcome the caster's own Magic Resistance"* — his is Corpus 12 + five times
+Parma 1 = **17** — and the book's own way round it is suppressing the Parma by concentrating, which
+*"leaves him with no Magic Resistance against anything"*. **The troupe has ruled that self-casting
+is simply available**, so both *Hardened Flesh* and the Blessing point at him without ceremony.
+
+A Target: **Group** spell is the exception that survives the ruling: *"if she is part of a Group or
+large Target, the spell fails to work on her, but may affect other people within the target."* His
+group buffs leave him out.
 
 **Encumbrance is a spellcasting statistic.** Casting Score is Technique + Form + Stamina −
 Encumbrance + Aura, and Encumbrance is Burden minus Strength. In harness he is at 2, costing him

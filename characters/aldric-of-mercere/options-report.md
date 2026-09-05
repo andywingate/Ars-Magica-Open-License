@@ -82,31 +82,46 @@ A grog's wounds change nothing until he drops. **Aldric's wounds degrade the ent
 And blessing a *grog's* Dexterity is now worth **exactly nothing** — the group's Attack is the
 vanguard's, and the other members contribute their Combat *Ability*, which no magic raises.
 
-**But there is a catch, and it disarms his one battlefield spell.** *Hardened Flesh of the
-Housecarl* is Range: Touch, and a Touch spell cast on oneself must still beat one's own Magic
-Resistance — Corpus 12 + five times Parma 1 = **17** — which with no Penetration Ability he cannot
-do. As vanguard, his only combat spell has nothing useful to point at.
+**Self-casting is available**, per the table's standing ruling, so *Hardened Flesh of the
+Housecarl* points at him perfectly well and the spell he already has still does its job. What
+changes is only where he stands: instead of buffing a grog's Soak of 7 up to 10, he buffs his own
+14 up to 17, and the whole group is behind it.
+
+*(For reference on where the ruling sits: by the letter, "spells cast with any other Range, even
+if cast by the maga on herself, do have to overcome the caster's own Magic Resistance", and the
+book's own mechanism for getting round it is suppressing the Parma by concentrating, which
+"leaves him with no Magic Resistance against anything". The ruling skips that bookkeeping.)*
 
 ---
 
 # Part A — Fix the mismatch first
 
-### A1 · Swap *Hardened Flesh* for *Gift of the Bear's Fortitude* — costs nothing
+### A1 · Consider swapping *Hardened Flesh* for *Gift of the Bear's Fortitude* — a trade, not a fix
 
 The canonical book spell: **MuCo 25, R: Personal, D: Sun, T: Ind, +3 Soak.** Base 15, +2 Sun.
 
-**Exactly the same 25 spell levels** as the spell it replaces, so this is a straight substitution
-on the sheet rather than a purchase.
+**Exactly the same 25 spell levels**, so this is a straight substitution rather than a purchase —
+but it is a genuine trade, and the spell he has is not broken.
 
 | | *Hardened Flesh* (current) | *Gift of the Bear's Fortitude* |
 |---|---|---|
-| Range | Touch — **cannot reach himself** | **Personal** — skips his own Magic Resistance |
-| Duration | Diameter, 20 rounds | **Sun** — cast at dawn, lasts all day |
-| Cast in the field | 18 vs 25, one Fatigue level, every fight | Cast once at dawn out of harness, one Fatigue level that recovers in two minutes |
-| As vanguard | useless | **group Soak 14 → 17**, all day |
+| Who it can reach | **Him or any ally** | Him only |
+| Duration | Diameter — 20 rounds, one fight | **Sun** — cast at dawn, lasts all day |
+| When it is cast | **In the fight — costs a combat action**, and a Concentration roll at Ease Factor 9 if he is jostled, which is 59% | At dawn, out of harness, at leisure |
+| Fatigue | One level **per fight** | One level **per day**, recovered in two minutes |
+| As vanguard | Group Soak 14 → 17 for the melee | Group Soak 14 → 17, all day |
 
-This is strictly better under the ruling and costs nothing. It should probably happen whatever else
-you decide.
+**The case for swapping is the action, not the range.** One spell per round is his scarcest
+resource, and he wants those rounds for his sword or a fire bolt. Sun duration buys the same +3
+Soak without ever spending a combat action or risking a Concentration roll.
+
+**The case for keeping it** is flexibility: Touch can go on a companion knight, or on a grog when
+the group has broken and he is fighting beside someone rather than in front of them. Note that
+Touch **and** Sun is not an option — base 15 +1 Touch +2 Sun is level 30, sixth magnitude, which
+would Warp whoever received it.
+
+Your call. As the sheet stands, with him as vanguard and short of combat actions, I lean to the
+swap.
 
 *(The flesh is tough and insensitive: −1 on anything needing a delicate touch. Chirurgy on a
 wounded man is exactly that, so he ends it before he starts stitching.)*
@@ -217,14 +232,14 @@ shield wall change what the warband can do more than one magus with a fire bolt.
 | # | Option | Cost | Delivers |
 |---|---|---|---|
 | 1 | **Aldric fights as vanguard** | Nothing | Damage out 33.5 → 68.2; wounds taken 1.81 → 0.30 per round |
-| 2 | **Swap to *Gift of the Bear's Fortitude*** | Nothing — same 25 levels | Group Soak 14 → 17, all day, and his combat spell works again |
+| 2 | **Swap to *Gift of the Bear's Fortitude*** *(optional)* | Nothing — same 25 levels | Group Soak 14 → 17 all day, and it frees a combat action every fight |
 | 3 | **Leadership 4 → 6** | 55 experience points | 68.2 → 137.7 damage per round |
 | 4 | **Creo Ignem 15 — the fire bolt** | One season | A free ranged attack every round, wounding on 70% |
 | 5 | **Bless his own Strength, then Dexterity** | Vis and seasons | +1 group Damage, +1 Casting Score, +1 Initiative; then +1 group Attack |
 | 6 | **Rego Corpus 20 — hold him still** | One season | Removes the enemy champion from the fight |
 | 7 | Bows for two grogs | Silver | Ranged capability that does not cost him an action |
 
-The first three cost no laboratory time at all, and together they take the warband from 33 to 138
+Items 1 and 3 cost no laboratory time at all, and together they take the warband from 33 to 138
 damage a round while cutting its casualties by more than five to one. Items 4 and 6 are two
 seasons and give him the attacking capability he currently lacks.
 
@@ -237,9 +252,11 @@ mundane men. Against a Baltic spirit, a pagan wizard or anything with Might, his
 arrive at all. If the saga will feature such things, Penetration stops being a wasted Ability and
 becomes the thing that makes the fire bolt worth having.
 
-**He cannot Touch himself.** Magic Resistance 17 and Penetration 0 mean every self-buff must be
-Range: Personal, and every Touch or Group spell he casts leaves him out of it. As vanguard, that is
-the constraint that shapes his whole spell list.
+**Group spells still leave him out.** Self-casting is ruled available, but a Target: Group spell
+is a different case — *"if she is part of a Group or large Target, the spell fails to work on her,
+but may affect other people within the target."* As vanguard he is the one whose numbers the group
+uses, so a Group buff he cannot benefit from is worth much less than it looks. That is most of why
+the Creo Corpus wound-penalty spell sits where it does in the order.
 
 **Level 25 on anything cast at another person.** Sixth magnitude Warps the recipient, which is why
 the Rego Corpus penalty-removal spell cannot have a Group version and why the Blessing stays a

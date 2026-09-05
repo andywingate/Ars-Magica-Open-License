@@ -51,6 +51,7 @@ to Riga.
 | **[character-sheet.md](character-sheet.md)** | The full sheet — Virtues and Flaws, Characteristics, Abilities, Arts, casting and laboratory grids for all fifty Technique/Form combinations, the six spells, combat scores, and the experience audit behind them |
 | **[combat-playbook.md](combat-playbook.md)** | Round by round: what to cast and when, every roll derived from the rule behind it, target numbers and odds, and a worked skirmish |
 | **[tactics-and-optimisation.md](tactics-and-optimisation.md)** | The wider picture: the constraints his magic works under, combat rules worth knowing, where his experience should go next, and variant builds |
+| **[options-report.md](options-report.md)** | Ways to give him an attacking capability: ranged spells he can invent with Creo alone, buffs that lift the whole warband's Attack, and the two non-magical levers that dwarf both |
 
 ## Quick reference
 

@@ -1,291 +1,252 @@
 # Aldric of Mercere — Options Report
 
-*A fresh look at what he can actually do, and what it would take to make him and his warband
-hit harder. Everything here is core-rules Ars Magica 5th Edition; nothing is a house ruling
-unless it says so.*
+*What he can actually do, and what it would take to give him and his warband an attacking
+capability. Core rules only. Nothing here is applied to the sheet — it is a menu.*
+
+**Two rulings from the table are assumed throughout:** the grogs will not be getting chain mail,
+and a group's five-point Combat Total range is judged on **base scores before equipment**, so the
+commander's better kit does not disqualify him from the group.
 
 ---
 
 ## Where he stands
 
-The criticism is fair. His entire repertoire is:
+His entire battlefield repertoire is *Hardened Flesh of the Housecarl* — +3 Soak on one man. The
+Blessing is a ritual and a season, the other two spells are medicine. He contributes nothing to
+killing anyone except by swinging his own sword. That is a thin character, and the criticism is fair.
 
-| Spell | What it does |
-|---|---|
-| *Blessing of the Steadfast Champion* — CrCo 45 Ritual | A permanent Characteristic. Vis and a season; not a battlefield spell |
-| *Hardened Flesh of the Housecarl* — MuCo 25 | +3 Soak, twenty rounds |
-| *Purification of the Festering Wounds* — CrCo 20 | +9 Recovery, after the fight |
-| *Bind Wound* — CrCo 10 | Stops a wound worsening |
-
-One battlefield spell, and it is defensive. He contributes nothing to killing anyone except by
-swinging his own sword. That is a thin character.
-
-**The good news is that it is thin by accident, not by construction.** Two structural facts have
-been sitting unused.
+Three structural facts change what is possible, and the second one is the whole report.
 
 ---
 
 ## Fact one — his Creo reaches into Forms he has never studied
 
-His Lab Total is Intelligence 2 + Magic Theory 4 + Technique + Form + Aura 3. With **Creo 16** and
-a Form of **zero**, that is still:
+Lab Total is Intelligence 2 + Magic Theory 4 + Technique + Form + Aura 3. With **Creo 16** and a
+Form of **zero**:
 
 > **Creo + any Form = Lab Total 25, Casting Score 16**
 
-He can invent and cast **any Creo spell up to level 25, in any Form in the game**, having never put
-an experience point into Ignem, Auram, Terram or Herbam. Level 15 and under he casts for free;
-levels 20 and 25 cost him a Fatigue level.
+He can invent and cast **any Creo spell up to level 25, in any Form in the game**, having never
+spent a point on Ignem, Auram or Terram. Level 15 and under he casts free. That is where a ranged
+attack comes from, at no cost in Arts at all.
 
-That is where his ranged attack comes from.
-
-## Fact two — in group combat, everything keys off the vanguard
+## Fact two — the ruling makes him the vanguard, and the vanguard *is* the group
 
 > *"The group's combat statistics are equal to the vanguard's statistics."*
 > *"the defending group's Soak (which is equal to the vanguard's Soak)"*
 
-Attack, Defense, Damage and Soak all come from one man, and the group inflicts its damage **once
-per member**. So a spell that reaches only one man is not a limitation at all — it is a lever on
-the whole line, provided he casts it on the right man.
+Judged on base scores, he fits inside the five-point range comfortably:
 
-His "one target at a time" focus and the group rules fit together far better than the sheet
-suggests.
+| Combat Total, before equipment | Aldric | Grog | Spread |
+|---|---:|---:|---:|
+| Attack — Dexterity + Ability | 9 | 4 | 5 ✓ |
+| Defense — Quickness + Ability | 8 | 4 | 4 ✓ |
+| Damage — Strength | 1 | 1 | 0 ✓ |
+| Soak — Stamina, and Tough | 5 | 1 | 4 ✓ |
+| Initiative — Quickness | 1 | 0 | 1 ✓ |
+
+So he can stand in front. And when he does, **the group fights with his numbers**:
+
+| Vanguard | Group Attack | Damage out per round | Group Soak | Wounds taken per round |
+|---|---:|---:|---:|---:|
+| Grog, spear and leather | 18 | 33.5 | 7 | 1.81 |
+| Grog, with a +3 Soak spell on him | 18 | 33.5 | 10 | 0.94 |
+| **Aldric** | **25** | **68.2** | **14** | **0.30** |
+| **Aldric, +3 Soak** | **25** | **68.2** | **17** | **0.16** |
+
+**Output doubles and casualties drop sixfold, and it costs nothing whatever.** No season, no vis,
+no silver, no experience. It is the single biggest change available to this warband and it is a
+seating plan.
+
+The price is that *"the vanguard must always take at least as many blows as every other member"* —
+he stands where the blows land. Soak 14 and a Driven Flaw say that is exactly where he wants to be.
+
+## Fact three — therefore his magic should point at *himself*
+
+This inverts the advice currently in the playbook, which tells him to cast outward.
+
+Once he is the vanguard, the group's Attack, Defense, Damage and Soak are all his, and:
+
+> *"Wound penalties from wounds taken by the vanguard are applied to the group's statistics, but
+> other members continue to give their full bonus until they are incapacitated."*
+
+A grog's wounds change nothing until he drops. **Aldric's wounds degrade the entire warband:**
+
+| Aldric's condition | Group Attack | Damage per round |
+|---|---:|---:|
+| Unwounded | 25 | 68.2 — 100% |
+| Light Wound (−1) | 24 | 64.3 — 94% |
+| Medium Wound (−3) | 22 | 56.5 — 83% |
+| Heavy Wound (−5) | 20 | 48.7 — 71% |
+
+And blessing a *grog's* Dexterity is now worth **exactly nothing** — the group's Attack is the
+vanguard's, and the other members contribute their Combat *Ability*, which no magic raises.
+
+**But there is a catch, and it disarms his one battlefield spell.** *Hardened Flesh of the
+Housecarl* is Range: Touch, and a Touch spell cast on oneself must still beat one's own Magic
+Resistance — Corpus 12 + five times Parma 1 = **17** — which with no Penetration Ability he cannot
+do. As vanguard, his only combat spell has nothing useful to point at.
 
 ---
 
-# Part A — Ranged attack
+# Part A — Fix the mismatch first
 
-He has Deficient Perdo, so the usual Hermetic answer (destroy the target) is closed. Creation and
-control are not.
+### A1 · Swap *Hardened Flesh* for *Gift of the Bear's Fortitude* — costs nothing
+
+The canonical book spell: **MuCo 25, R: Personal, D: Sun, T: Ind, +3 Soak.** Base 15, +2 Sun.
+
+**Exactly the same 25 spell levels** as the spell it replaces, so this is a straight substitution
+on the sheet rather than a purchase.
+
+| | *Hardened Flesh* (current) | *Gift of the Bear's Fortitude* |
+|---|---|---|
+| Range | Touch — **cannot reach himself** | **Personal** — skips his own Magic Resistance |
+| Duration | Diameter, 20 rounds | **Sun** — cast at dawn, lasts all day |
+| Cast in the field | 18 vs 25, one Fatigue level, every fight | Cast once at dawn out of harness, one Fatigue level that recovers in two minutes |
+| As vanguard | useless | **group Soak 14 → 17**, all day |
+
+This is strictly better under the ruling and costs nothing. It should probably happen whatever else
+you decide.
+
+*(The flesh is tough and insensitive: −1 on anything needing a delicate touch. Chirurgy on a
+wounded man is exactly that, so he ends it before he starts stitching.)*
+
+### A2 · *Endurance of the Berserkers* is now a warband-wide effect
+
+He already has it — ReCo 15, **Personal**, Concentration, eliminates his own wound and Fatigue
+penalties. Because the group inherits the vanguard's penalties, keeping *him* unpenalised keeps
+the whole line at full effect. It goes from a personal indulgence to the most important thing he
+can be doing in the back half of a hard fight.
+
+The costs are unchanged: his wounds still worsen unnoticed, the Fatigue falls due when it ends, and
+he cannot cast anything else while maintaining it (Ease Factor 15 against his 4 + die).
+
+---
+
+# Part B — Ranged attack
+
+Deficient Perdo closes the usual door. Creation and control do not.
 
 **None of these need an aiming roll.** *Pilum of Fire* and its kin are Target: Individual — they
-name the target rather than being thrown at a point — which matters, because his Perception 0 and
+name the target rather than being thrown at a point — which matters, because Perception 0 and
 Finesse 0 would make an aimed spell hopeless. Spell damage is *a stress die + X* against the
 target's *Soak + a stress die*.
 
-### A1 · A fire bolt he can cast all day — Creo Ignem 15
+| # | Spell | Design | Level | Casting | Against a soldier with Soak 7 |
+|---|---|---|---:|---|---|
+| **B1** | **Fire bolt** | Creo Ignem, base 5 (+10 damage), +2 Voice | **15** | **16 vs 15 — free** | Wounds on **70%** of casts |
+| **B2** | ***Pilum of Fire*** | Creo Ignem, base 10 (+15 damage), +2 Voice | 20 | 16 vs 20 — one Fatigue level | Wounds on **92%** |
+| **B3** | **Hold him still** | Rego Corpus, base 5, +2 Voice, +1 Diameter | 20 | 15 vs 20 — one Fatigue level | One mundane enemy frozen for 20 rounds |
 
-**Base 5** (*"create a fire doing +10 damage"*) **+2 Voice = level 15.** R: Voice, D: Mom, T: Ind.
+Each is one laboratory season. His longsword wounds the same man on 82% of attacks, so **B1 is not
+a replacement for the sword** — it is a way to hurt someone he cannot reach, at no cost, every
+round he chooses to. It is also the only thing on this sheet he can do while standing in the line
+without giving up his Soak.
 
-| | |
-|---|---|
-| To learn | One laboratory season. Lab Total 25 against level 15 |
-| To cast | Casting Score **16** against 15 — **free**, no Fatigue |
-| Effect | +10 damage at the range his voice carries, about 15 paces |
-| Against a soldier with Soak 7 | **Wounds him on 70% of casts** — Light 40%, Medium 22%, Heavy 5% |
+**B3 is the most characterful.** There is no saving throw in Hermetic magic; if it penetrates it
+works, and mundanes have no Magic Resistance. A magus who cannot destroy instead takes the
+dangerous man off the board and lets his housecarls deal with him.
 
-For comparison, his longsword wounds the same man on 82% of attacks. So this is not a replacement
-for the sword — it is a way to hurt someone he cannot reach, at no cost whatever, every round he
-chooses to.
-
-### A2 · *Pilum of Fire* — Creo Ignem 20
-
-The canonical spell. **Base 10 +2 Voice = level 20**, +15 damage.
-
-| | |
-|---|---|
-| To learn | One laboratory season. Lab Total 25 against level 20 |
-| To cast | Casting Score 16 against 20 — casts, **one Fatigue level** |
-| Against a soldier with Soak 7 | **Wounds on 92%** — Medium 40%, Heavy 22%, Incapacitating 5% |
-
-A better opening shot than his sword, at range, once per fight for a Fatigue level that carries no
-penalty. **Base 15 +2 Voice = level 25** for +20 damage is also inside his Lab Total, and wounds on
-97%, but it is fifth magnitude and starts to look like a Flambeau's spell rather than his.
-
-### A3 · Take the enemy champion out of the fight — Rego Corpus 20
-
-**Base 5** (*"hold a target's body motionless"*) **+2 Voice +1 Diameter = level 20.**
-
-| | |
-|---|---|
-| To learn | One laboratory season. Rego Corpus Lab Total 24 against level 20 |
-| To cast | Casting Score 15 against 20 — casts, one Fatigue level |
-| Effect | One mundane enemy stands frozen for twenty combat rounds |
-
-There is no saving throw in Hermetic magic. If it penetrates, it works — and mundanes have no
-Magic Resistance at all. This is the most *characterful* offensive option he has: he does not burn
-men, he takes the dangerous one off the board and lets his housecarls deal with him.
-
-### A4 · A bow — not worth it for him
-
-Short bow: Attack +3, damage +6, 15 paces, and it needs two free hands, so the shield goes. At
-Bows 0 his Attack Total would be Dexterity 2 + 0 + 3 = **5**, against a soldier's Defense of 8.
-Getting to Bows 4 costs 50 experience points to reach an Attack of 9 — still worse than the
-Creo Ignem 15 he can have for one season and no XP at all. **Longbow is not even available**: it
-requires Strength +2 and he has +1.
-
-Bows are excellent for the grogs, though. See B5.
+**A bow is not worth it for him.** At Bows 0 his Attack Total would be Dexterity 2 + 0 + 3 = **5**
+with a short bow, against a soldier's Defense of 8, and it needs two free hands so the shield goes.
+The longbow is not even available — it requires Strength +2 and he has +1. Bows for the *grogs* are
+a different matter and cost him nothing.
 
 ---
 
-# Part B — Making the warband hit harder
+# Part C — Making the warband hit harder
 
-Ranked by what they actually deliver. The first two involve no magic at all and dwarf everything
-else on this page.
+### C1 · Raise Leadership — still the largest lever in the build
 
-### B1 · Raise Leadership — the largest single lever in the build
+The trained group coordinates fighters equal to the leader's Leadership, and the others contribute
+a bonus capped at three times that score. With Aldric as vanguard:
 
-A trained group coordinates fighters equal to the leader's Leadership, and the other members
-contribute a bonus **capped at three times that score**, applied to Attack or Defense and
-switchable each round.
-
-| | Men coordinated | Bonus | Damage per round | |
+| | Men | Bonus | Group Attack | Damage per round |
 |---|---:|---:|---:|---:|
-| No trained group | 4 | — | 8.87 | — |
-| **Leadership 4** *(now)* | 4 | +12 | **48.72** | 5.5× |
-| **Leadership 5** | 5 | +15 | **75.47** | 8.5× |
-| **Leadership 6** | 6 | +18 | **108.19** | 12.2× |
+| **Leadership 4** *(now)* | 4 | +12 | 25 | **68.2** |
+| **Leadership 5** | 5 | +15 | 28 | **100.0** |
+| **Leadership 6** | 6 | +18 | 31 | **137.7** |
 
-*(vanguard Attack +9, damage +6, against Defense +8 and Soak 7)*
+**Leadership 4 → 6 costs 55 experience points and doubles the warband's output again.** No vis, no
+season, no storyguide ruling. It is also the captain's statistic, which is what he is.
 
-**Leadership 4 → 6 costs 55 experience points and roughly doubles the warband's output.** No vis,
-no season, no spell. Nothing else in this report comes close, and it needs no storyguide ruling.
+### C2 · Bless his own Dexterity and Strength
 
-It also fits everything the character is for. He is the captain; this is the captain's statistic.
+He already owns the ritual and has never been shown using it on himself. Touch range must beat his
+own Magic Resistance of 17 — so he casts it **before** performing the Parma Magica ritual and
+raises the Parma afterwards. A magus takes no Warping from an effect he cast himself.
 
-### B2 · Put the grogs in chain mail and longswords — and let Aldric be the vanguard
+Because the group's Attack and Damage are the vanguard's, each point is a permanent upgrade to the
+whole warband:
 
-Because the group's Attack and Damage are the *vanguard's*, who stands in front decides everything:
+| Ritual | Group effect | Damage per round |
+|---|---|---:|
+| Baseline | — | 68.2 |
+| **Dexterity +2 → +3** | +1 group Attack | 72.1 |
+| **Strength +1 → +2** | +1 group Damage — *and* his Encumbrance drops from 2 to 1, so +1 Casting Score and +1 Initiative | 72.1 |
+| Both | | **76.1** |
 
-| Vanguard | Group Attack | Damage per round |
-|---|---:|---:|
-| Grog with spear and leather | 18 | 33.48 |
-| Grog with longsword and chain | 20 | 48.72 |
-| **Aldric himself** | **25** | **68.20** |
+Nine pawns of Creo or Corpus vis and a season each, permanent. Strength is the better first
+purchase because it pays three times over.
 
-But there is a catch, and it is the reason this is not already happening: *"all Combat Totals must
-fall in a five-point range"* for a group to form. Against grogs in leather, Aldric's Soak of 14
-against their 7 is a seven-point spread — **he cannot legally join the group at all.**
+Note that the Blessing caps at +2, so his Dexterity of +2 is already at the ceiling — raising it
+to +3 needs the **base 45** guideline, which at Touch range is level 50 against a Lab Total of 49.
+One point out of reach; Magic Theory 5 or Corpus 13 opens it.
 
-Put the grogs in full chain mail with longswords and every line comes inside the range:
+### C3 · Wounds one category lighter — Creo Corpus 5, free to cast
 
-| | Grog | Aldric | Spread |
-|---|---:|---:|---:|
-| Attack | 8 | 13 | 5 ✓ |
-| Defense | 8 | 12 | 4 ✓ |
-| Damage | 7 | 7 | 0 ✓ |
-| Soak | 10 | 14 | 4 ✓ |
-| Initiative | 0 | 1 | 1 ✓ |
+The Creo Corpus guideline at **base 1** includes *"the target's wounds are treated as one category
+less serious for the purposes of activities while injured."* Built Touch / Diameter / **Group** it
+is **level 5**; with Sun, level 10. Casting Score 28 — free, and first magnitude so it Warps nobody.
 
-**Equipping the turb properly is what unlocks Aldric fighting as the vanguard**, and that is worth
-about 20 damage a round to the group. It costs money, not magic — and money is exactly what a
-Mercere with Baltic trade connections should be able to find.
+**But it has dropped a long way down the list under the ruling.** A grog's wounds do not affect the
+group's statistics at all until he is incapacitated, and Touch range means Aldric cannot include
+himself. It is worth having for grogs fighting independently, or after the group breaks — not
+before Leadership or the fire bolt.
 
-### B3 · Make wounds stop mattering — Creo Corpus 5 or 10
+### C4 · Bows for the grogs
 
-The Creo Corpus guideline at **base 1** includes: *"The target's wounds are treated as one category
-less serious for the purposes of activities while injured."*
-
-That is not healing. It leaves the wound exactly where it is and removes the penalty, and at base 1
-it is almost free to build:
-
-| Version | Design | Level | Casting |
-|---|---|---:|---|
-| Touch / Diameter / **Group** | base 1, +1 Touch, +1 Diameter, +2 Group | **5** | 28 — free |
-| Touch / Sun / **Group** | base 1, +1 Touch, +2 Sun, +2 Group | **10** | 28 — free |
-
-Every man in the group has his wounds count one category lighter. A grog with a Medium Wound goes
-from −3 to −1:
-
-| | Attack | Wounds his man |
-|---|---:|---:|
-| Medium Wound, unaided | 6 | 23.4% |
-| Medium Wound, under this spell | 8 | **37.5%** |
-
-By round four of a hard fight the whole line is carrying wounds, and this hands all of them back
-two points on **everything** — Attack, Defense and their own casting. First magnitude, so it Warps
-nobody, and it is well inside his healing-side Lab Total of 37. One season.
-
-**This may be the best single spell in the report.** It is cheap, it is group-wide, it is free to
-cast, it is squarely in his healer's idiom, and it gets better the longer the battle runs.
-
-### B4 · Remove the penalties outright — Rego Corpus 20
-
-The Rego Corpus guideline at **base 10** is *"eliminate the penalties of Fatigue and wounds"* — the
-same guideline that underlies *Endurance of the Berserkers*, which he already knows at Personal
-range. Rebuilt for someone else:
-
-**Base 10 +1 Touch +1 Diameter = level 20.** Casting Score 15 against 20 — one Fatigue level.
-
-A Medium-wounded grog goes from −3 to **0**, not to −1: from wounding his man 23.4% of the time to
-45.2%. Stronger than B3, but one man rather than the group, and it costs him a Fatigue level.
-A Group version is level 30 — sixth magnitude, which would Warp everyone it touched, so it is out.
-
-Carries the same warning as the Berserkers spell: the wounds still worsen, and the man will not
-notice.
-
-### B5 · Give the grogs bows
-
-Nothing to do with magic, but it answers the ranged question better than anything Aldric can cast.
-Short bow: Attack +3, damage +6, 15 paces, Strength −1, standard cost. Longbow: Attack +4,
-damage +8, 30 paces, but Strength +2 and expensive.
-
-Two archers behind a shield wall change what the warband can do far more than one magus with a
-fire bolt. And note that **the Blessing improves archery as readily as swordplay** — Attack Total
-is Dexterity + Combat Ability + weapon, whatever the weapon is.
-
----
-
-# Part C — Aldric himself
-
-### C1 · Cast the Blessing on his own Strength
-
-He already owns this spell and has never been shown using it on himself. Touch range must beat his
-own Magic Resistance of 17, so he casts it **before** performing the Parma Magica ritual and raises
-the Parma afterwards; a magus takes no Warping from an effect he cast himself.
-
-**Strength +1 → +2** gives him **+1 damage, +1 Casting Score and +1 Initiative** simultaneously,
-because Encumbrance is Burden minus Strength and his Burden of 3 would then cost him only 1. Nine
-pawns of vis, one season, permanent. Nothing else in the game does that in a single purchase.
-
-### C2 · Bless the vanguard's Dexterity
-
-Also already in his repertoire, also never exploited. Because the group's Attack is the vanguard's,
-one ritual is a permanent **+1 to the whole warband's Attack**:
-
-| Vanguard | Damage per round | With +1 Dexterity |
-|---|---:|---:|
-| Grog with sword and chain | 48.72 | **52.59** |
-| Aldric | 68.20 | **72.13** |
-
-About four extra damage a round, for the rest of that man's life, for nine pawns of vis.
+Nothing to do with his magic, but it answers the ranged question better than anything he can cast.
+Short bow: Attack +3, damage +6, 15 paces, Strength −1, standard cost. Two archers behind the
+shield wall change what the warband can do more than one magus with a fire bolt.
 
 ---
 
 # What I would actually do
 
-In order of value for what it costs:
-
 | # | Option | Cost | Delivers |
 |---|---|---|---|
-| 1 | **Leadership 4 → 6** | 55 experience points | Warband output roughly doubles |
-| 2 | **Chain mail and longswords for the turb**, Aldric as vanguard | Silver, not magic | Group Attack 20 → 25; +20 damage a round |
-| 3 | **Creo Corpus 5–10** — wounds one category lighter, Group | One season | +2 to everything for every wounded man, free to cast |
-| 4 | **Creo Ignem 15** — +10 damage at Voice | One season | A free ranged attack every round, wounds on 70% |
-| 5 | **Bless his own Strength**, then the vanguard's Dexterity | Vis and seasons he has anyway | +1 damage / casting / Initiative; then +1 group Attack for life |
-| 6 | **Rego Corpus 20** — hold a man motionless | One season | Removes the enemy champion from the fight |
-| 7 | *Pilum of Fire*, CrIg 20 | One season | The heavier shot, for a Fatigue level |
+| 1 | **Aldric fights as vanguard** | Nothing | Damage out 33.5 → 68.2; wounds taken 1.81 → 0.30 per round |
+| 2 | **Swap to *Gift of the Bear's Fortitude*** | Nothing — same 25 levels | Group Soak 14 → 17, all day, and his combat spell works again |
+| 3 | **Leadership 4 → 6** | 55 experience points | 68.2 → 137.7 damage per round |
+| 4 | **Creo Ignem 15 — the fire bolt** | One season | A free ranged attack every round, wounding on 70% |
+| 5 | **Bless his own Strength, then Dexterity** | Vis and seasons | +1 group Damage, +1 Casting Score, +1 Initiative; then +1 group Attack |
+| 6 | **Rego Corpus 20 — hold him still** | One season | Removes the enemy champion from the fight |
+| 7 | Bows for two grogs | Silver | Ranged capability that does not cost him an action |
 
-Items 1 and 2 need no storyguide adjudication at all and are far larger than anything magical.
-Items 3, 4 and 6 are three laboratory seasons, which is a year and a half of downtime — a
-reasonable arc for the first stretch of a saga.
+The first three cost no laboratory time at all, and together they take the warband from 33 to 138
+damage a round while cutting its casualties by more than five to one. Items 4 and 6 are two
+seasons and give him the attacking capability he currently lacks.
 
 ---
 
-# The limits that do not go away
+# The limits that do not move
 
-**No Penetration.** He has no Penetration Ability, so every offensive option above works only on
-things with no Magic Resistance — mundane men. Against a Baltic spirit, a pagan wizard, or a
-creature with Might, his magic simply does not arrive. If the saga is going to feature such things,
-Penetration stops being a wasted Ability and becomes essential, and the fire bolt is what makes it
-worth having.
+**No Penetration.** Every offensive option above works only on things with no Magic Resistance —
+mundane men. Against a Baltic spirit, a pagan wizard or anything with Might, his magic does not
+arrive at all. If the saga will feature such things, Penetration stops being a wasted Ability and
+becomes the thing that makes the fire bolt worth having.
 
-**Level 25 on anything cast at another person.** Sixth magnitude — level 26 — makes a spell a
-powerful supernatural effect and Warps the recipient. That is why B4 cannot have a Group version
-and why the Blessing is a once-in-a-life gift rather than a routine.
+**He cannot Touch himself.** Magic Resistance 17 and Penetration 0 mean every self-buff must be
+Range: Personal, and every Touch or Group spell he casts leaves him out of it. As vanguard, that is
+the constraint that shapes his whole spell list.
 
-**Deficient Perdo.** Every Perdo total is halved; his Perdo Corpus Casting Score is 7. He will never
-unmake anything. Creation, control and repair are the whole of his art, and this report is really
-an argument that those three are enough.
+**Level 25 on anything cast at another person.** Sixth magnitude Warps the recipient, which is why
+the Rego Corpus penalty-removal spell cannot have a Group version and why the Blessing stays a
+once-in-a-life gift.
+
+**Deficient Perdo.** Every Perdo total halved; his Perdo Corpus Casting Score is 7. He will never
+unmake anything. Creation, control and repair are the whole of his art.
 
 ---
 

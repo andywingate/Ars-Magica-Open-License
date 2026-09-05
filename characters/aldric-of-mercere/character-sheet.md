@@ -336,15 +336,16 @@ before performing the Parma Magica ritual and raises the Parma afterwards; a mag
 Warping from an effect he cast himself. **Strength +1 → +2** would give him +1 damage, +1 Casting
 Score and +1 Initiative at a stroke, since Encumbrance is Burden minus Strength.
 
-At ninth magnitude it costs its recipient a single Warping Point unless he invents a version cut
-to fit one named man, which the rules allow: *"only the designated target, and the caster, do not
-suffer Warping."*
+At ninth magnitude it gives its recipient a Warping Point. **The troupe treats that as an
+acceptable cost**, so the one spell blesses anyone, as often as he likes — he does not need a
+separate tailored copy per champion. (For reference, Warping Score 1 arrives at 5 points, Score 2
+at 15 and Score 3 at 30.)
 
 ### Hardened Flesh — the spell that protects the whole line
 
-MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak, fifth magnitude so **nobody Warps**.
-Outside the focus, so his Casting Score is 18 against a level of 25: it always takes effect, and
-it always costs him **one Fatigue level**. Four pawns of Corpus vis would make it free, at four
+MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak. Outside the focus, so his Casting Score
+is 18 against a level of 25: it always takes effect, and it always costs him **one Fatigue
+level**. Four pawns of Corpus vis would make it free, at four
 extra botch dice.
 
 **Cast it on the vanguard.** A group's Soak *is* the vanguard's Soak — *"the defending group's

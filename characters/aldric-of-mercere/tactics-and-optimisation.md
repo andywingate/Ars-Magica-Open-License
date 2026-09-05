@@ -27,18 +27,15 @@ to run four men in the line.
 
 ## The constraints his magic works under
 
-**One man at a time.** A Group version of the Blessing is two magnitudes dearer — level 55 against
-a Lab Total of 49 — and a Group version of *Hardened Flesh* is level 35, which is sixth magnitude
-and would Warp everyone it touched. This is the honest consequence of a Minor Focus that covers
-only the body's Characteristics, and it is the shape of the character: he chooses a man and puts
-his hands on him.
+**One man at a time — and it is his Lab Total, not Warping, that says so.** The troupe treats
+Warping as an acceptable cost, so magnitude is no longer a design constraint. What still binds is
+what he can build: a Group version of the Blessing is level 55 against a Creo Corpus Lab Total of
+49, and a Group version of *Hardened Flesh* is level 35 against a Muto Corpus Lab Total of 27.
+Raising the Art is what opens those, not cleverness with the parameters.
 
-**Ninth magnitude Warps whoever receives the Blessing.** *"Any Hermetic spell of sixth magnitude or
-higher"* is a powerful supernatural effect, and level 45 is ninth. The escape is in the rules: a
-version *"specially and carefully designed"* for one named man Warps neither that man nor the
-caster. Each champion therefore needs his own tailored copy — a season's work and 45 levels each.
-*Hardened Flesh* at level 25 is fifth magnitude and Warps nobody, which is why it is built with
-Diameter duration rather than Sun.
+**The Blessing needs no tailored copies.** At ninth magnitude it gives its recipient a Warping
+Point; the rules offer an escape (a version *"specially and carefully designed"* for one named man
+Warps nobody) but the troupe does not require it. One spell, any champion, as often as he likes.
 
 **He can self-cast.** By the letter, *"spells cast with any other Range, even if cast by the maga
 on herself, do have to overcome the caster's own Magic Resistance"* — his is Corpus 12 + five times

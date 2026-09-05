@@ -81,8 +81,8 @@ performing the Parma Magica ritual and raises the Parma afterwards; a magus take
 an effect he cast himself. **Strength +1 → +2** gives him +1 damage, +1 Casting Score and +1
 Initiative at a stroke, because Encumbrance is Burden minus Strength.
 
-At ninth magnitude it costs its recipient one Warping Point, unless he invents a version cut to
-fit one named man — which the rules allow, and which is a season's work each.
+At ninth magnitude it gives its recipient a Warping Point, which the troupe treats as an
+acceptable cost — so one spell blesses anyone, as often as he likes.
 
 ## Stage 2 — The hour before contact
 
@@ -105,7 +105,7 @@ Take the first line that applies.
 
 ### 1. Is the line about to be hit? → *Hardened Flesh of the Housecarl*, **on the vanguard**
 
-MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak. Fifth magnitude, so nobody Warps.
+MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak.
 Casting Total 18 against 25: it always takes effect and always costs **one Fatigue level**. Four
 pawns of Corpus vis makes it free, at four extra botch dice.
 
@@ -195,9 +195,6 @@ they arrive — and never in the round after he has been hit.
 **Nothing he owns is offensive.** No attack spell, no Penetration Ability, Perdo halved to
 uselessness. Against anything with Magic Resistance his magic does not reach at all; he fights it
 with a sword like any other soldier.
-
-**The Blessing Warps whoever receives it** — ninth magnitude — unless the version was designed for
-that named man. Casting it on a different grog every season would tell in a few years.
 
 **Vis in a fight is a poor trade.** Four pawns would make *Hardened Flesh* free instead of costing
 a Fatigue level, at **four extra botch dice**. Worth it before contact, rarely worth it in the press.

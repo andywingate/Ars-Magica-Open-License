@@ -3,9 +3,14 @@
 *What he can actually do, and what it would take to give him and his warband an attacking
 capability. Core rules only. Nothing here is applied to the sheet — it is a menu.*
 
-**Two rulings from the table are assumed throughout:** the grogs will not be getting chain mail,
-and a group's five-point Combat Total range is judged on **base scores before equipment**, so the
-commander's better kit does not disqualify him from the group.
+**Three rulings from the table are assumed throughout.** The grogs will not be getting chain mail.
+A group's five-point Combat Total range is judged on **base scores before equipment**, so the
+commander's better kit does not disqualify him. And **Warping is not treated as a cost** — a point
+here and there is acceptable, so magnitude is no longer a design constraint. *(For reference,
+Warping Score 1 arrives at 5 points, Score 2 at 15, Score 3 at 30.)*
+
+That third ruling matters more than it looks: the level 25 ceiling that shaped his entire spell
+list is gone, and what limits him now is simply his Lab Total.
 
 ---
 
@@ -116,12 +121,17 @@ resource, and he wants those rounds for his sword or a fire bolt. Sun duration b
 Soak without ever spending a combat action or risking a Concentration roll.
 
 **The case for keeping it** is flexibility: Touch can go on a companion knight, or on a grog when
-the group has broken and he is fighting beside someone rather than in front of them. Note that
-Touch **and** Sun is not an option — base 15 +1 Touch +2 Sun is level 30, sixth magnitude, which
-would Warp whoever received it.
+the group has broken and he is fighting beside someone rather than in front of them.
 
-Your call. As the sheet stands, with him as vanguard and short of combat actions, I lean to the
-swap.
+**And with Warping off the table there is a third answer that beats both.** Base 15 **+1 Touch +2
+Sun = level 30** — anyone, all day. That was previously ruled out for being sixth magnitude; now
+the only obstacle is that his Muto Corpus Lab Total is 27, three short of 30.
+
+> **Muto 6 → 9 costs 24 experience points** and takes that Lab Total to exactly 30.
+
+Cast at the covenant out of harness, his Casting Score would be 26 against 30 — one Fatigue level
+at dawn, and every man he has touched has +3 Soak until sunset. That is the version to aim at, and
+in the meantime keeping *Hardened Flesh* costs nothing.
 
 *(The flesh is tough and insensitive: −1 on anything needing a delicate touch. Chirurgy on a
 wounded man is exactly that, so he ends it before he starts stitching.)*
@@ -212,7 +222,7 @@ One point out of reach; Magic Theory 5 or Corpus 13 opens it.
 
 The Creo Corpus guideline at **base 1** includes *"the target's wounds are treated as one category
 less serious for the purposes of activities while injured."* Built Touch / Diameter / **Group** it
-is **level 5**; with Sun, level 10. Casting Score 28 — free, and first magnitude so it Warps nobody.
+is **level 5**; with Sun, level 10. Casting Score 28 — free.
 
 **But it has dropped a long way down the list under the ruling.** A grog's wounds do not affect the
 group's statistics at all until he is incapacitated, and Touch range means Aldric cannot include
@@ -235,13 +245,17 @@ shield wall change what the warband can do more than one magus with a fire bolt.
 | 2 | **Swap to *Gift of the Bear's Fortitude*** *(optional)* | Nothing — same 25 levels | Group Soak 14 → 17 all day, and it frees a combat action every fight |
 | 3 | **Leadership 4 → 6** | 55 experience points | 68.2 → 137.7 damage per round |
 | 4 | **Creo Ignem 15 — the fire bolt** | One season | A free ranged attack every round, wounding on 70% |
-| 5 | **Bless his own Strength, then Dexterity** | Vis and seasons | +1 group Damage, +1 Casting Score, +1 Initiative; then +1 group Attack |
-| 6 | **Rego Corpus 20 — hold him still** | One season | Removes the enemy champion from the fight |
-| 7 | Bows for two grogs | Silver | Ranged capability that does not cost him an action |
+| 5 | **Bless his own Strength** | Vis and a season | +1 group Damage, +1 Casting Score, +1 Initiative |
+| 6 | **Corpus 12 → 13**, then the level 50 Ritual | 13 experience points, then vis and a season | Dexterity to +3 — a permanent **+1 to the group's Attack** |
+| 7 | **Rego Corpus 20 — hold him still** | One season | Removes the enemy champion from the fight |
+| 8 | **Muto 6 → 9**, then the Touch/Sun Soak buff | 24 experience points, then a season | +3 Soak on anyone, all day, no combat action |
+| 9 | Bows for two grogs | Silver | Ranged capability that does not cost him an action |
 
 Items 1 and 3 cost no laboratory time at all, and together they take the warband from 33 to 138
-damage a round while cutting its casualties by more than five to one. Items 4 and 6 are two
-seasons and give him the attacking capability he currently lacks.
+damage a round while cutting its casualties by more than five to one. Items 4 and 7 are two
+seasons and give him the attacking capability he currently lacks. Item 6 is the cheapest lasting
+upgrade on the page: thirteen experience points into Corpus opens a guideline he cannot currently
+reach, and the ritual it unlocks is a permanent gain for the whole warband.
 
 ---
 
@@ -258,9 +272,26 @@ but may affect other people within the target."* As vanguard he is the one whose
 uses, so a Group buff he cannot benefit from is worth much less than it looks. That is most of why
 the Creo Corpus wound-penalty spell sits where it does in the order.
 
-**Level 25 on anything cast at another person.** Sixth magnitude Warps the recipient, which is why
-the Rego Corpus penalty-removal spell cannot have a Group version and why the Blessing stays a
-once-in-a-life gift.
+**His Lab Total, not magnitude.** With Warping ruled acceptable, nothing is closed off for being
+too powerful — what closes things off is what he can build. The Group versions he might want sit
+just out of reach, and each is opened by raising one Art:
+
+| Spell he might want | Level | Lab Total now | Opened by |
+|---|---:|---:|---|
+| +3 Soak, Touch / **Sun** | 30 | Muto Corpus 27 | **Muto 6 → 9**, 24 experience points |
+| Eliminate wound and Fatigue penalties, **Group** | 30 | Rego Corpus 24 | Rego 3 → 9, 39 experience points |
+| A Characteristic to **+3** *(base 45)* | 50 | Creo Corpus 49 | **Corpus 12 → 13, 13 experience points** |
+| The Blessing, **Group** *(to no more than +1)* | 50 | Creo Corpus 49 | Corpus 12 → 13, as above |
+
+The cheapest of those is the most interesting. **Corpus 12 → 13 costs thirteen experience points**
+and takes his focused Creo Corpus Lab Total to 51, which opens the base 45 guideline — *increase
+one of a person's physical Characteristics by one point, to no more than +3*. At Touch that is a
+level 50 Ritual, ten pawns of vis, and a Ritual total of 48 against 50, so it casts for one
+long-term Fatigue level.
+
+**That is a permanent +1 to the group's Attack**, because the group's Attack is the vanguard's and
+the vanguard is him: his Dexterity of +2 is at the ceiling of the base 40 guideline he currently
+owns, and base 45 lifts it to +3.
 
 **Deficient Perdo.** Every Perdo total halved; his Perdo Corpus Casting Score is 7. He will never
 unmake anything. Creation, control and repair are the whole of his art.

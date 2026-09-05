@@ -88,11 +88,43 @@ is persuading, rallying or recruiting.
 
 ---
 
+## The one thing that costs nothing
+
+**He stands in front.** The five-point Combat Total range is judged on base scores, so he can be
+the vanguard, and *"the group's combat statistics are equal to the vanguard's statistics."* A group
+of four goes from 33.5 damage a round to 68.2, and from 1.81 wounds a round to 0.30, for no
+experience, no vis and no season.
+
+Two things follow, and they invert how he should be played:
+
+- **His buffs point at himself.** A buff on a grog does nothing for the group's numbers; the other
+  members contribute only their Combat *Ability*, which no magic raises.
+- **Only his wounds matter.** *"Wound penalties from wounds taken by the vanguard are applied to
+  the group's statistics, but other members continue to give their full bonus until they are
+  incapacitated."* A Medium Wound on him drops the warband to 83% of full output. A Medium Wound
+  on a grog changes nothing at all.
+
+---
+
 ## Where his experience should go
 
-**Muto.** The bottleneck. *Hardened Flesh* is his best spell and costs him a Fatigue level every
-cast, because his Muto Corpus Casting Score is 18 against a level of 25. Every point of Muto
-closes that gap directly, and at Muto 13 the spell becomes free.
+**Corpus 12 → 13 — thirteen experience points, and the best buy on this page.** It takes his
+focused Creo Corpus Lab Total from 49 to 51, which clears the **base 45** guideline: *increase one
+of a person's physical Characteristics by one point, to no more than +3.* At Touch that is a level
+50 Ritual, ten pawns of vis, casting at 48 against 50. His Dexterity of +2 sits exactly on the
+ceiling of the base 40 guideline he owns now, and this lifts it to +3 — **a permanent +1 to the
+whole group's Attack**, because the group's Attack is the vanguard's.
+
+**Leadership.** 4 → 6 costs 55 experience points and takes the warband from 68.2 to 137.7 damage a
+round, through a bonus capped at three times his Leadership. Still the largest single lever, and
+still pure experience.
+
+**Muto.** *Hardened Flesh* costs him a Fatigue level every cast, his Muto Corpus Casting Score
+being 18 against a level of 25 — and note that any shortfall from 1 to 10 costs exactly one level,
+so Muto 7 through 12 buy nothing at all. Two points are worth having for their own sake:
+**Muto 6 → 9** (24 experience points) takes the Muto Corpus Lab Total to 30 and lets him build the
+Touch/Sun version — +3 Soak on anyone, all day, no combat action — and **Muto 13** would make the
+spell free to cast.
 
 **Parma Magica 2, then 3.** Parma 1 is where every magus starts and where none should stay. His
 Magic Resistance against anything that is not Corpus is 5, which is nothing.

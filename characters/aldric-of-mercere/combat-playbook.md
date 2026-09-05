@@ -17,6 +17,7 @@ produces it. Assumes the sheet in `character-sheet.md`.
 | **Defense** | **+12 + stress die** | Qik +1 + Single Weapon 7 + sword Dfn +1 + shield Dfn +3 |
 | **Damage** | **+7 + Attack Advantage** | Str +1 + sword Dam +6 |
 | **Soak** | **14**, flat — no die | Sta +2 + chain mail 9 + Tough 3 |
+| *(as vanguard)* | **The group fights on all five of these** | Its Attack, Defense, Damage and Soak are his |
 | **Concentration** | **+4 + stress die** | Sta +2 + Concentration 2 |
 | **Fast-cast speed** | **+4 + stress die** | Qik +1 + Finesse 0 + Fast Caster 3, against the opponent's Initiative Total |
 | **Treating a wounded man** | **+3** to his Recovery Total | Chirurgy 3, on top of any spell |
@@ -91,9 +92,23 @@ acceptable cost — so one spell blesses anyone, as often as he likes.
 2. **Arm.** Encumbrance 2 costs 2 Casting Score and 2 Initiative and **nothing on Attack or
    Defense**: *"in combat, Attack and Defense are not [penalised], as long as the Encumbrance is
    largely due to weapons and armor."* There is never a reason to fight this character out of armour.
-3. **Set the group and name the vanguard** — neither can be changed once engaged. At Leadership 4
-   he coordinates four men, and the other three contribute a bonus capped at three times his
-   Leadership, so **up to +12 to Attack or Defense**, switchable each round.
+3. **Form the group with himself as vanguard** — neither leader nor vanguard can be changed once
+   engaged. The five-point Combat Total range is judged on base scores before equipment, so his
+   kit does not disqualify him. At Leadership 4 he coordinates four men, and the other three
+   contribute a bonus capped at three times his Leadership, so **up to +12 to Attack or Defense**,
+   switchable each round.
+
+   **This is the most important decision in the fight and it is free.** The group then fights on
+   his numbers rather than a grog's:
+
+   | Vanguard | Group Attack | Damage out | Group Soak | Wounds taken |
+   |---|---:|---:|---:|---:|
+   | A grog | 18 | 33.5 | 7 | 1.81 |
+   | **Aldric** | **25** | **68.2** | **14** | **0.30** |
+
+   The price is that *"the vanguard must always take at least as many blows as every other
+   member"*, and that his wounds — nobody else's — degrade the whole group.
+
 4. **Mount if the ground allows.** Ride 3 is +3 to Attack *and* Defense, free, all fight. His Gift
    does not trouble the horse — that is what Inoffensive to Animals bought.
 
@@ -103,26 +118,29 @@ acceptable cost — so one spell blesses anyone, as often as he likes.
 
 Take the first line that applies.
 
-### 1. Is the line about to be hit? → *Hardened Flesh of the Housecarl*, **on the vanguard**
+### 1. Is the line about to be hit? → *Hardened Flesh of the Housecarl*, **on himself**
 
 MuCo 25, Touch, Diameter — twenty combat rounds, +3 Soak.
 Casting Total 18 against 25: it always takes effect and always costs **one Fatigue level**. Four
 pawns of Corpus vis makes it free, at four extra botch dice.
 
-**Cast it on the vanguard, not on whoever looks frightened.** A group's Soak *is* the vanguard's
-Soak — *"the defending group's Soak (which is equal to the vanguard's Soak)"* — and an attacking
-group inflicts its damage once per member. So one casting shields the whole line:
+**He is the vanguard, so this goes on him — and shields everyone behind him.** A group's Soak *is*
+the vanguard's Soak — *"the defending group's Soak (which is equal to the vanguard's Soak)"* — and
+an attacking group inflicts its damage once per member. Self-casting is available by the troupe's
+ruling, so Touch range is no obstacle:
 
-| Vanguard's Soak | Wounds the group takes per round | Damage getting through |
+| Group Soak | Wounds the group takes per round | Damage getting through |
 |---|---:|---:|
-| 7, unbuffed | 1.81 | 8.87 |
-| 10, with *Hardened Flesh* | **0.94** | **4.37** |
+| 7 — a grog in front | 1.81 | 8.87 |
+| **14 — Aldric in front** | **0.30** | **1.79** |
+| **17 — Aldric with *Hardened Flesh*** | **0.16** | **1.05** |
 
-Over a five-round melee that is **about four and a half wounds prevented across a group of four**,
-for one casting and one Fatigue level. Nothing else he does comes close.
+Standing in front is worth more than the spell is. The spell then roughly halves what is left, for
+one casting and one Fatigue level.
 
-On himself it is nearly wasted: Soak 14 → 17 moves his own chance of being wounded from 3.8% to
-2.3%. Tough already did that job.
+**Earlier drafts of this playbook told him to cast outward. That was right when a grog stood in
+front and is wrong now.** With him as vanguard, a buff on a grog does nothing for the group's
+numbers at all — the others contribute only their Combat *Ability*, which no magic raises.
 
 ### 2. Is someone down? → *Bind Wound*
 
@@ -214,44 +232,48 @@ as hard to hurt as a fresh one. His Attack, Defense and casting are what collaps
 
 ## Worked example — a landing on the Livonian shore
 
-**The warband.** Aldric, and four Danish spearmen he leads himself: Attack +9, Defense +8,
-Damage +6, Soak 7, Single Weapon 4, Size 0. The vanguard is Sigurd. Leadership 4 lets him
-coordinate all four, and the other three contribute 4 + 4 + 4 = 12, capped at 3 × 4 = 12, so
-**+12 to Attack or Defense each round**.
+**The warband.** Aldric and three Danish spearmen: Attack +9, Defense +8, Damage +6, Soak 7,
+Single Weapon 4, Size 0. He is leader **and vanguard**. Leadership 4 coordinates all four, and the
+other three contribute 4 + 4 + 4 = 12, capped at 3 × 4 = 12, so **+12 to Attack or Defense each
+round**. The group therefore fights at **Attack 25, Defense 24, Damage 7, Soak 14**.
 
 **The enemy.** Nine tribal warriors in two untrained groups. Attack +7, Defense +6, Damage +5,
 Soak 3, Initiative +2.
 
-**Initiative**, rolled once and standing for the whole fight. Aldric means to cast, so he uses his
-casting Initiative of +2 and rolls 6 → **8**. His group is +2 and rolls 4 → **6**. The two enemy
-groups roll 7 and 2 → **9** and **4**.
+**Initiative**, rolled once. Aldric means to cast, so he uses his casting Initiative of +2 and
+rolls 6 → **8**. His group is +2 and rolls 4 → **6**. The enemy groups roll 7 and 2 → **9** and **4**.
 
-Order: Enemy A 9 · **Aldric 8** · Aldric's group 6 · Enemy B 4.
+Order: Enemy A 9 · **Aldric 8** · his group 6 · Enemy B 4.
 
-**Round 1.** Enemy A hits the line; Sigurd's group will put its +12 into Defense. Aldric, acting
-before his own men because he is casting, puts *Hardened Flesh of the Housecarl* on Sigurd:
-Casting Total 18 against 25, short by 7, so it takes effect and he drops to Winded — no penalty at
-that level. He is not yet engaged, so no concentration roll. **The group's Soak is now 10 for the
-next twenty rounds**, and every blow that lands on any of the four does three less damage.
+**Round 1.** Enemy A comes in against a group Soak of 14 and does nothing worth recording. Aldric,
+acting before his own men because casting is his faster action, puts *Hardened Flesh of the
+Housecarl* **on himself**: Casting Total 18 against 25, short by 7, so it takes effect and he drops
+to Winded — no penalty at that level. **The group's Soak is now 17** for twenty rounds, and every
+blow that lands on any of the four is reduced by seventeen.
 
-**Round 2.** Aldric draws. Attack 13, rolls 5 → 18, against a warrior's Defense 6 + 3 = 9. Attack
-Advantage 9, Damage 7 + 9 = 16, less Soak 3 = **13 over**. At Size 0 the bands run Light 1–5,
-Medium 6–10, Heavy 11–15 — a **Heavy Wound**, and the man is at −5.
+**Round 2.** The group attacks with its +12 in Attack: 25 + a die. It rolls 5 → 30 against the
+warriors' Defense of 6 + 3 = 9. Attack Advantage 21, Damage 7 + 21 = 28, less Soak 3 = **25 over**,
+and that damage lands **once per member — four times**. At Size 0 that is 25 over on each blow:
+four dead or dying men in one round. This is what the trained-group bonus does, and why Leadership
+is the statistic to raise.
 
-**Round 3.** Three warriors reach him. Two miss. The third rolls 8 for Attack 15 against his
-Defense 12 + 2 = 14. Attack Advantage 1, Damage 5 + 1 = 6 against Soak 14 — nothing.
+**Round 3.** Enemy B closes. Four blows come at the group; the damage is calculated once against
+Aldric's Soak of 17 and, on an average exchange, nothing gets through at all. He takes the blows —
+*"the vanguard must always take at least as many blows as every other member"* — which is the deal
+he has made with his own Driven Flaw.
 
-**Round 4.** A warrior rolls a 1, exploding to 14, for Attack 21. Aldric rolls 0, checks his botch
-die, gets a 6 and is safe, so Defense 12. Attack Advantage 9, Damage 5 + 9 = 14 against Soak 14 —
-**still nothing.** That is what Tough buys.
+**Round 4.** A warrior rolls a 1, exploding to 14, for Attack 21 against the group's Defense of
+24 + a die. He misses. Even a good roll only reaches Attack Advantage 4 against Soak 17, and stops.
 
-**Round 5.** He declares Exertion, spending a second Fatigue level to Weary (−1), for Attack
-13 + 7 − 1 = **19 + die**. He rolls 6 → 25 against Defense 10. Attack Advantage 15, Damage 22,
-less Soak 3 = **19 over — Incapacitating.** The enemy line breaks.
+**Round 5.** The line breaks. Aldric does not pursue.
 
-**Afterwards.** *Purification of the Festering Wounds* over each wounded man — 28 against level
-20, free and automatic — and then his hands. Each of them recovers on **Stamina + Chirurgy 3 +
-spell 9 + a stress die**: +12 before the die for a man with Stamina 0. That is why he was brought.
+**Afterwards.** *Purification of the Festering Wounds* over anyone hurt — 28 against level 20, free
+and automatic — and then his hands. Each man recovers on **Stamina + Chirurgy 3 + spell 9 + a
+stress die**.
 
-Aldric cast one spell during the fighting, spent three rounds with a sword in his hand, and did
-his real work before it started and after it stopped.
+He cast one spell during the fighting, on himself, and the most valuable thing he did was decide
+where to stand.
+
+---
+
+*Ars Magica is released under the Ars Magica Open License.*

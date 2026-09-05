@@ -4,6 +4,17 @@
 
 ---
 
+## Table rulings this sheet assumes
+
+| Ruling | Consequence |
+|---|---|
+| A group's five-point Combat Total range is judged on **base scores before equipment** | **Aldric fights as the vanguard.** The group's Attack, Defense, Damage and Soak all become his |
+| **Self-casting is available** | Touch-range spells reach him without suppressing his Parma |
+| **Warping is not treated as a cost** | Magnitude is not a design limit. What binds him is his Lab Total |
+| The grogs will not be getting chain mail | Their own Soak stays 7 — which matters much less once the group runs on his |
+
+---
+
 ## Identity
 
 | | |
@@ -348,21 +359,24 @@ is 18 against a level of 25: it always takes effect, and it always costs him **o
 level**. Four pawns of Corpus vis would make it free, at four
 extra botch dice.
 
-**Cast it on the vanguard.** A group's Soak *is* the vanguard's Soak — *"the defending group's
-Soak (which is equal to the vanguard's Soak)"* — and an attacking group inflicts its damage once
-per member. So +3 Soak on one man reduces every blow that lands on the whole group:
+**He is the vanguard, so it goes on him.** A group's Soak *is* the vanguard's Soak — *"the
+defending group's Soak (which is equal to the vanguard's Soak)"* — and an attacking group inflicts
+its damage once per member. So the spell on one man, himself, reduces every blow that lands on the
+whole group:
 
-| Vanguard's Soak | Wounds the group takes per round | Damage getting through |
+| Group Soak | Wounds the group takes per round | Damage getting through |
 |---|---:|---:|
-| 7, unbuffed | 1.81 | 8.87 |
-| 10, with *Hardened Flesh* | **0.94** | **4.37** |
+| 7 — a grog in front | 1.81 | 8.87 |
+| **14 — Aldric in front, unbuffed** | **0.30** | **1.79** |
+| **17 — Aldric with *Hardened Flesh*** | **0.16** | **1.05** |
 
-Over a five-round melee that is **about four and a half wounds prevented across a group of four**,
-for one casting and one Fatigue level. It is the most valuable thing he does in a fight, and by
-some distance.
+Standing in front is worth more than the spell is; the spell then halves what is left, for one
+casting and one Fatigue level. Self-casting is available by the troupe's ruling, so Touch range is
+no obstacle.
 
-On Aldric himself it is nearly wasted — Soak 14 to 17 moves his chance of being wounded from 3.8%
-to 2.3%. Tough already did that job. Cast it outward.
+Note what this does **not** do. Cast on a grog it protects that grog alone and leaves the group's
+Soak at Aldric's 14 regardless, so with him in front there is rarely a reason to point it anywhere
+else.
 
 # Combat
 

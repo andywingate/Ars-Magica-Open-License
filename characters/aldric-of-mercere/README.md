@@ -68,6 +68,7 @@ to Riga.
 | Attack / Defense / Soak | +13 / +12 / **+14** |
 | Leadership | 4 — a trained group of four for up to +12 |
 | Medicine | Chirurgy 3, which stacks with his recovery magic for +12 to a wounded man |
+| Role in the line | **Vanguard** — the group fights on his Attack, Defense, Damage and Soak |
 | Cannot | Attack, ward, or reach anything with Magic Resistance. Affect more than one man per casting |
 
 ---
